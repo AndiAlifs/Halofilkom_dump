@@ -1,15 +1,15 @@
 ,topik,keywords
 0,pengajuan bantuan,pengajuan bantuan
 1,pencairan saldo ukt,pencairan saldo
-2,cek siam untuk tagihan,apabila besaran
-3,kriteria 50,adalah bagi
+2,cek siam untuk tagihan,melakukan pembayaran
+3,kriteria 50,tingkat akhir
 4,registrasi mahasiswa lama,registrasi mahasiswa
 5,jadwal bantuan,jadwal bantuan
 6,tata cara pembayaran,tata cara
-7,banding ukt mahasiswa,hingga saat
+7,banding ukt mahasiswa,silahkan menghubungi
 8,terlambat pengajuan bantuan,pengurangan ukt
 9,pencairan beasiswa kemendikbud,pencairan beasiswa
-10,tidak dapat upload berkas yudisium,atau lebih
+10,tidak dapat upload berkas yudisium,perkiraan tanggal
 11,bantuan ukt dan ukt kemendikbud ristek,kemendikbud ristek
 12,tahapan pendaftaran wisuda,tahapan pendaftaran
 13,cara daftar bantuan kemendikbud ristek,cara daftar
@@ -21,7 +21,7 @@
 19,pengajuan st dospem dan reward prestasi,reward prestasi
 20,kip kuliah,kip kuliah
 21,verifikasi skm,verifikasi skm
-22, nip khajur kps tif,nip khajur
+22,nip khajur kps tif,nip khajur
 23,rekomendasi magang mandiri dan mbkm,rekomendasi magang
 24,pengajuan st dosen pembimbing lomba,pendukung sbb
 25,rekomendasi magang dan mbkm,merdeka belajar
@@ -30,41 +30,41 @@
 28,surat pengantar penelitian skripsi,pengantar penelitian
 29,surat aktif kuliah,aktif kuliah
 30,perihal kehilangan transkrip nilai kuliah,nilai kuliah
-31,layanan,terimakasih telah
+31,layanan,menghubungi halo
 32,proposal skripsi di luar jadwal jtif,proposal skripsi
-33, peminjaman fasilitas lab,peminjaman fasilitas
+33,peminjaman fasilitas lab,peminjaman fasilitas
 34,konversi mk perpindahan prodi,perpindahan prodi
-35, foto yudisium sc218,terima kasih
-36, kontak hp daring kps tif  tekom,daring kps
+35,foto yudisium sc218,terima kasih
+36,kontak hp daring kps tif  tekom,daring kps
 37,pembatalan mk pkl skripsi,filkom apps
 38,syarat menempuh mk lintas prodi,lintas prodi
 39,perpindahan prodi akreditasi b ke a,sistem informasi
 40,perubahan judul skripsi filkom apps,filkom apps
-41,alur get nim mahasiswa filkom ub,nim dan
-42, prosedur buka blokir telat pembayaran  pengajuan validasi di luar jadwal,luar jadwal
+41,alur get nim mahasiswa filkom ub,gunakan nomor
+42,prosedur buka blokir telat pembayaran  pengajuan validasi di luar jadwal,luar jadwal
 43,penambahan sks melebihi batas maksimum mk dari ip beban jtif,kaprodi tif
-44,validasi dosen pa pada krs siam mahasiswa masih dalam jadwal,dalam jadwal
-45,proses sertifikasi it belum ada jawaban,ada jawaban
+44,validasi dosen pa pada krs siam mahasiswa masih dalam jadwal,"halo filkom,mk"
+45,proses sertifikasi it belum ada jawaban,proses sertifikasi
 46,prasyarat perpindahan stream keminatan,prasyarat perpindahan
 47,pengajuan proposal skripsi di luar jadwal jtif,jadwal jtif
 48,dosen pembimbing ujian skripsi tidak hadir salah satu,ujian skripsi
 49,pengajuan praproposal terkendala,pengajuan praproposal
-50, tombol revisi proposal skripsi pada filkom apps,filkom apps
+50,tombol revisi proposal skripsi pada filkom apps,filkom apps
 51,kuota paket data,paket data
 52,skl  transkrip,untuk transkrip
-53,transkrip final validasi rektor dan dekan,rektor dan
-54,sertifikasi it,yang disediakan
+53,transkrip final validasi rektor dan dekan,transkrip final
+54,sertifikasi it,menghubungi halo
 55,pengambilan ijazah non prosesi,selamat pagi
 56,pengajuan transkrip keperluan beasiswa mhs do semhas validasi kps dll,selamat pagi
 57,pengajuan transkrip validasi kps  jtif,span style
 58,layanan ruang baca filkom ub,ruang baca
-59, turnitin prasyarat sd melihat hasil turnitin,terimakasih telah
+59,turnitin prasyarat sd melihat hasil turnitin,https
 60,transkrip legalisir,transkrip legalisir
 61,persyaratan semhas  ujian skripsi filkom,ujian skripsi
 62,ujian khusus filkom ub,khusus filkom
-63,tidak bisa masuk link uas,kapan pun
+63,tidak bisa masuk link uas,akun google
 64,foto yudisium,filkom apps
-65, turnitin,https
+65,turnitin,https
 66,pengambilan ktm,pengambilan ktm
 67,pengambilan ktm,mahasiswa angkatan
 68,crisis centre uas filkom 20211,crisis centre
@@ -72,18 +72,18 @@
 70,pembayaran diluar jadwal registrasi,diluar jadwal
 71,surat rekomendasi beasiswa,surat keterangan
 72,bebas pustaka ub,bebas pustaka
-73,  batas akhir pendaftaran semhas ujian skripsi,filkom apps
-74, bebas tanggungan laboratorium filkom ub,laboratorium filkom
-75,form pasca ujian skripsi,hari ini
-76,  pkl  mbkm,terlebih dahulu
-77,yudisium,saat ini
+73,batas akhir pendaftaran semhas ujian skripsi,filkom apps
+74,bebas tanggungan laboratorium filkom ub,laboratorium filkom
+75,form pasca ujian skripsi,majlis penguji
+76,pkl  mbkm,mahasiswa semester
+77,yudisium,maksimal tanggal
 78,pendaftaran yudisium filkom ub,pendaftaran yudisium
 79,toefl,link berikut
-80,permasalahan sibaku,terkait dengan
+80,permasalahan sibaku,silahkan sampaikan
 81,perkuliahan hybrid,pendataan fakultas
-82,mahasiswa kritis sudah ujian  status do,pada smt
-83,ukt mhs ujian skripsi belum yudisium selain kritis,belum mendaftar
-84, link data uji,biasanya pada
+82,mahasiswa kritis sudah ujian  status do,mahasiswa kritis
+83,ukt mhs ujian skripsi belum yudisium selain kritis,mendaftar yudisium
+84,link data uji,data uji
 85,batas sks beban mhs,figure
 86,batas konversi nilai ke huruf,figure
 87,bantuan ukt,pengurangan ukt
@@ -97,29 +97,29 @@
 95,ijazah,target
 96,legalisir ijazah,legalisir ijazah
 97,list dosen minat skripsi,true terimakasih
-98, legalisir khs dll dtif,dll dtif
+98,legalisir khs dll dtif,dll dtif
 99,pin,lulusan mulai
-100,tidak bisa mengikuti perkuliahan luring hybrid,tidak bisa
-101,layanan,terimakasih telah
+100,tidak bisa mengikuti perkuliahan luring hybrid,luring hybrid
+101,layanan,menghubungi halo
 102,status wisuda belum valid,terima kasih
 103,peminjaman ijazah,peminjaman ijazah
-104,  perubahan judul skripsi,judul skripsi
-105,tidak bisa mengikuti uas luring dan terpadu,bisa mengikuti
-106,skl dan transkrip sementara,terimakasih telah
+104,perubahan judul skripsi,judul skripsi
+105,tidak bisa mengikuti uas luring dan terpadu,mengikuti uas
+106,skl dan transkrip sementara,halo filkom
 107,revisi skripsi,ketua departemen
 108,kip k,tautan berikut
-109,layanan,berikut kami
-110, edaran skripsi,file
+109,layanan,https
+110,edaran skripsi,file
 111,pengajuan nilai praktikum,web terimakasih
-112, kkn 2020,tata tertib
+112,kkn 2020,tata tertib
 113,pendaftaran seminar hasil ujian skripsi filkom ub,ujian skripsi
-114,nilai pkm  kkn,pada semester
+114,nilai pkm  kkn,wa'alaikumussalam sekedar
 115,psik  permasalahan telah diproses tiket ditutup,psik permasalahan
 116,nilai mbkm belum keluar 20212,"selamat pagi,bagi"
-117,perpanjangan skripsi,mahasiswa yang
+117,perpanjangan skripsi,menyelesaikan progres
 118,perpanjangan masa studi filkom 2022 2023 ganjil,terima kasih
 119,alur pasca ujian skripsi,filkom apps
-120, mhs kritis ujian sblm 21072022 yudisium,tetap diwajibkan
-121,ujian skripsi 20212  pendaftaran yudisium non kritis 20212 20221,terima kasih
-122, templates dtif,skripsi dll
+120,mhs kritis ujian sblm 21072022 yudisium,tetap diwajibkan
+121,ujian skripsi 20212  pendaftaran yudisium non kritis 20212 20221,help topic
+122,templates dtif,skripsi dll
 123,validasi wisuda  jurnal toefl ti,mohon mahasiswa
