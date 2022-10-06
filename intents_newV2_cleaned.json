@@ -1,0 +1,697 @@
+{
+    "intents": [
+        {
+            "tag": "keuangan - cek siam untuk tagihan",
+            "patterns": [
+                "kepada yth pimpin fakultas ilmu komputer universitas brawijaya di saya mohon bantu bayar uang ukt ganjil 2021 2022 angsur biaya iur kembang institusi ipi akademik 2021 2022 selesai ini hal sebab kondisi uang orang tua dampak covid reda sebab sumber hasil ikut lampir jelas bayar surat mohon",
+                "yth wakil dekan ii bidang uang dengan hormat yang tera nama cp di masdar agdeli rizqy alfathi nim smt 205150707111029 semester 3 tiga program studi teknologi informasi aju mohon ringan spfp ukt spp smt 3 tiga rp 28.000 000 dengan alas 1 anggota keluarga ibu rawat rumah sakit bulan mei 2 keluarga kena covid sehingga wajib bayar semester angsur tagih semester rp 28.000 000 diangsur i rp 14.000 000 sehingga tagihan sisa rp 14.000 000 demikian mohon kami kena bapak ibu ucap terima kasih hormat kami mohon dhimas di deli r a orangtua wali siti elik setiorini",
+                "jakarta 05 agustus 2021 kepada yth bapak wakil dekan bidang uang di tempat dengan hormat kait surat mohon aju angsur biaya ipi yang kirim via email filkom uang ub ac id sesuai arah info pihak filkom tanggal 3 agustus 2021 sampai balas respon dari universitas maka kirim berkas lampir tindak lanjut demikian sampai tunggu kabar universitas atas kerjasama ucap terima kasih hormat kami turiyah orang tua wali",
+                "assalamualaikum wr wb selamat siang sini perihal uang kuliah tunggal bayar lewat bayar semester ini uang keluarga kami masalah bayar sesuai besaran nominal ukt siam semester ini bijak masalah bayar ukt lambat atau bijak angsur nominal tagih bank sekarang terimakasih waktu kurang lebih mohon maaf wassalamualaikum wr wb",
+                "jakarta 05 agustus 2021 kepada yth bapak wakil dekan bidang uang di tempat dengan hormat kait surat mohon aju angsur biaya ipi yang kirim via email filkom uang ub ac id sesuai arah info pihak filkom tanggal 3 agustus 2021 sampai balas respon dari universitas maka kirim berkas lampir tindak lanjut demikian sampai tunggu kabar universitas atas kerjasama ucap terima kasih hormat kami turiyah orang tua wali",
+                "assalamualaikum selamat siang mohon maaf ganggu waktu kenal ahmad fariduddin mahasiswa filkom pti angkat 2017 permisi izin angsur ukt ulang angsur sibaku tolak acc saya semester sanggup bayar total tagih sesuai siam saya bayar 50 total tagih ayah sakit terima kasih perhati mohon maaf salah kata",
+                "saya bayar ukt uang gedung angsur depan mohon maaf orang tua dampak pandemi saya selesai bayar",
+                "akan aku mohon bayar ukt dgn angsur semester 5 2021 kondisi uang minim dampak pandemi covid-19 dengan hormat harap mohon tuju atas perhati ucap terimakasih",
+                "bisa aju cicil bayar uang kuliah semester",
+                "selamat siang razan prodi teknologi informasi ingin konfirmasi kait bantu ukt kurang turun ukt aju siam",
+                "assalammualaikum selamat pagi mohon maaf nama abdul aziz prodi magister ilmu komputer angkat 2019 semester akhir sini kendala bayar ukt lambat bayar tanggal 12 agustus 2021 saya baru bayar ukt tanggal 17 agustus 2021 demikian kendala alami mohon bantu mohon maaf terima kasih",
+                "selamat pagi nur alif firmansyah prodi didik teknologi informasi aju angsur ukt tanggal 9 aju angsur bayar ukt nominal rp 5.075 000 ubah kembali uang pakai orang tua butuh hari",
+                "saya aju banding ukt umum em ub maka mohon ukt angsur kondisi uang buruk terimakasih",
+                "saya bayar ukt uang gedung angsur depan mohon maaf orang tua dampak pandemi saya selesai bayar",
+                "saya bayar ukt uang gedung angsur depan mohon maaf orang tua dampak pandemi saya selesai bayar"
+            ],
+            "responses": [
+                "Update Tagihan pada SIAM sdra, apabila Besaran Nominal sudah sesuai Pengajuan sdra silahkan segera melakukan Pembayaran"
+            ]
+        },
+        {
+            "tag": "Keuangan - Kriteria 50%",
+            "patterns": [
+                "assalamualaikum pak rohimatus sholihah prodi ti 2019 semester ambil mata kuliah skripsi saja saya kait biaya ukt sesuai informasi ini apakah ambil 6 sks ukt kena potong maksimal 50 persen tapi siam tagih ukt penuh kemudian kajur kait potong aju uang proses mohon informasi kait prosedur aju potong ukt sebut terima kasih pak link https timeline line me post dw6jznyxfkdft8lggdbsb48vluubfp ai i25ko 1162712844108043381https timeline line me post dw6jznyxfkdft8lggdbsb48vluubfp ai i25ko 1162712844108043381",
+                "tagih siam ganda harus 6 800 000 13 juta lebih mohon bantu mahasiswa jalur sap semester 6 tempuh skripsi bantu potong ukt 50",
+                "selamat pagi pak bu saya ringan ukt mahasiswa semester 9 syarat khusus tentu aku dapat karena semester baca sk isi dapat sesuai tentu lampir terima kasih",
+                "assalamualaikum pak elfa fatimah prodi ti 2019 semester ambil mata kuliah skripsi saja saya kait biaya ukt sesuai informasi ini apakah ambil 6 sks ukt kena potong maksimal 50 persen tapi siam tagih ukt penuh kemudian kajur kait potong aju uang proses mohon informasi kait prosedur aju potong ukt sebut terimakasih",
+                "selamat pagi kenal riesma rahman nia nim 145150200111041 prodi teknik informatika saya ukt potong 50 itu emang bagaimana terima kasih",
+                "saya bayar ukt teller bank tagih keluar cek siam tagih sepet gambar rujuk gambar arti bayar ukt figure cid 7z0yt1viibbi dw4ib83gnp36sv0vwdu data-image 7z0yt1viibbi dw4ib83gnp36sv0vwduimage figure",
+                "selamat sore saya nur wahyu ningtyas nim 145150201111018 saya mata kuliah krs status tidak daftar tagih bank rp 0 - mohon informasi terima kasih",
+                "selamat siang bapak ibu yang belum maaf ganggu waktu saya amrta ageng mahasiswa jurusan sistem informasi universitas brawijaya ijin perihal tagih ukt siam kemaren lusa bayar krs semester ini tetapi lihat siam register total tagih muncul ya itu ya pak ibu mohon arah informasi terima kasih",
+                "selamat siang bapak ibu yang belum maaf ganggu waktu saya alim muhammad mahasiswa jurusan sistem informasi universitas brawijaya saya izin perihal tagih ukt siam kemarin lusa bayar isi krs siam hari register total tagih lagi ya pak bu mohon arah informasi ya terimakasih",
+                "assalamualaikum wr wb span style font-size 1em perkenalkan dwiki ansharullah mahasiswa filkom sap program studi teknik informatika nim 175150209111026 span span style font-size 1em status akun siam ubah menjadi tidak daftar pagi ini dan tagih halaman registrasi siam muncul siang ini span span style font-size 1em berdasarkan informasi dapat bantu ukt kemendikbud mahasiswa program sarjana semester 9 atas potong 50 sesuai permendikbud nomor 25 2020 namun tagih siam 100 rp 5 575 000 00 ya karena bayar mohon tanggap terima kasih perhati span span style font-size 1em wassalamualaikum span",
+                "assalamualaikum elfa fatimah sap ti 2019 bantu ukt kemendikbud untuk bantu kemendikbud laksana potong ukt ya pak ibu karena tgl 17 bayar ukt mohon informasi terimakasih",
+                "assalamualaikum wr wb mahasiswa teknik komputer angkat 2013 perihal lambat bayar ukt status siam daftar tagih ukt kurang 50 bayar ukt laku kurang ukt 50 dapat butuh kurang ukt 50",
+                "assalamualaikum wr wb selamat pagi bapak ibu helena eka suryati mahasiswi sap 2017 saya perihal potong ukt 50 ya aku potong otomatis karena semester ambil 6 sks skripsi terimakasih",
+                "mohon izin tentu bayar ukt 50 mahasiswa akhir dapat terang hak - mahasiswa s1 semester 9 sembilan - sudah tempuh 138 sks - ambil mata kuliah 6 enam satu kredit semester saya izin tanya tiga kondisi penuh salah kondisi sebut terima kasih",
+                "assalamualaikum wr wb selamat sore yogi finanda angkat 2014 perihal potong ukt 50 terinput sisa saldo semester 2021 genap terima kasih wassalamualaikum wr wb",
+                "dear bapak ibu bagi administrasi universitas brawijaya dengan hormat sesuai subject mana tentu ukt maksimal 50 mahasiswa semester akhir proses prosedur bayar saat anak nama farras nabil no mahasiswa 185150307111002 mahasiswa fakultas ilmu komputer semester 8 mana semenjak semester 7 semester akhir sudan penuh tentu dengan ambil sks 139 semester 6 semester 7 kemarin anak keringat ukt 50 penuh syarat mana saya banding teman anak ugm mana otomatis ringan ukt orang tua nya dahulu dan demik ringan ukt ingat perihal atas mohon diberitahukan prosedur ringan bayar ukt sampai 50 wajib waktu kami ucap terima kasih perhati tunggu kabar administrasi universitas brawijaya salam hormat",
+                "halo selamat siang perihal ukt semester genap semester kemarin ukt potong 50 semester potong 50 ya pak bu terimakasih",
+                "permisi bayar ukt internet banking bri gagal muncul nomor rekening salah padahal ikut langkah pandiang bayar bri ub lalu siam kolom tagihan bank tagih semester tampil total beda bayar sesuai kolom ya lalu solusi rekening salah ya coba berkali2 sama terima kasih belum",
+                "selamat pagi izin angsur ukt semester semester terima kasih",
+                "selamat pagi saya kait ringan ukt mahasiswa status selesai uji tahap selesai dokumen daftar yudisium apakah aju ringan penghapusan turun kelompok ukt karena tagih berat saya mohon bantu arah masalah sebut terima kasih",
+                "izin bu beasiswa kemendikbud terima beasiswa kemendikbud semester ganjil semester beasiswa kemendikbud ya bu",
+                "saya mahasiswa semester 10 sisa skripsi ambil tetapi tagih ukt tera tagih penuh danbelum terima bantu potong 50 mahasiswa ambil skripsi 6 sks saja saya mohon bantu bayar ukt bantu penuh bayar ukt",
+                "assalamualaikum warahmatullahi wabarakatuh saya muhammad gian abraham danialdo jurus teknik informatika 2015 saya tagih bayar semester ini pada semester lalu cantum bayar kategori 5 rp 3.750 000 saya teman bayar semester potong tengah bayar sesuai sistem rp 3.750 000 ikut kuliah biasa namun malam periksa tagih semester ini tagih rp 7.500 000 rp 3.750 000 semester kemarin bayar sesuai sistem saya periksa tagih bayar sesuai mengapa semester kemarin tagih potong ikut kuliah mohon bantu tagih semester kemarin tambah tagih semester ini bawah lampir screenshot tagih semester kemarin tagih semester ini bukti bayar semester kemarin terimakasih wassalamualaikum warahmatullahi wabarakatuh",
+                "selamat siang pak bu belum kenal muhammad nouval normansyah 175150600111029 pti angkat 2017 ada kait ukt mahasiswa terima bidikmisi terima bantu bidikmisi 8 semester ukt semester 9 kemarin tera 1 200 000 bayar tera untuk ukt semester 10 tera 2 400 000 ya pak bu mohon bantu jelas pak bu",
+                "selamat pagi saya ukt semester genap angkat 2015 laku potong 50 terima kasih",
+                "permisi halo filkom tanya ukt bayar uji skripsi bagaimana prosedur laku bayar ukt",
+                "halo selamat sore saya laksana sidang januari proses daftar yudisium saya aju bebas ukt sibaku status siam aktif serta tagih 0 kemarin tanggal 2 namun ini bayar ukt full apakah potong ukt 50 yg sidang yudisium terima kasih banyak",
+                "assalamualaikum saya wahyu rizki ananta karena sehat lambat proses daftar ulang saya prosedur mengurus lambat daftar ulang bayar ukt krs ingat semester semester smt 14 mohon bantu terimakasih",
+                "assalamualaikum wr wb selamat siang pak bu mohon maaf ganggu saya aditya bambang ardiansyah nim 145150201111061 perihal status siam ubah ini dari drop out daftar mengajukan permohonan angsur ukt kait tagih siam saya mohon bantu terima kasih",
+                "mohon maaf telat bayar ukt alas baru tanggal 4 febuari uang mohon buka akses bayar ukt terimakasih",
+                "permisi mohon maaf ganggu saya tunda angsur ukt bagaimana urus bisa mohon maaf karena bayar ukt",
+                "saya lambat deadline bayar ukt apakah susul atau solusi semester 14 terimakasih",
+                "kenal aisyah si angkat 2017 saya lapor kait ukt ubah semester 1 belum oleh bidikmisi semester 2 semester 1 ukt nila 1 juta rupiah ikut screenshot tagih ukt semester 1 figure cid m3dvfnfjteis0m3hvf9r-pz1zvsydl4k data-image m3dvfnfjteis0m3hvf9r-pz1zvsydl4kimage figure lalu kontrak bidikmisi selesai ukt semester 9 1 2 juta rupiah ukt benar awal saja bayar 1 2 juta rupiah ikut screenshot tagih ukt semester 9 figure cid gzndavxb-f3y2lhhfzsg8t 1aebj9glu data-image gzndavxb-f3y2lhhfzsg8t 1aebj9gluimage figure telah itu semester 10 tagih 2 4 juta rupiah yang nilai 2 kali lipat ukt awal padahal edar kait kurang ukt mahasiswa daftar yudisium semester sebut ikut screenshot tagih ukt semester 10 figure cid c9zbtk8f0haauke1unok9pbgayegh4gc data-image c9zbtk8f0haauke1unok9pbgayegh4gcimage figure di semester 9 selesai skripsi sidang lalu semester 10 ambil matkul skripsi syarat aktif daftar yudisium ikut screenshot bukti selesai skripsi daftar yudisium filkomapps figure cid gsmqbynit7qmddr11g7ypjucc6u mile data-image gsmqbynit7qmddr11g7ypjucc6u mileimage figure tolong cek kait tagih ukt saya bayar daftar yudisium terima kasih",
+                "mahasiswa si 2013 kemarin selesai urus terminal mundur akademik status siam tidak daftar aju buka akses untuk melakukan registrasi akademik",
+                "assalamualaikum wr wb saya daftar yudisium namun semester entry mata kuliah skripsi krs status siam tidak daftar saya izin untuk mengajukan pembukaan akses bayar siam agar lanjut proses daftar yudisium ini mohon maaf kurang terima kasih",
+                "kena masalah ukt 50 turut informasi kalo ambil 6 sks semester potong sebesar 50 tapi kemarin bayar 100 semester ambil skripsi sks nya 6 sidang untuk prosedur ambil dana ukt gimana terimakasih",
+                "assalamualaikum wr wb risda nur ainun nim 155150201111261 mahasiswa teknik informatika saya ringan kait bayar ukt saya terima kasih belum",
+                "syarat tentu lampir penuh kurang 50 ukt",
+                "syarat tentu lampir penuh kurang 50",
+                "assalamualaikum warahmatullahi wabarakatuh selamat siang kenal raka ega bhagaskara mahasiswa fakultas ilmu komputer nim 175150207111024 saya perihal ukt untuk mahasiswa semester 9 atas ambil 6 sks potong 50 kemudian 50 angsur lalu angsur mana aju angsur sebut terima kasih perhati",
+                "selamat pagi pak bu maaf ganggu bapak ibu saya karmia mahasiswa informatika 2015 aktif status mahasiswa saya telah kaprodi beliau saran bayar ukt aktif status mahasiswa saya bu ringan ukt semester bu sidang skripsi bu tinggal laksana yudisium terima kasih bu",
+                "permisi pak bu saya bayar tanggung ukt proses yudisium bisa bagaimana ya pak bu",
+                "selamat pagi izin kait data kurang ukt semester 9-10 akhir alur ya terimakasih",
+                "assalamualaikum selamat pagi kurniawan setya pradana mahasiswa filkom 2015 perihal registrasi siam dan siam tera saldo negatif 4.250 000 total tagih semester tera 4 250 000 semester bayar tagih status mahasiswa aktif alas tulis ya terima kasih",
+                "mohon maaf tagih kemarin lunas tagih 50 nya siam sama besok ambil 6 semester potong",
+                "jadi kemarin sidang tanggal 19 kalo revisi keluar tgl 21 salah mhs group skripsi jtif saran ikut case smt lalu mahasiswa aju bantu uang tagih ukt smt dpannya 0 filkom advokesma abar resmi kait ini jadi mekanisme nya gmn y bu ukt 0 d smt dpan figure cid hpx9zyxoz-hpns0wiynquphiqb0jjerw data-image hpx9zyxoz-hpns0wiynquphiqb0jjerwimage figure",
+                "untuk mahasiswa atas semester 8 9 seterusnya-semester tua lanjut studi semester ambil mata kuliah skripsi ringan biaya ukt",
+                "semester 8 dan sidang skripsi tahap p2 semhas sidang untuk bayar ukt semester 9 langsung potong 50 rang daftar bantu ukt"
+            ],
+            "responses": [
+                "Kriteria yang mendapat bantuan 50% adalah bagi Mahasiswa S1 dan D4 tingkat akhir yang berada pada Semester 9 (Sembilan) dan Seterusnya yang sudah menempuh sekurang - kurangnya 138 SKS serta mengambil mata kuliah kurang dari atau sama dengan 6 (enam) SKS. Berikut merupakan Ketentuan kriteria yang menjadi kesatuan (dimana Semester 9, minimal 138 sks, dan program Skripsi), bukan hanya salah satu kriteria yang dapat dipenuhi untuk mendapat Bantuan tsb."
+            ]
+        },
+        {
+            "tag": "Registrasi Mahasiswa Lama",
+            "patterns": [
+                "permisi menanyakan kurang ukt di siam status tuju malam buka status tolak solusi gimana pak"
+            ],
+            "responses": [
+                "Berikut kami informasikan Registrasi Mahasiswa Lama dapat dilihat https://ub.ac.id/id/pengumuman-registrasi-mahasiswa-lama-universitas-awijaya-semester-ganjil-2021-2022-program-diploma-sarjana-dan-pascasarjana/disini "
+            ]
+        },
+        {
+            "tag": "Keuangan : Tata Cara Pembayaran",
+            "patterns": [
+                "bayar ukt gagal",
+                "selamat pagi pada senin kemarin bayar kuliah atm bca proses gagal nomor valid apakah bayar bca laku terima kasih",
+                "apakah bantu ringan ukt bayar cicil terima kasih",
+                "selamat siang kenal nama muh mas adiyatma fakultas ilmu komputer program studi teknologi informasi tanya jika angsur dahulu atau link website tata angsur terimakasih",
+                "untukpembayaran ukt lihat tata carapembayaran bank nomor tagih untuk nomor tagih cara yg nim mahasiswa apakah nomor tagih nim mahasiswa terimakasih",
+                "selamat sore saya alami kendala bayar ukt atm bca saya alur bayar tera laman https selma ub ac id wp-content uploads 2018 12 bca-tata-cara-pembayaran-uang-kuliah-universitas-brawijaya-melalui-bank-bca pdfhttps selma ub ac id wp-content uploads 2018 12 bca-tata-cara-pembayaran-uang-kuliah-universitas-brawijaya-melalui-bank-bca pdf namun masuk nim terang lampir gambar link https drive google com file d 1v9utvxpbjrqgzmzkexkxwwpsxrrbcfxv view usp sharinghttps drive google com file d 1v9utvxpbjrqgzmzkexkxwwpsxrrbcfxv view usp sharing https drive google com file d 1v3wci3zecg d9c6elrlkh0crp3es6ffq view usp sharinghttps drive google com file d 1v3wci3zecg d9c6elrlkh0crp3es6ffq view usp sharing https drive google com file d 1v33-aoqc77-u5os93pe0r5iwxuakjyul view usp sharinghttps drive google com file d 1v33-aoqc77-u5os93pe0r5iwxuakjyul view usp sharing dari tiga gambar coba 3 mesin atm beda lokasi apakah laku atas perhati terima kasih",
+                "selamat pagi hanifah rahmajati nim 215150700111049 prodi teknologi informasi perihal bayar cicil ukt jadi kemarin aku bantu aku turun golong ukt terima cicil ukt jadwal bayar pasti saya bayar cicil ke-2 jumat besok akun bayar aktif bayar terima kasih",
+                "bagaimana nomor billing bayar ukt bni mobile banking",
+                "halo selamat pagi admin konfirmasi bayar uang ipi tanggal 30 september 2021 mekanisme bayar nya admin untuk uang bayar yg tiga gabung tanggal 30 september terimakasih figure cid ow ewob7dghyjfaeyzn04rugexb2yzos data-image ow ewob7dghyjfaeyzn04rugexb2yzosimage figure",
+                "assalamualaikum warahmatullah wabarakatuh selamat sore bapak ibu saya mahasiswa sistem informasi filkom ub 2021 rincian data diri nama daarusy gian no daftar 15000073 jalur masuk sap seleksi alih program filkom ub universitas asal universitas brawijaya prodi asal teknologi informasi bidang minat asal d3 sistem informasi email daarusygian gmail com no hp 081299424639 mohon izin kirim surat mohon angsur ukt amp spfp demikian surat sampai terima kasih perhati erti bapak ibu wassalamualaikum warahmatullah wabarakatuh",
+                "halo admin khrisna shane budy prakoso nim 215150307111041 prodi teknik komputer info bayar angsur spi apakah buka akses bayar nya ini bayar nya rp 20 000 000 terimakasih",
+                "untuk bayar mandiri pilih",
+                "assalamualaikum selamat pagi bapak ibu attarik ramadhan abdullah nim 205150407111015 prodi sistem informasi angkat 2020 izin tanya kemarin aju angsur 3 kali bayar ukt update lagi cek siam tagih full diupdate angsur 3 kali bayar ukt e banking outputnya blokir bayar ya bapak ibu mohon bantu bapak ibu terima kasih banyak",
+                "kak saya bayar ukt angsur ke-2 18 juta bayar ya kak",
+                "izin tanya ukt angsur bayar konfirmasi bayar ya",
+                "mohon buka rekening lunas cicil ukt 4 250.000 nama steven rahardjo nim 205150407111045 prodi sistem informasi",
+                "selamat siang izin tanya jadi bayar angsur ukt jalur mandiri ini 10 november 2021 nominal rp10 000 000 untuk bayar ya karena coba bisa terima kasih",
+                "bagaimana prosedur bayar tagih ukt bank",
+                "saya bayar ukt dua coba bayar atm teller bank buka universitas terima kasih",
+                "saya sisa angsur ukt semester ya ikut detail nama winda putri hapsari nim 185150401111033 terimakasih",
+                "saya sekar ria amanda angkat 2021 program studi sistem informasi saya bayar angsur ukt cara konfirmasiuntuk ting jadwal bayar sistem bayar konfirmasi siapa terimakasih mohon bantu",
+                "saya izhar dien haqque prodi sistem informasi bayar cicil sapi suruh menggunakan no billing tau mana no billing tsb coba bayar no billing cicil bisa mohon bantu terima kasih",
+                "selamat pagi bapak ibu saya revaldo gemini santana sagala jurus teknik informatika izin tanya saya bayar sisa tagih ukt saya tetapi temu nomor tagih saya nomor tagih mana ya bu terimakasih",
+                "permisi bapak lunas angsur ipi tiga tata caranya ya",
+                "siang kenal muhammad khadafi radja rihan nim 215150409111023 bayar sisa angsur spfp demikian perhati ucap terima kasih salam",
+                "selamat siang pak buk saya ghaitsa tiara dianti nim 215150407111066 fakultas ilmu komputer jurusan sistem informasi perihal angsur ipi kemarin terima jalur mandiri aju bantu uang angsur ipi saya perihal bayar angsur ipi untuk bayar angsur rekening bayar kemarin beda terimakasih pak buk",
+                "selamat pagi bapak ibu saya revaldo gemino kantana sagala prodi teknik informatika izin tanya saya bayar sisa tagih ukt saya tetapi temu nomor tagih saya nomor tagih mana ya pak terimakasih",
+                "selamat sore min nanya bayar angsur ukt 3 akhir ya min",
+                "halo kak tolong buka akses kait bayar angsur kak terimakasih",
+                "ingin bayar sisa angsuran ukt atm nim 155150200111322",
+                "permisi selamat sore saya dan wahyu rizqullah nim 215150300111051 ingin mengajukan buka bayar ukt terima kasih",
+                "permisi muhammad bustan al harvi baihaqi mahasiswa teknologi informasi mohon maaf belum saya bayar angsur ukt hingga batas kendala rumah mungkin minggu bayar apakah kenan ikut uas rabu jumat tanggal 8 10 desember jika tidak lunas ukt ikut uas dan bayar jadwal sebut uas susul dan bagaimana proses uas susul sebut sekian saya mohon maaf ganggu terima kasih",
+                "terima kasih hubung crisis center ukt filkom sila bantu harap isi data nama fadhil widhi prasetyo nim 205150607111013 prodi didik teknologi informasi tanya penting saya bayar sisa cicil tagih ukt rp 100 000 milik kendala bayar bank mandiri itera tulis transaksi gagal terima kasih",
+                "selamat pagi saya mohon bantuannya untuk buka blokir sisa ukt 3 412 500 ikut proses seminar hasil sidang skripsi terima kasih",
+                "mohon proses bayar ukt buka akses filkom",
+                "selamat siang bapak ibu bayar angsur ipi langsung transfer rekening tentu",
+                "ini tagih angsur ukt di semester bayar tunggu semester depan bayar coba bayar via teller mandiri ya terima kasih",
+                "tagih ukt semester 2021 ganjil otomatis potong 50 dasar surat edar ringan ukt mahasiswa tingkat lampir bayar cek tagih ukt figure cid j-9n5vgbwzrdu1ulfptthw2p4sqicngu data-image j-9n5vgbwzrdu1ulfptthw2p4sqicnguimage figure",
+                "saya daftar semua skripsi sesuai syarat bayar tagih siam sedang semester milik tagih 50 ukt bayar ukt jadi yaa",
+                "assalamualaikum warahmatullah wabarakatuh selamat sore bapak ibu saya mahasiswa sistem informasi filkom ub 2021 rincian data diri nama daarusy gian no daftar 15000073 jalur masuk sap seleksi alih program filkom ub universitas asal universitas brawijaya prodi asal teknologi informasi bidang minat asal d3 sistem informasi email daarusygian gmail com no hp 081299424639 mohon izin kirim surat mohon angsur ukt amp spfp demikian surat sampai terima kasih perhati erti bapak ibu wassalamualaikum warahmatullah wabarakatuh",
+                "selamat pagi mohon bantuan lunas tagih biaya semester 186150100111037 deny prasetia taruma wardhana jenjang fakultas s2 ilmu komputer jurusan ilmu komputer teknik informatika program studi ilmu komputer seleksi reguler brawijaya - malang figure cid nnkrdazapogqfsae25ipsqvxltzds87i data-image nnkrdazapogqfsae25ipsqvxltzds87iimage figure",
+                "lunas pencicilan ipi bagaimana",
+                "pagi bayar ukt atm tulisan transaksi gagal tagih lunas cek siam menu registrasi tagih semester bank",
+                "permisi mohon maaf belum tata bayar angsur ipi iur kembang institusi terima kasih",
+                "gagal bayar ukt atm bank bri ikut langkah2 buku pandu saat konfirmasi proses transfer gagal coba berulang kali",
+                "permisi bayar ukt internet banking bri gagal muncul nomor rekening salah padahal ikut langkah pandiang bayar bri ub lalu siam kolom tagihan bank tagih semester tampil total beda bayar sesuai kolom ya lalu solusi rekening salah ya coba berkali2 sama terima kasih belum",
+                "kode bayar bayar ukt pakai nim kah soal udah coba bayar pake kode nim gabisa",
+                "figure cid xmvgczldszdetqoxf2cd4prq4oz5pfgy data-image xmvgczldszdetqoxf2cd4prq4oz5pfgyimage figure",
+                "nama carel martin nim 215150300111046 selamat siang bayar ukt melalui teller bni tata bayar butuh no tagih universitas nim no tagih khusus",
+                "permisi bayar ukt bank syariah indonesia mobile banking tulis untuk transaksi layan ya",
+                "assalamualaikum wr wb saya andrei hansel zacharias mahasiswa prodi sistem informasi angkat 2021 nim 215150400111058 belum aju bantu uang bebas ukt platform sibaku mohon bebas ukt tolak bukti dukung mohon maaf aku mohon angsur bayar ukt bayar penuh tenggat tentu lampir surat mohon bayar angsur ukt wakil dekan ii mohon maaf salah terima kasih perhati wassalamualaikum wr wb",
+                "mohon izin sampai bayar ukt bank bri kendala atm teller apakah bayar bank bri batas bayar ukt tanggal 3 februari terimakasih belum",
+                "kode bayar bayar ukt mana",
+                "ukt transfer transfer ukt tanggal 31 januari",
+                "kami nama julaini ayah eiko farah diva julen aju bayar ukt bayar kontrol berat nominal wassalam julen julaini",
+                "selamat pagi bantu uang tuju status daftar bayar dahulu bayar rekening buka",
+                "assalamu alaikum wr wb yang hormat bapak ibu urus wakil dekan bidang uang saya orang tua atas nama m fadli alpharajasa nim 195150201111042 fak s1 ilmu komputer jur t informatika akan aku mohon bantu bayar ukt dan kurang angsur semester kondisi uang minim dampak pandemi covid-19 dan semester v surat terang tagih ukt syarat pinjam biaya didik usaha saya dengan hormat ucap terimakasih harap mohon tuju atas perhati ucap terimakasih wassalam achmad ghozali s t",
+                "halo aju tunda ukt lampir surat mohon screenshot tagih foto ktm terima kasih",
+                "aju tunda bayar ukt",
+                "assalamu alaikum wr wb mohon maaf irfan warsidi nim 165150201111177 aju bayar registrasi dikarenakan tutup bayar registrasi orang tua pensiun bayar mohon maaf mohon bantu terimakasih wassalamualaikum wr wb",
+                "assalamualaikum wr wb selamat siang saya rohimatus sholihah prodi teknologi informasi 2019 tunggakan spp spfp saya mahasiswa sap 2019 tinggal daftar yudisium tanggungan kait spp spfp hasil orangtua tentu kondisi uang sesuai tunggakan di filkom aju surat ringan kait tagih spp spfp saya ringan kait tagih pak bu uang kumpul sesuai tagih daftar yudisium semester ini mohon bantuanya pak bu terimakasih",
+                "selamat malam pak bu izin kait bayar ukt mohon maaf alami kendala keluarga sebab bayar ukt tunda sadar bayar ukt kemarin tanggal 3 februari mohon maaf lambat ini apakah bayar ukt laksana kuliah terimakasih pak bu",
+                "bagaimana ya pak bu tagih dgn total nominal segitu dan bayar sesuai dgn angsur tuju 500 000 ini status ubah daftar tidak daftar soal bayar habis 3 januari 2022 makanya mohon jelas lanjut pak bu",
+                "assalamualaikum wr wb izin bayar ukt mahasiswa sidang skripsi urus aju yudisium untuk bayar ukt bayar ya pak bu terima kasih mohon maaf salah kata wassalamualaikum wr wb",
+                "assalamualaikum warahmatullah wabarakatuh selamat siang bapak ibu mohon maaf milik tanggung biaya spfp lunas sepenuh ini saya bayar mengangsurnya sebesar rp10 000.000 00 bisa terima kasih",
+                "kemarin aku cicil ukt acc tanggal bayar cicil ukt ke-2 saya untuk bayar cicil ukt ke-2 langsung transfer ya terima kasih",
+                "selamat pagi ortu alexei andrei basiman 195150207111019 bayar cicil 2 anak mohon buka blokir nya terima kasih",
+                "selamat siang saya alami sulit bayar ukt tulis aplikasi transaksi proses bayar tanggal tera 28 februari bayar tanggal sebut terima kasih",
+                "assalamualaikum wr wb nama mush'ab safirul rasul santoso prodi teknik komputer mahasiswa bayar ukt kemarin ikut kuliah semester ini karena keluarga bayar ukt kemarin kondisi yg mampu bayar ukt kemarin aku di sibaku buka ortu bayar langsung ukt tanggal 3 kemarin takdir yg mampu bayar ukt karna tau kemarin bingung bagaimana karna nama daftar siam ortu bayar ukt maret mohon maaf repot kampus yg kontak saya mohon bantu halo filkom atas ini sungguh ini kuliah semester suruh ortu kuliah daring karna uang yg biaya butuh hidup malang mohon bantu",
+                "assalamu alaikum egy ihza madhani pti 2017 izin tanya saya daftar yudisium tanggal 21 februari 2022 filkom apps selesai sidang skripsi telah penuh syarat syarat pendaftaran yudisium pada siam status ubah daftar tagih belum akademik akademik mei entry krs melakukan bayar dahulu lanjut sistem bayar ya terimakasih mohon maaf salah",
+                "assalamualaikum wr wb selamat pagi maaf lambat cek spp bayar mohon bantu tugas akhir mohon bantu terimakasih wassalamualaikum wr wb",
+                "permisi auval marom mahasiswa teknologi informasi angkat 2021 nim 215150701111042 saya teknis bayar angsur ukt saya terimakasih",
+                "selamat sore saya itsar irsyada surga nim 215150300111050 izin buka rekening bayar angsur ukt terima kasih",
+                "mohon izin minta undur batas bayar ukt karena sama bayar tutup bank bayar ukt ini bayar bayar maret tanggal 7 mohon bantu kebijakan nya terimakasih",
+                "selamat pagi bapak ibu izin akses bayar angsur ukt tanggal 22 maret 2022 besar rp 2 500 000",
+                "selamat pagi ortu alexei andrei basiman 195150207111019 bayar lunas cicil anak mohon buka blokir nya terima kasih",
+                "span style font-size 1em keringanan baju turun golong aju kali namun acc ringan potong biaya span",
+                "saya aju bantu angsur ukt semester 8 angsur tgl 23 maret 2022 rekening kah beda karena angsuran bayar angsuran rekening bayar ukt buka ub nya",
+                "selamat sore ibu bapak hosea bayar angsur ukt juta ratus puluh ribu rupiah ibu bapak buka bayar ukt sebut belum terima kasih",
+                "permisi audhinata bebytama rizky tif 21 nim 215150207111064 bayar angsuran 10 juta ukt semester 2 ipa sesuai rencana aku saya transfer bank bca mohon rekening ya terima kasih",
+                "selamat siang kenal rakhmida gofriantina orangtua muhammad rifqi ramdhani nim 165150201111113 saya mohon bijaksana perihal tagih ukt anak siam ub bayar 50 rp 4.750 000 anak sidang skripsi tanggal 7 januari anak baju bebas ukt bagi uang tujuh tagih siam 0 telah revisi skripsi syarat lain2 selesai daftar yudisium tanggal 21 februari nyata upload data siam tagih ukt bayar dulu tadi pagi akademik jelas saran bagi uang halofil kom saya mohon bijaksana bagi uang bebas turun biaya ukt nya berat bayar ukt 50 semester 1 8 semester 10 patuh bayar ukt tinggi selain biaya adik kuliah unair harap mohon kabul",
+                "assalamualaikum wr wb permisi izin bayar ukt semester rp 3 000 000 terimakasih wassalamualaikum wr wb",
+                "selamat siang lidya ruth pricillia program studi teknik komputer nim 205150300111060 mohon buka akses bayar ukt angsur ke-3 rp 1 500 000 mohon maaf ganggu bapak ibu terimakasih",
+                "selamat siang lidya ruth pricillia program studi teknik komputer nim 205150300111060 mohon buka akses bayar ukt angsur ke-3 rp 1 500 000 mohon maaf ganggu bapak ibu terimakasih",
+                "assalamu alaikum wr wb selamat siang bapak ibu hormat saya izin konsultasi masalah ukt milik saya ayah tni ad perwira pegawai status pns dapat ayah potong bank aju pinjaman ternak ikan gurame bangkrut dampak pandemi covid-19 keluarga alami usaha surut usaha aju turun golong ukt rezeki terang tolak siam dapat orang tua kurang status ayah pns ukt golong tinggi dua orang tua milik 2 tanggung lain salah masuk sma ini jika boleh aku turun ukt diangsur ukt semester genap ini keluarga alami harap dapat saya mohon bantu bapak ibu masalah milik moga limpah rezeki selamat bapak ibu sekali terima kasih waalaikumsalam wr wb",
+                "assalamualaikum wr wb permisi bayar angsur ukt dua terimakasih wassalamualaikum wr wb",
+                "assalamualaikum wr wb permisi saya kenan bayar ukt rp 3 000 000 00 terimakasih wassalamualaikum wr wb",
+                "selamat siang semester 2 aju bantu uang angsur ukt 3 kali angsur tanggal tentu bayar tepat tanggal 1 april 2022 bayar bank teller bagaimana ya teller nya bilang buka",
+                "selamat siang mohon maaf belum pada bayar ukt semester genap mahasiswa angkat 2021 niat angsur isi data sibaku namun belum lengkap berkas perlu tetapi hal putus angsur data sibaku biar lengkap namun umum bantu uang tera siam bantu uang tuju apakah bayar ukt sesuai tagih angsuran langsung lunas",
+                "yth admin halo filkom saya arya saputra nim 185150400111017 prodi sistem informasi fakultas ilmu komputer universitas brawijaya dalam email tolong buka akses bayar ukt cicil ke 2 maaf ganggu terima kasih waktu",
+                "assalamualaikum selamat siang bapak ibu mohon maaf ganggu bapak salma nada safira sap-si 2021 nim 215150409111029 izin kait lunas biaya didik ipi 26 250 000 tanggal 7 mei 2022 orang tua bayar lunas sebut ya bayar tagih ipi sebut terima kasih nya bapak ibu",
+                "ingin bayar tagih ukt moho buka key bayar ukt terimakasih",
+                "dasar surat tagih universitas bayar ukt uang pangkal lambat tanggal 7 mei 2022 besar rp33 250 000 saya mohon aju panjang bayar tanggal 20 mei 2022 atas bantu ucap terima kasih",
+                "permisi ferry chaniago nim 205150300111061 prodi teknik komputer lunas bayar ukt semester 4 ini",
+                "saya lunas angsuran ukt saya tagih muncul bank bayar mohon bantu buka tagih angsuran ukt saya terima kasih",
+                "selamat siang pak bu nama isfan adheltyo nim 205150407111044 prodi sistem informasi kena bayar angsur ke-3 ukt semester 4 jatuh tempo tanggal 24 mei 2022 bayar kode bayar nim buka blokir nya terimakasih pak bu",
+                "halo selamat pagi admin muhammad alif al fattah - 215150409111038 ingin bayar cicil spp rp 2 500 000 terimakasih",
+                "mohon buka rekening lunas cicil ukt 4 250.000 nama steven rahardjo nim 205150407111045 prodi sistem informasi",
+                "p style user-select autopermisi tanya bayar anggsuran ukt kurang",
+                "selamat malam saya angsur ukt saya nama winda putri hapsari nim 185150401111033 bagaimana ya prosedur terimakasih",
+                "selamat pagi saya hani mahasiswa teknik informatika angkat 2020 kait bayar angsur coba bayar m-banking bni transaksi lanjut untuk itu tolong buka akun bayar bayar cepat terima kasih",
+                "saya bayar angsur ukt bni pesan error apakah tagih sistem error bni sekian terima kasih",
+                "saya sekar ria amanda nim 215150400111055 program studi sistem informasi saya bayar angsur ukt sebesar 2.750 000 mohon bantu untuk set sistem terimakasih",
+                "assalamu allaikum wr wb selamat siang saya afandi pti 15 mohon maaf bantu akses bayar tagih luar jadwal yanuar akademik pti syarat daftar semhas sidang kait bayar kah teknis terima kasih wassalamu allaikum",
+                "selamat siang bapak ibu uang filkom ub saya shafira bahas bayar ukt angsur tiga saya dasar informasi kemarin yg halofil kom yaitu untuk hubung bapak ibu uang filkom bayar angsur ukt maka saya tolong bapak ibu untuk buka sistem bayar ukt diangsur tiga rp 5 100 000 yg jatuh tempo tanggal 31 mei 2022 besok hal bayar angsur ukt ini terima kasih bapak ibu uang filkom ub perhati selamat siang",
+                "permisi ekmaldzaki royhan mahar beta adi sucipto nim 215150300111052 program studi teknik komputer angkat 2021 izin buka tiket tuju alami sulit penulasan angsur ukt uas semester genap 2021 2022 kendala ekonomi keluarga saya aju bantu uang angsur lebih batas semester genap 2021 2022 terima kasih",
+                "selamat siang bayar angsur ukt rp 3000 000 nama jasmine asyifania nim 215150201111049 mohon bantu terima kasih",
+                "assalamualaikum wr wb selamat siang belum mohon maaf mengganggu zidane ali basalamah nim 205150307111028 prodi teknik komputer saya alami kendala bayar ukt tutup sistem bayar ukt sekian terima kasih wassalamu alaikum wr wb terima kasih",
+                "saya lanjut bayar ukt angsur apakah informasi uang buka rekening terimakasih",
+                "buka akses bayar ukt susul hasil buka blokir siam periode 2021 ganjil 2021 genap"
+            ],
+            "responses": [
+                "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman https://selma.ub.ac.id/tata-cara-pembayaran/https://selma.ub.ac.id/tata-cara-pembayaran/"
+            ]
+        },
+        {
+            "tag": "Keuangan - Banding UKT Mahasiswa",
+            "patterns": [
+                "mohon maaf belum banding ukt tanggal 7 agustus kemarin umum hasil apabila mana akses",
+                "selamat siang izin ingin bertanya kemarin em sempet buka turun ukt lagi proses ya terima kasih",
+                "selamat siang banding bantu tunda ukt kemarin aku turun ukt tolak terima kasih"
+            ],
+            "responses": [
+                "Banding tersebut merupakan program dari KBMSI, hingga saat ini belum ada arahan dari Universitas dan Fakultas terkait banding UKT, silahkan menghubungi BEM Fakultas."
+            ]
+        },
+        {
+            "tag": "Keuangan - Pencairan Beasiswa Kemendikbud",
+            "patterns": [
+                "berdasarkan surat edaran rektor universitas brawijaya nomor 7078 un10 tu 2021 ringan uang kuliah tunggal bagi mahasiswa tingkat akhir cantum mahasiswa mengambil mata kuliah 6 sks berhak bayar ukt 50 semester ambil 6 sks skripsi daftar wisuda bayar ukt 100 apakah 50 bayar kembali bagaimana terimakasih"
+            ],
+            "responses": [
+                "Silahkan membuat surat dilampiri bukti bayar dan buku hal depan rek ybs dikirim ke tupusatub@gmail.com"
+            ]
+        },
+        {
+            "tag": "Keuangan : Tidak dapat upload Berkas Yudisium",
+            "patterns": [
+                "figure cid i5wpzhzc6jtxwo3lhd7rrhb8wza8sixs data-image i5wpzhzc6jtxwo3lhd7rrhb8wza8sixsimage figure assalamualaikum wr wb selamat pagi kenal nama andini ayu larasati pti 2017 mohon izin tanya siam menu yudisium wisuda terang gambar lampir ya bapak ibu saya halo filkom tanggal 4 lampir gambar jawab input data siam mohon bantu menginput data mohon maaf ganggu ucap terima kasih belum wassalamualaikum wr wb"
+            ],
+            "responses": [
+                "Proses upload menunggu penerbitan SK Yudisium dengan perkiraan tanggal 16 Agustus 2021 atau lebih, mohon update dalam SIAM"
+            ]
+        },
+        {
+            "tag": "Keuangan - Bantuan UKT dan UKT Kemendikbud Ristek",
+            "patterns": [
+                "selamat pagi izin tanya alur maju bantu ukt nila 2 4 juta kemendikbud ya",
+                "assalamualaikum pak bu farhah annisa jfdari prodi ti sap2019 semester ambil mata kuliah skripsi saja saya kait biaya ukt sesuai informasi ini apakah pak bu ambil 6 sks ukt kena potong maksimal 50 persen tapi siam tagih ukt penuh kemudian kajur kait potong aju uang proses mohon informasi kait prosedur aju potong ukt sebut terimakasih pak bu",
+                "assalamualaikum wr wb selamat siang admin halo filkom sini putra adhli falah nim 205150301111043 niat aju bantu ukt kemdikbud ri tera postingan instagram kemdikbud ri cantum sama ini besar harap terima terima bantu ukt penuh syarat -bukan terima kip -kondisi uang keluarga turun akibat pandemi ini terima kasih",
+                "selamat pagi izin kait data kurang ukt semester 9-10 akhir alur ya terimakasih"
+            ],
+            "responses": [
+                "Terkait detail prosedur masih menunggu informasi lebih lanjut dari kemendikbudristek. Sampai saat ini dari Kemendikbudristek masih ada informasi berikut saja https://www.kemdikbud.go.id/main/blog/2021/08/kemendikbudristek-lanjutkan-pemberian-bantuan-kuota-data-internet-dan-uang-kuliah-tunggal-tahun-2021\" target=\"_blankhttps://www.kemdikbud.go.id/main/blog/2021/08/kemendikbudristek-lanjutkan-pemberian-bantuan-kuota-data-internet-dan-uang-kuliah-tunggal-tahun-2021 Harap follow media sosial filkom di IG (filkomub) dan twitter (filkomUB) untuk bisa mendapat update terbaru jika ada informasi terkait pengajuan bantuan tersebut. Terima kasih"
+            ]
+        },
+        {
+            "tag": "Kemahasiswaan - Tahapan pendaftaran Wisuda",
+            "patterns": [
+                "saya konfirmasi validasi data lulus wisuda siam lalu bayar perlu daftar ika ub apakah tahap urus atau tinggal tunggu operator validasi data lulus wisuda saya hubung bapak joko beliau ubung mahasiswa saya kait skl ambil terima kasih",
+                "bagaimana status daftar wisuda karena input google form wisuda excel ubah estimasi periode terimakasih",
+                "selamat sore saya prosedur daftar wisuda perlu berkas wisuda kumpul terimakasih",
+                "selamat pagi wisuda prosedur ya apakah batas utk wisuda mahasiswa daftar yudisium periode 28 juli",
+                "saya informasi unggah form validasi daftar wisuda unggah file siam hubung joko balas",
+                "apakah link publikasi jurnal syarat wajib mengikuti wisuda",
+                "sore bapak ibu tanya 1 jika email jptiik jurnal terima revisi kurang ttd tunggu verifikasi link tunggu saja 2 apakah link jurnal jtiik masuk dalam periode wisuda mohon ibu bapak jelas terima kasih",
+                "figure cid 9pmduwzpt7 r4zp9bvoir7hh608huhri data-image 9pmduwzpt7 r4zp9bvoir7hh608huhriimage figure mau no sk ijazah sy siam muncul ya kira karena sy ikut proses yudisium periode x bukti tanda validasi syarat wisuda amp tinggal step yg selesai mohon bantu validasi data ijazah transkrip hubung mana coba hubung akademik kemarin tanggap hubung hubung mahasiswa wa center suruh hubung joko suruh akademik di kampus receptionist filkom",
+                "permisi saya syarat daftar wisuda link akses daftar ada terima kasih",
+                "figure cid dxfonywg1enwembcrft8dcqf2rcxv8di data-image dxfonywg1enwembcrft8dcqf2rcxv8diimage figure assalamu alaikum wr wb izin kait daftar wisuda siam form daftar wisuda bukti terima didownload mendaftarkan manual tinggal tunggu muncul periode wisuda informasi antri wisuda filkom ub ac id demikian terimakasih perhatian bapak ibu",
+                "telah isi form layan online mahasiswa laku bagaimana langkah notifikasi umum serta wisudawan periode lanjut",
+                "selamat pagi mohon maaf tata daftar wisuda belum isi google form status google spreadsheet wisuda ubah siap daftar wisuda langkah laku daftar wisuda level universitasselanjutnya",
+                "selamat pagi diajeng sekar seruni nim 165150200111051 saya konfirmasi mengupload dokumen lengkap data wisuda siam isi google form validasi poin 1 4 screenshot ukt siam sertifikat toefl ti tunggu validasi mohon cek lengkap salah terima kasih",
+                "selamat siang mahasiswa angkat 2016 wisuda apakah wisuda daftar nya terima kasih",
+                "cek daftar antri wisuda periode 7 8 menemukan nama lengkap daftar antri wisuda huruf kapital perintah hubung halo filkom mohon bantu terima kasih banyak",
+                "assalamualaikum wr wb selamat siang pak saya izin memberitahukan isi form point 1 4 daftar wisuda terimakasih",
+                "selamat malam muhammad gatzy yusuf teknologi informasi 2016 daftar wisuda selesai isi form daftar wisuda lanjut ya pak bu agar jadwal siam terimakasih mohon maaf ganggu waktu",
+                "figure cid 2tokt5tkc2kikgie5ibmrk6nwvhesprk data-image 2tokt5tkc2kikgie5ibmrk6nwvhesprkimage figure permisi bapak ibu izin tanya pada status tunggu validasi konfirmasi ya pak bu status valid proses langkah lanjut terima kasih belum salam",
+                "permisi pak bu menanyakan perihal validasi upload siam kur 10 kerja status sama terima kasih",
+                "assalamualaikum pak bu hubung wa center yudisium kait validasi tes mampu bahasa inggris arah hubung mahasiswa saya ikut tes toefl ada sub menu upload siam data skor tanggal sertifikat keluar terang belum valid apakah tes toefl jalan lewat 2 tes ulang ikut lampir screenshot siam saya terima kasih",
+                "saya tanya yudisium upload berkas siam status berkas sesuai screenshot kirim daftar wisuda menunggu bagaimana terima kasih",
+                "assalamu alaikum pak ibu data lengkap siam upload berkas link url jurnal skripsi publikasi sertifikat kompetensi ti validasi sekarang terimakasih pak ibu",
+                "assalamualaikum wr wb selamat siang nama rangga baghas nugroho mahasiswa tif 2017 mohonmaaf belum izin tanya jadi proses yudisium wisuda mengupload berkas menu upload siam namun 2 minggu 2 berkas sertifikat kompetensi it link jurnal status nunggu validasi apakah salah berkas tervalidasi terimakasih wassalamualaikum wr wb",
+                "assalamu alaikum wr wb mohon maaf ganggu waktu kenal gagas budi waluyo mahasiswa filkom teknik informatika tuju kait antri wisuda pada antri wisuda web filkom status cek upload berkas siam upload berkas siam dan upload berkas siam bisa status berkas valid semua untuk ya lanjut sekian tanya mohon maaf kenan terima kasih wassalamualaikum wr wb",
+                "saya thelemanica wicaksana tif 14 daftar wisuda ya pak bu cara saya ikut yudisium tanggal 4 maret lalu terima kasih",
+                "nilai toefl input data mampu bahasa inggris siam ya pilih choose file upload dokumen karena upload dokumen siam salah syarat daftar wisuda",
+                "assalamualaikum bu kenal alma nisa salsabila mahasiswa sistem informasi 2020 nim 205150409111013 izin memberitahu bahwasannya lengkap berkas siam tinggal tunggu verifikasi sertifikat ujikom it selanjutnya daftar wisuda ya bu terima kasih",
+                "selamat sore mahasiswa informasi wisuda akses ya juga halaman siam info calon wisudawan verifikasi harap verifikasi terimakasih",
+                "selamat siang izin bapak ibu mahasiswa saya isi link jurnal sertifikat kompetensi ti siam data lengkap verifikasi salah data upload terima kasih",
+                "selamat siang assalamu alaikum wr wb saya abdi ali mahasiswa 2017 tif kait form validasi data daftar wisuda link https docs google com forms d 1faipqlseba7dpnxa-bwyiwdz-vb9tujlofxegdz1gjs5djivkmzcncq viewformhttps docs google com forms d e 1faipqlseba7dpnxa-bwyiwdz-vb9tujlofxegdz1gjs5djivkmzcncq viewform mohon izin tanya lengkap sertifikat it kelura surat terang sertifikasi ti mohon jelas terima kasih",
+                "selamat siang saya mau bertanya kait pelaksanaan wisuda karena status siap tunggu verifikasi fakultas namun saya lulus january laksana yudisium sama mohon info ya pak bu kait laksana wisuda terima kasih banyak",
+                "selamat siang saya mau bertanya kait pelaksanaan wisuda karena status siap tunggu verifikasi fakultas namun saya lulus january laksana yudisium sama mohon info ya pak bu kait laksana wisuda terima kasih banyak",
+                "selamat siang bapak ibu mohon info progress wisuda saya akhir isi google form hubungi contact center wisuda wa sekali mohon bantu ya terima kasih banyak",
+                "turut whatsapp center yudisium daftar wisuda yudisium siam data wisudawan verifikasi operator fakultas verifikasi",
+                "selamat siang pak bu mahasiswa saya daftar wisuda ya saya menghubungi whatsapp respon terima kasih"
+            ],
+            "responses": [
+                "Berikut adalah tahapan pendaftaran wisuda FILKOM UB: 1. unggah dokumen di SIAM2. mengisi gform di tautan berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/\" target=\"blankhttps://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/3. verifikasi data ijazah dan transkrip ke Bpk. Joko melalui Yudisium WA Center di nomor 081132007577 (wa message only)4. mengisi data tracer study melalui *bit.ly/TracerFilkom*5. setelah menyelesaikan 4 poin di atas tinggal menunggu antrian wisudainformasi antrian wisuda dapat diakses di https://filkom.ub.ac.id/kemahasiswaan/informasi-wisuda/\" target=\"_blankhttps://filkom.ub.ac.id/kemahasiswaan/informasi-wisuda/"
+            ]
+        },
+        {
+            "tag": "Keuangan - Cara Daftar Bantuan Kemendikbud Ristek",
+            "patterns": [
+                "selamat pagi ijin template surat mohon kepada rektor template unduh mana ya terima kasih",
+                "selamat pagi ijin template surat mohon kepada rektor template unduh mana ya terima kasih"
+            ],
+            "responses": [
+                "Berikut link pengisian Permohonan Bantuan UKT KEMDIKBUDRISTEK Semester Ganjil 2021/2022 https://bit.ly/BantUKTKemdikbudUBGanjil2021https://bit.ly/BantUKTKemdikbudUBGanjil2021 Adapun batas waktu pengisian link tersebut sampai 15 Agustus 2021, pukul 23.59 WIB."
+            ]
+        },
+        {
+            "tag": "Keuangan - Angsur SAP",
+            "patterns": [
+                "angsur biaya didik spfp sap alur urus panjang daftar ulang mepet bu terima kasih",
+                "halo kak saya mahasiswa program sap 2021 aju angsur uang gedung ukt syarat urus terimakasih",
+                "selamat pagi kenal khadafi mahasiswa sap 2021 nomor daftar 15000029 putar bayar sap 2021 biaya spfp total rp 20 000 000 - angsur karena pandemi moga uang filkom erti mungkin tanya perhati ucap terima kasih salam",
+                "nama salma nada safira nomor daftar 15000043 daftar seleksi alih program sap filkom universitas brawijaya saya bayar daftar ulang lihat tagih 47 500 000 aju angsur cicil ipi bayar karena keluarga yg terdampak covid-19 kalau bisa proses aju mohon bantu admin terima kasih admin",
+                "assalamu alaikum izin tanya apakah ringan bayar spp cicil tangguh sementara batas bayar nya maximal tanggal 22 agustus uang itu terima kasih wassalamu alaikum",
+                "saya bayar seleksi alih program ke s1 bayar angsur proses nya",
+                "saya bayar seleksi alih program s1 bayar angsur proses nya ya terimakasih"
+            ],
+            "responses": [
+                "1. Untuk Angsuran SPP/UKT dapat diangsur sebanyak 2x dalam jangka waktu 1 Semester (Ganjil 2021/2020) 2. Untuk Angsuran SPFP dapat diangsur sebanyak 3x dalam jangka waktu 1 Semester (Ganjil 2021/2020)"
+            ]
+        },
+        {
+            "tag": "Akademik : Pengambilan Sertifikat TOEFL",
+            "patterns": [
+                "sertifikat toefl blc ambil akademik fakultas ambil luring ya prosedur ambil",
+                "selamat siang medeline agustine tif 15 saya kait ambil sertifikat toefl belum jumat kemarin aju tiket link buka boleh linknya kembali terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom, untuk informasi pengambilan sertifikat toefl bisa akses link berikut : https://filkom.ub.ac.id/2020/07/22/informasi-pengambilan-sertifikat-toefl/\" target=\"_blankhttps://filkom.ub.ac.id/2020/07/22/informasi-pengambilan-sertifikat-toefl/ Terima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik : Surat Pengantar Penelitian Skripsi",
+            "patterns": [
+                "assalamualaikum wr wb permisi bapak ibu mohon maaf ganggu waktu kait judul skripsi judul visualisasi hasil cari skripsi mahasiswa dalam bentuk word cloud diagram lingkar bas metode bm25 dbscan data judul abstrak skripsi mahasiswa s1 fakultas ilmu komputer program studi kecuali magister ilmu komputer teliti skripsi saya prosedur ikut oleh data sebut",
+                "halo selamat siang laksana skripsi sekarang butuh izin surat antar laksana teliti museum mpu purwa malang bagaimana ya mekanisme mohon maaf sy perihal sebut yg form surat antar tugas mata kuliah yg sedia filkom sana tera terang ikut figure cid l0nj2pkgogsqusvpiuf9fekvd-l6rks8 data-image l0nj2pkgogsqusvpiuf9fekvd-l6rks8image figure terima kasih belum"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Pembuatan Surat Pengantar Penelitian Skripsi bisa akses link berikut : https://bit.ly/SuratPengantarPengambilanDataSkripsiTesisFilkom\" target=\"_blankhttps://bit.ly/SuratPengantarPengambilanDataSkripsiTesisFilkomTerima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik : Surat Aktif Kuliah",
+            "patterns": [
+                "hallo surat keterang kuliah terimakasih",
+                "izin surat nyata aktif kuliah kontak hubung",
+                "izin surat nyata aktif kuliah kontak hubung",
+                "assalamu alaikum wr wb izin tanya urus surat keterang aktif kuliah proses bagaimana online kampus filkom",
+                "assalamu alaikum wr wb izin tanya urus surat keterang aktif kuliah proses bagaimana online kampus filkom",
+                "assalamualaikum wr wb pak buk ayah bukti aktif ub lengkap data daftar gaji uin antasari banjarmasin terima kasih",
+                "assalamualaikum wr wb pak bu tolong kirim surat keterang aktif kuliah yang digunakan administrasi ayah saya terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Untuk pengajuan Surat Aktif Kuliah bisa mengakses link berikut : https://bit.ly/SuratAktifKuliahFilkom\" target=\"_blank https://bit.ly/Surat Aktif Kuliah Filkom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik Syarat Menempuh MK Lintas Prodi",
+            "patterns": [
+                "selamat pagi ambil mata kuliah kewarganegaraan mata kuliah semester lulus lihat mata kuliah kewarganegaraan prodi teknik informatika teknik komputer ambil mata kuliah sebut prosedur ya pak terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom, Mahasiswa diijinkan mengambil MK lintas prodi selama dibuka oleh prodi lain (terutama MKU), kebetulan MK kewarganegaraan dibuka maka mhs dipersilahkan mengambil KRS MK tsb pada saat KRS-an ataupun batal tambah (jika terlambat KRS-an)Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Perubahan Judul Skripsi Filkom Apps",
+            "patterns": [
+                "mekanisme online ganti judul skripsi",
+                "assalamualaikum bapak ibu selamat pagi mohon maaf ganggu waktu dwi octo lubis nim 195150209111018 perihal ganti judul untuk pendaftaran seminar hasil uji skripsi ganti judul skripsi bisa daftar seminar hasil uji skripsi ya pak bu apakah isi form ganti judul filkom apps mohon bantu pak bu"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Perubahan judul skripsi pada filkom apps bisa diubah selama belum P2 oleh dosen pembimbing, setelah proses P2 mahasiswa tetap bisa merubah judul pada filkom apps pada saat mendaftar semhas skripsi dan upload dokumen akhir pasca Ujian Skripsi Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Prosedur Buka Blokir telat pembayaran & Pengajuan Validasi di luar jadwal",
+            "patterns": [
+                "assalamualaikum warahmatullahi wabarakatuh selamat siang bapak ibu admin halo filkom saya mohon buka akses krs siam karena alhamdulillah jumat sore tanggal 20 agustus 2021 kemarin tagih ukt semester tambah bayar sehingga status siam ubah daftar namun tekan tombol krs pak bu mungkin lewat tanggal oleh mohon buka akses krs siam pak bu teman alami sama kait hal urus ya pak bu terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,1. berikut kami kirimkan link prosedur buka blokir terlambat pembayaran poin Bhttps://filkom.ub.ac.id/2020/08/18/prosedur-daftar-ulang-mahasiswa-dengan-evaluasi-studi-dan-terlambat-melaksanakan-pembayaran-filkom-ub/\" target=\"_blankProsedur Daftar Ulang Mahasiswa dengan Evaluasi Studi dan Terlambat Melaksanakan Pembayaran FILKOM UB \u00bb Fakultas Ilmu Komputer | Universitas Brawijaya 2. Berikut kami lampirkan link pengumuman pengajuan validasi dikarenakan terlambat (per 20 Agustus 2021) :https://filkom.ub.ac.id/2021/08/21/pengajuan-validasi-untuk-krs-dengan-status-belum-disetujui/\" target=\"_blankhttps://filkom.ub.ac.id/2021/08/21/pengajuan-validasi-untuk-krs-dengan-status-belum-disetujui/ Mhs tetap mengisi form yg mana ada ttd dosen PA sesuai Form Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Prasyarat perpindahan stream/ keminatan",
+            "patterns": [
+                "prosedur pindah minat mahasiswa tif ya"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan KPS TIF, \"Tidak ada prosedur untuk berpindah stream/keminatan asalkan mampu mengerjakan skripsi sesuai dengan kelayakan dan kecukupan. Silakan bisa kontak ke calon dosen pembimbing di keminatan baru. Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Pengajuan proposal skripsi di luar jadwal (JTIF)",
+            "patterns": [
+                "aju pra proposal selasa dan kamis aju proposal tombol hijau aju proposal pencet dan coba aju jumat juga apakah solusi kait sebut",
+                "selamat pagi min izin min aju proposal skripsi luar jadwal ya prosedur aju lagi karena pra proposal verifikasi dosen bimbing saya terima kasih mohon arah",
+                "nama made ayu gayatri nim 165150207111009 prodi teknik informatika keluh belum mohon maaf izin form aju proposal skripsi buka 1 saja upload pra proposal tanggal 2 september aju proposal skripsi salah tanggal saya bilang bu dany bimbing skripsi sabtu kemarin mohon maaf lagi terima kasih",
+                "apakah aju proposal skripsi lewat batas pengajuanke dosen",
+                "upload proposal luar jadwal sedia proses mana ya terang dosen bimbing hubung jurus langsung hubungi kajur mana terimakasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan Kajur TIF, Mahasiswa bisa melakukan pengajuan mandiri melalui dosen pembimbing agar bisa tersampaikan kepada Kajur Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik : SKL & Transkrip",
+            "patterns": [
+                "selamat siang saya transkrip nilai telah yudisium wisuda dapat mana ya terima kasih",
+                "selamat pagi ema rosalina teknik informatika 2017 nim 175150218113019 saya butuh transkrip akademik mana oleh"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Untuk SKL bisa menghubungi WA center Yudisium (081132007577), untuk transkrip bisa input di link berikut : https://bit.ly/TranskripNilaiFilkom\" target=\"_blankhttps://bit.ly/Transkrip Nilai Filkom (untuk transkrip sementara selama pandemi covid kami kirim melalui email) Terima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik ; Pengambilan Ijazah Non Prosesi",
+            "patterns": [
+                "selamat sore noor ilmi nim 135150301111083 teknik komputer 2013 ambil ijazah luar prosesi selasa kamis ambil ijazah link form baru terima kasih"
+            ],
+            "responses": [
+                "Selamat Pagi, untuk pengambilan hari Senin - Jumat pukul 14.00-15.00 Bisa input d'link berikut : https://bit.ly/Pengambilan_Ijazah_Filkom\" target=\"_blank http://bit.ly/Pengambilan Ijazah Filkom Terima kasih"
+            ]
+        },
+        {
+            "tag": "Akademik ; Pengajuan Transkrip (keperluan beasiswa, mhs DO, semhas validasi KPS, dll)",
+            "patterns": [
+                "saya butuh transkrip nilai daftar program magang merdeka kampus merdeka terima kasih",
+                "permisi nyata lulus tanggal 31 desember 2021 namun terima skl saya ikut program fresh graduate kominfo salah syarat melampirkan ijazah skl transkrip nilai surat terang sidang apakah aju transkrip tunggu skl terbit terima kasih figure cid aq5nn8y1ykqo1lf1gxldcw1x0g-b1ip0 data-image aq5nn8y1ykqo1lf1gxldcw1x0g-b1ip0image figure"
+            ],
+            "responses": [
+                "Selamat Pagi, bisa akses link berikut : https://bit.ly/TranskripNilaiFilkom\" target=\"_blank http://bit.ly/Transkrip Nilai Fikom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik ; Layanan Ruang Baca Filkom UB",
+            "patterns": [
+                "assalamualaikum wr wb risda nur ainum nim 155150201111261 mahasiswa teknik informatika saya ruang baca online username password login nya pak bu terima kasih"
+            ],
+            "responses": [
+                "Mohon maaf, ruang baca filkom belum bisa melayani secara online. Untuk sementara waktu hanya bisa memberikan opacnya saja melalui : http://10.34.15.14/slims7_cendana/http://10.34.15.14/slims7_cendana/ Catatan :- wajib menggunakan VPN jika diakses di luar UB- kalau Mahasiswa berada di malang, jam operasional layanan Ruang Baca pkl 8.30 sd 15.00- akan tetapi jika tidak di malang dan memerlukan sumber data bisa melakukan pesanan ke petugas, bisa melalui kontak WA di bawah ini :bp Syaifudin : 081555850538bp Pranoe T : 082232834561 terimakasih."
+            ]
+        },
+        {
+            "tag": "Akademik Ujian Khusus Filkom UB",
+            "patterns": [
+                "masih nilai jelek siam ikut baik nilai"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link pengajuan Ujian Khusus Filkom UB, jika ditolak oleh KPS akan kami infokan melalui email mahasiswa https://s.ub.ac.id/ujiankhususfilkomubhttps://s.ub.ac.id/ujiankhususfilkomub Terimakasih "
+            ]
+        },
+        {
+            "tag": "Akademik ; Foto Yudisium",
+            "patterns": [
+                "ketika daftar semhas bagi folder gdrive mengupload berkas ijazah foto tentu format foto terima kasih",
+                "foto upload folder google drive daftar semhas format nya ya almamater background warna merah biru",
+                "hallo selamat sore tentu foto diupload perlu seminar hasil ya warna latar belakang"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Pendaftaran yudisium per 29 10 2021 sudah melalui filkom apps, untuk detail foto bisa melihat deskripsi pada pengajuan/ daftar yudisium pada akun filkom apps masing2 :1. Background foto wajib biru terang2. Format Foto wajib DOF 3. Tidak memakai kacamata 4. Tidak memakai jas almamater 5. Wajib menggunakan busana nasional/ kebaya (bagi calon wisudawati) Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik_Turnitin",
+            "patterns": [
+                "untuk mencetak dokumen skripsi turnitin akademik ya dikarenakan dosen bimbing balas"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link Layanan Plagiasi Turnitin :https://filkom.ub.ac.id/layanan-fasilitas/layanan-deteksi-plagiasi/https://filkom.ub.ac.id/layanan-fasilitas/layanan-deteksi-plagiasi/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik ; Bebas Pustaka UB",
+            "patterns": [
+                "selamat siang pak bu thelemanica wicaksana tif 14 saya tanya bebas tanggung pustaka urus mana ya pak bu terima kasih",
+                "selamat pagi pak bu mohon maaf mengganggu waktu saya moch alvin y s mahasiswa teknik komputer 2016 kait penguploadan google form surat bebas tanggungan pus ub pusat mengupload di jaring pasti hubung lancar dan e-mail e-mail ub email ub form izin serta untuk format file jpg kait ktm mohon bantu arah terima kasih lampir"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Surat bebas pustaka UB :https://lib.ub.ac.id/berita/panduan-pengurusan-bebas-pustaka-online/https://lib.ub.ac.id/berita/panduan-pengurusan-bebas-pustaka-online/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Bebas tanggungan Laboratorium FILKOM UB",
+            "patterns": [
+                "permisi kenal nama allen tif sap 2018 izin contoh dataset di upload google form bebas tanggung laboratorium ya terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link pengumuman bebas laboratorium filkom UB :https://filkom.ub.ac.id/2021/08/09/pengurusan-bebas-tanggungan-laboratorium-untuk-persyaratan-yudisium-sc2-18/https://filkom.ub.ac.id/2021/08/09/pengurusan-bebas-tanggungan-laboratorium-untuk-persyaratan-yudisium-sc2-18/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "Keuangan - Yudisium",
+            "patterns": [
+                "assalamualaikum wr wb selamat pagi bapak ibu bag uang filkom ub tempat daftar yudisium tanggal 12 batas evaluasi tanya daftar yudisium batas tanggal evaluasi akhir dosen bimbing 2 proses koreksi revisi dokumen skripsi senin tanggal 10 januari 2022 apakah tambah semester bayar biaya kuliah lagi untuk dokumen lengkap tinggal tunggu tanda tangan dosen bimbing 2 proses tanda tangan kajur tif",
+                "selamat sore saya bayar ukt ini selesai ujian skripsi dan daftar yudisium semester pendafataran ini apakah semester kena biaya ukt lagi terima kasih",
+                "permisi izin kait ukt mahasiswa pasuk tahap aju yudisium proses verifikasi berkas semester bayar ukt terima kasih"
+            ],
+            "responses": [
+                "Saat ini sedang proses sinkronisasi untuk memproyeksikan mahasiswa yang dapat mendaftar Yudisium maksimal tanggal 11 Januari 2022 untuk penentuan ditagihkan atau tidaknya UKT di Semester Genap 2021/2022"
+            ]
+        },
+        {
+            "tag": "Keuangan: Permasalahan sibaku",
+            "patterns": [
+                "haloo reyhan dwi prasetyo jurus sistem informasi fakultas ilmu komputer angkat 2021 saya aju ringan ukt mahasiswa s1 vokasi tutup tanggal 13 januari jam 15.00 saya bukti bukti kuat aku lampir berkas pilih upload berkas tulis a php error was encountered apakah tutup websitenya masalah saya aju tanggal 13 januari jam 3 sore sibaku",
+                "selamat malam mohon izin konfirmasi web sibaku error ya berkas2 kirim kosong semua kirim berkas dan finalisasi tangga 12 januari 2022 11 32 bukti figure cid 92jke38c82kmlf5xjlat5oasbt8kc4f8 data-image 92jke38c82kmlf5xjlat5oasbt8kc4f8image figure figure cid tygctwfnli9bidzr1xbvujir7kxn0bwi data-image tygctwfnli9bidzr1xbvujir7kxn0bwiimage figure cek malam ini tanggal 12 januari 2022 19 08 error berkas kosong figure cid ab-vyw73xq4645byrtexvyitd nze7mw data-image ab-vyw73xq4645byrtex yotd nz 7mw image figure figure cid g16udcb m2arqiqjy82ntjsq0oarrp9g data-image g16udcb m2arqiqjy82ntjsq0oarrp9g image figure mohon arah bantuanya sekian terimakasih selamat malam",
+                "figure cid gelczw3tpe253xksswv3wjincekp 0iy data-image gelczw3tpe253xksswv3wjincekp 0iyimage figure selamat pagi pak bu mohon maaf ganggu aktivitas waktu permisi mohon izin tanya pilih pada foto kirim orang tua wirausaha umkm pilih ya pak bu adapula kurang ukt sekira bapak ibu kenan informasi manfaat kami terima kasih selamat pagi",
+                "assalamualaikum kenal nama afi faridatul haq faqih didik teknologi informasi angkat 2020 kemarin aku turun kelompok ukt sistem sibaku error surat dukung surat phk pensiun tinggal dunia jadi surat mohon rektor namun sibaku error kirim surat sesuai terang sibaku surat dukung surat phk pensiun tinggal dunia kirim lalu solusi mohon bantu sebab harap sungguh turun ukt kondisi ekonomi keluarga terima kasih mohon maaf sopan wassalamu alaikum"
+            ],
+            "responses": [
+                "Terkait dengan permasalahan pada sistem Informasi Sibaku silahkan sampaikan pada https://helpdesk-tik.ub.ac.id/https://helpdesk-tik.ub.ac.id/ dikarenakan sistem tersebut sepenuhnya di operasikan oleh Universitas."
+            ]
+        },
+        {
+            "tag": "Akademik ; Perkuliahan Hybrid",
+            "patterns": [
+                "assalamualaikum wr wb selamat sore armansyah 205150207111057 prodi tif angkat 2020 bahwa kuliah semester genap 2021 2022 opsi kuliah full daring demikian saya perhati terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan pengumuman universitas dan fakultas :https://filkom.ub.ac.id/2022/01/19/perkuliahan-semester-genap-tahun-akademik-2021-2022-di-fakultas-ilmu-komputer-universitas-awijaya/https://filkom.ub.ac.id/2022/01/19/perkuliahan-semester-genap-tahun-akademik-2021-2022-di-fakultas-ilmu-komputer-universitas-awijaya/pendataan fakultas : https://filkom.ub.ac.id/2022/01/21/pengumuman-pendataan-mahasiswa-mengikuti-perkuliahan-tatap-muka/https://filkom.ub.ac.id/2022/01/21/pengumuman-pendataan-mahasiswa-mengikuti-perkuliahan-tatap-muka/Mahasiswa jika tidak mengisi maka dianggap menyetujui perkuliahan Daring bukan Luring Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik ; Bantuan UKT",
+            "patterns": [
+                "selamat pagi saya aju ringan ukt mahasiswa tempuh skripsi semester ini aku prosedur terima kasih",
+                "selamat siang bapak ibu span style font-size 1em saya aku bantu angsur ukt semester depan saat tagih bank rp 6.750 000 karena kondisi uang orang tua sulit angsur rp 3 500 000 kurang selesai semester span demikian sampai mohon saya mohon bantu terima kasih",
+                "belum kenal nama ilham hananto mahasiswa sistem informasi angkat 2018 sini aku mohon akademik filkom ringan ukt semester 8 saya orang tua alami kendala financial yg sebab bayar ukt penuh kemarin buka bantu ukt sibaku websitenya error hubung financial progress lama nunggu kabar tanggal 13 kemarin login oleh mohon erti akademik filkom ub ringan angsur bayar ukt saya terimakasih",
+                "belum kenal nama ilham hananto mahasiswa sistem informasi angkat 2018 sini aku mohon akademik filkom ringan ukt semester 8 saya orang tua alami kendala financial yg sebab bayar ukt penuh kemarin buka bantu ukt sibaku websitenya error hubung financial progress lama nunggu kabar tanggal 13 kemarin login oleh mohon erti akademik filkom ub ringan angsur bayar ukt saya terimakasih",
+                "aku mohon turun biaya ukt"
+            ],
+            "responses": [
+                "Untuk permohonan pengurangan UKT dilakukan melalui satu pintu pada sibaku.ub.ac.id dan dikarenakan sibaku telah ditutup Saudara disilahkan mengajukan pengurangan UKT di semester berikutnya. Sedangkan untuk pengajuan angsuran di silahkan mengajukan permohonan tertulis ditujukan kepada Wakil Dekan II FILKOM UB. Untuk surat permohonan berupa surat pribadi dan tidak ada format khusus. Silahkan diajukan dengan format rapi dan sopan dan dikirim via halo filkom dengan nomor tiket yang sama."
+            ]
+        },
+        {
+            "tag": "Akademik ; Permohonan perpanjangan mahasiswa DO diluar skripsi",
+            "patterns": [
+                "saya lulus mohon aju panjang studi lambat panjang karena hp rusak tau info panjang grup wa alat jadi skripsi lagi lapor sayang gagal usaha lulus sia sia 7 saya harap studi panjang",
+                "belum konsultasi kaprodi kait bijak studi informasi dapat solusi 1 2021-1 wajib bayar ukt terminal 2 2021-2 aktif panjang kait mohon bantu arabnya terima kasih"
+            ],
+            "responses": [
+                "Sesuai arahan dari Wakil Dekan Bidang Akademik, mahasiswa bisa mencoba mengisi form berikut serta meminta persetujuan rekomendasi dari KPS Catatan pada bagian bawah form harap dicermati dengan teliti Surat diisi oleh mahasiswa, dan ditandatangani oleh orang tua, mahasiswa, dan meminta juga tanda tangan ketua program studi lalu mengumpulkan melalui Google Form atau dikirimkan ke email mailto:filkom@ub.ac.id\" target=\"_blank filkom@ub.ac.id File disimpan dengan nama file: perpanjangan-prodi-nim dalam format dokumen atau PDF (Kode Prodi: TIF / TKOM / SI / TI / PTI / ILKOM"
+            ]
+        },
+        {
+            "tag": "Akademik Validasi KRS JTIF terlambat",
+            "patterns": [
+                "izin konsultasi mahasiswa perihal validasi krs tuju",
+                "hingga krs siam divalidasi saya hubung dosen pa whatsapp sabtu kemarin ok namun senin kemarin siammasih divalidasi kemudian kemarin hubung suruh email saya kirim email siam divalidasi",
+                "izin tanya krs tuju dosen bimbing sekarang dari kemarin hubung dosen bimbing tujuh pagi coba hubung dosen bimbing beliau tuju krs saya apakah buka tuju krs saya terimakasih"
+            ],
+            "responses": [
+                "Sesuai arahan pimpinan JTIF, mahasiswa diharap mengajukan ttd kepada dosen PA serta diajukan pada Form di bawah ini.Berikut kami kirimkan pengajuan validasi KRS mahasiswa AKTIF yang terlambat https://s.ub.ac.id/validasikrsjtifterlambathttps://s.ub.ac.id/validasikrsjtifterlambat Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Tidak bisa mengikuti Perkuliahan Luring/ Hybrid",
+            "patterns": [
+                "selamat siang orang tua aurelia amar mahasiswa teknik informatika semester 2 karena timbang harap aurelia amarisuntuk mengikutiperkuliahan luringsampai semester 2 saya mohon erti aurelia amar dapatpindah kelas hyid kelas online sekali perhati erti ucap terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Menginfokan terkait perkuliahan yg telah berjalan s.d UTS sekarang, maka jika terdapat mahasiswa dengan kelas non hyid dan berhalangan untuk mengikuti secara luring dimohon mengisi Form berikut ini sbg pendataan akademik fakultas s.d jumat 08 04 2022:https://docs.google.com/forms/d/e/1FAIpQLSfN_-ptPujRNgvv9Up9ZnjRp64w8RqeS7_BO4XAhzl95u0HyA/viewform\" target=\"_blankhttps://docs.google.com/forms/d/e/1FAIpQLSfN_-ptPujRNgvv9Up9ZnjRp64w8RqeS7_BO4XAhzl95u0HyA/viewform Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik ; Status Wisuda belum valid",
+            "patterns": [
+                "selamat siang pak bu saya fatimah azzahra nim 165150201111215 statis calon wisudawan siam status data verifikasi operator fakultas dalam tunggu verifikasi ya pak bu teman yudisium masuk periode wisuda terimakasih pak bu figure cid eo3mu5vqa7vunzw7nxzk3ef6jgpsowys data-image eo3mu5vqa7vunzw7nxzk3ef6jgpsowysimage figure"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai prosedur kemahasiswaan Filkom UB, mahasiswa diminta konfirmasi melalui gform pada link berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/\" target=\"_blank https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ Terima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik _ Perubahan Judul Skripsi",
+            "patterns": [
+                "selamat siang pak tanya untuk urus form ubah judul prosedur ya pak dan urus form ubah judul semhas uji urus daftar semhas uji terima kasih belum"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Perubahan Judul skripsi bisa dilakukan pada saat :- sebelum P2 bisa melalui masing masing dosen pembimbing- setelah P2 bisa langsung unggah pada kolom Judul saat akan melakukan pendaftaran Semhas- setelah ujian sidang bisa saat upload dokumen akhir Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik; SKL dan transkrip sementara",
+            "patterns": [
+                "selamat siang bapak ibu bagi akademik filkom ub mohon maaf mengganggu bapak ibu saya jogi oliver yohanes mahasiswa program studi teknik informatika nim 175150207111019 saya izin transkrip nilai sementara skl sementara apakah mekanisme dokumen serta fotocopy legalisir dua dokumen guna lamar kerja tunggu antri wisuda saya terima kasih"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,- Untuk permintaan SKL dimohon menghubungi WA Center Yudisium sembari kami infokan kepada operator juga- Transkrip https://bit.ly/TranskripNilaiFilkom\" target=\"_blank http://bit.ly/Transkrip Nilai Fikom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "Akademik Layanan kemahasiswaan",
+            "patterns": [
+                "assalamualaikum selamat pagi kait skm aju cetak skm filkom apps suda tujuh email surat skm filkom apps lihat surat skmnya mungkin saya terima kasih",
+                "selamat siang bu mohon izin tanya siam ikut wisuda periode 13 lanjut langkah yg laku tunggu umum bu terimakasih"
+            ],
+            "responses": [
+                "Berikut kami sampaikan link layanan kemahasiswaan untuk keperluan tiap poin :https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik Pengajuan nilai praktikum",
+            "patterns": [
+                "saya meminta nilai praktikum algoritma amp struktur data ta 2016 ganjil atas nama alvin pradana dzaki 155150200111210"
+            ],
+            "responses": [
+                "Berikut kami kirimkan link layanan pengajuan nilai praktikum Filkom UB :https://docs.google.com/forms/u/3/d/1xQjJhWAdUx0SrE0pvTVKyxifwK4nVx5pUNdewjZHgWk/edit?usp=drive_webhttps://docs.google.com/forms/u/3/d/1xQjJhWAdUx0SrE0pvTVKyxifwK4nVx5pUNdewjZHgWk/edit?usp=drive_web Terimakasih"
+            ]
+        },
+        {
+            "tag": "Akademik_KKN 2020",
+            "patterns": [
+                "saya informasi sosialisasi bekal kkn laksana tanggal 27 - 30 juni 2022 telah baca rundown giat situ tulis acara jam 07 30 - 11 00 jadwal matakuliah semester jam 07 50 - 09 29 izin dosen semester antara filkom mundur jadwal matakuliah semester antara",
+                "assalamu alaikum wr wb mohon maaf tanya dasar informasi resmi web filkom bekal kkn 2022 laksana tanggal 27-30 juni 2022 07.00 wib pada tanggal sama memiliki jadwal kuliah semester 07 30 wib apakah kenan mohon izin ikut bekal kkn kuliah semester antara selesai tentu khusus penuh terima kasih mohon maaf hal kenan wassalamu alaikum wr wb",
+                "selamat malam muhammad huda nugraha dari angkat 20 izin mahasiswa hadir bekal malang apakah boleh ikut bekal daring atau bijak untuk hadir luring",
+                "saya ahdim rasyid mahasiswa tekkom nim 205150300111031 aju daftar kkn pada tanggal tera giat kkn tunggu kkn",
+                "selamat siang ikut surat edar kkn 2022 27 juni 2022 sosialisasi kkn 28 juni s d 30 juni 2022 bekal kkn yang ambil artikel https kkn-filkom ub ac id article tata-tertib-pembekalan-kkn-filkom-2022https kkn-filkom ub ac id article tata-tertib-pembekalan-kkn-filkom-2022 tata tertib salah komponen nilai ikut bekal kkn tanggal 27 nya sosialisasi boleh ikut acara sosialisasi tsb jalan malang tanggal 27",
+                "selamat pagi akademik saya gratia mahasiswa teknik informatika 2020 cuti izin tanya lanjur daftar kkn ub juli nanti apakah untuk kkn nya pak bu terima kasih pak bu",
+                "selamat malam maaf mengganggu waktu saya mahasiswa semester 4 tif angkat 2020 menyampaikan ikut kegiatan pembekalan kkn filkom 2022 kendala malang alas visa ajar selesai urus isi google form formulir unggah surat terang dispensasi tidak ikut bekal kkn tahun 2022 sekian terima kasih",
+                "belum kkn informasi tanggal bekal sosialisasi 3 uas selesai oleh putus pulang rumah jakarta namun 2 3hari informasi dadak kkn hadir luring kampus tanggal 27 juni - 1 juli dan kondisi alami kendala uang berangkat malang apakah ikut giat tanggal 27 juni - 1 juli online terima kasih",
+                "selamat pagi fauzan adzima tohari mahasiswa nim 205150301111029 izin kelompok kkn bagi ya belum maaf ganggu terima kasih"
+            ],
+            "responses": [
+                "Sosialisasi : https://filkom.ub.ac.id/2022/06/23/pengumuman-jadwal-sosialisasi-danpembekalan-kkn-secara-luring-tahun-2022/\" target=\"_blankhttps://filkom.ub.ac.id/2022/06/23/pengumuman-jadwal-sosialisasi-danpembekalan-kkn-secara-luring-tahun-2022/ Tata tertib : https://kkn-filkom.ub.ac.id/article/tata-tertib-pembekalan-kkn-filkom-2022\" target=\"_blankhttps://kkn-filkom.ub.ac.id/article/tata-tertib-pembekalan-kkn-filkom-2022 Terimakasih"
+            ]
+        },
+        {
+            "tag": "PSIK : Permasalahan telah diproses (Tiket ditutup)",
+            "patterns": [
+                "selamat sore mohon bantuannya saya mengupload proposal skripsi lanjut skripsi mohon bantu",
+                "selamat siang mohon izin tunjuk pak verifikasi daftar yudisium tolak sekjur karena beda nama ijazah siam arah urus ubah nama siam lanjut nama ubah siam mohon petunjuk laku lanjut serta screenshot siam nama ubah terima kasih",
+                "permisi semester pendek semester antara 2022 jadi cerita dosen bimbing akademik pa alami ganti dosen pa bapak fatwa ramdani ganti bapak riswan septriayadi sianturi masalah dokumen krs semester antara nama dosen bimbing update dosen bimbing baru apakah apa update nama dosen bimbing baru jika update mengupdate nya ya mungkin saya dokumen krs semester antara lampir bawah kurang lebih mohon maaf ucap terima kasih waktu",
+                "selamat siang pak tanya bukti upload jurnal ya proses terima kasih",
+                "ikut lampir formulir mohon minta ubah data skripsi isi terima kasih",
+                "ganti judul skripsi bahasa indonesia typo spasi judul recognition filkom apps recognition judul bahasa inggris lupa italic",
+                "halo ikhwan shafa janji fasilitas uji online h-3 uji kabar uji offline sini jadwal ulang uji offline minggu siap kalau request uji minggu depan terima kasih",
+                "pada filkom app tombol daftar yudisium mengupload dokumen syarat lain",
+                "selamat pagi mengupload dokumen skripsi isi kolom benar letak file sesuai tentu tekan tombol proses tombol tampil proses form upload dokumen tutup pemberitahuan",
+                "selamat pagi bapak ibu maaf ganggu waktu saya daftar yudisium filkom apps daftar salah judul skripsi filkom apps lapor jurnal beda filkom apps judul sistem klasifikasi sampah kantor judul lapor jurnal sistem klasifikasi sampah kantor baik mengupload ulang lapor baik filkom apps optik mendaftar yudisium mohon tunjuk mengupload ulang nya terimakasih bapak ibu",
+                "jadi mengupload jurnal jppi salah syarat daftar yudisium jppi terima journal ubah upload jurnal sayaka jtsiskom"
+            ],
+            "responses": [
+                "Tiket kami tutup karena permasalahan telah terselesaikan. Terima kasih telah menghubungi Halo FILKOM"
+            ]
+        },
+        {
+            "tag": "Akademik Nilai MBKM belum keluar 2021-2",
+            "patterns": [
+                "saya alami serius mana nilai ipk tulis 0 web kampus merdeka nilai semester 6 terinput hal nilai ipk tulis 0 otomatis lulus seleksi magang merdeka pak bu saya aju baik data akademik ub dihimbau hubung sekretariat fakultas mohon bantu pak bu baik salah data nilai ipk muncul ipk semester 5 muncul 0 terima kasih bantu besar harap baik mahasiswa alami pengaruh seleksi magang"
+            ],
+            "responses": [
+                "Selamat Pagi,Bagi mahasiswa yang pada semester genap 2021/2022 lalu juga mengikuti kegiatan MBKM maka nilai IPK yang tertera pada sistem dikti adalah nol. Hal ini dikarenakan Evaluasi Akhir Semester (EAS) belum dilaksanakan sehingga nilai belum bisa diinputkan."
+            ]
+        },
+        {
+            "tag": "Akademik Perpanjangan skripsi",
+            "patterns": [
+                "kenal tony andhika mahendra 205150209111003 mahasiswa sap 2020 saya izin kait proses panjang st skripsi lanjut kerja skripsi semester depan itu prosedur ya bapak ibu terima kasih"
+            ],
+            "responses": [
+                "Selamat siang Evaluasi Akhir Semester bagi mahasiswa yang memprogram skripsi adalah sebagai berikut (mengacu pada edaran Dekan No 5582/UN10.F15/PP/2020) : Mahasiswa yang telah melakukan Pendaftaran Seminar Hasil tetapi belum melakukan Seminar Hasil dan Sidang Skripsi maka dapat diberikan perpanjangan secara otomatis pada Semester berikutnya Mahasiswa yang telah menyelesaikan Progres P2 (dengan nilai &gt;= 75) maka dapat diberikan perpanjangan 1 semester secara otomatis pada Semester berikutnya, jika sebelumnya belum mendapatkan perpanjangan Mahasiswa yang telah menyelesaikan Progres P1 (dengan nilai &gt;= 75) maka dapat diberikan perpanjangan 1 semester pada Semester berikutnya, jika mendapatkan persetujuan dari pembimbing skripsi secara manual (pembimbing memberikan persetujuan melalui FILKOM Apps pada periode Evaluasi Akhir Semester)Mahasiswa yang belum menyelesaikan Progres P1 dan atau tidak memenuhi sesuai ketentuan 1 sampai 3 maka dinyatakan Gagal dan harus mengulang proses pengerjaan skripsi dari awal (pra-proposal). Evaluasi Akhir Semester akan dilaksanakan pada batas akhir Semester Aktif Terima kasih"
+            ]
+        },
+        {
+            "tag": "sapaan",
+            "patterns": [
+                "halo",
+                "selamat siang",
+                "selamat malam",
+                "selamat pagi",
+                "salam"
+            ],
+            "responses": [
+                "Halo, saya disini Halo FILKOM Bot akan membantu anda dalam menjawab pertanyaan anda untuk urusan kemahasiswaan dan akademik."
+            ]
+        },
+        {
+            "tag": "penutup",
+            "patterns": [
+                "terima kasih",
+                "menjawab",
+                "sudah menjawab",
+                "cukup"
+            ],
+            "responses": [
+                "Terima kasih telah menggunakan layanan Halo FILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day."
+            ]
+        },
+        {
+            "tag": "no_response",
+            "patterns": [],
+            "responses": [
+                "Pertanyaan belum saya kenali... silahkan menghubungi unit terkait untuk menjawab pertanyaan tersebut di Halo FILKOM. Anda juga dapat menambahkan pertanyaan anda pada <a href='https://s.ub.ac.id/tanyafilkombot' target='_blank'>laman berikut</a> untuk membantu mengembangkan sistem ini"
+            ]
+        }
+    ]
+}
