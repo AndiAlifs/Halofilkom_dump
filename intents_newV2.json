@@ -660,38 +660,6 @@
             "responses": [
                 "Selamat siang Evaluasi Akhir Semester bagi mahasiswa yang memprogram skripsi adalah sebagai berikut (mengacu pada edaran Dekan No 5582/UN10.F15/PP/2020) : Mahasiswa yang telah melakukan Pendaftaran Seminar Hasil tetapi belum melakukan Seminar Hasil dan Sidang Skripsi maka dapat diberikan perpanjangan secara otomatis pada Semester berikutnyaMahasiswa yang telah menyelesaikan Progres P2 (dengan nilai &gt;= 75) maka dapat diberikan perpanjangan 1 semester secara otomatis pada Semester berikutnya, jika sebelumnya belum mendapatkan perpanjanganMahasiswa yang telah menyelesaikan Progres P1 (dengan nilai &gt;= 75) maka dapat diberikan perpanjangan 1 semester pada Semester berikutnya, jika mendapatkan persetujuan dari pembimbing skripsi secara manual (pembimbing memberikan persetujuan melalui FILKOM Apps pada periode Evaluasi Akhir Semester)Mahasiswa yang belum menyelesaikan Progres P1 dan atau tidak memenuhi sesuai ketentuan 1 sampai 3 maka dinyatakan Gagal dan harus mengulang proses pengerjaan skripsi dari awal (pra-proposal). Evaluasi Akhir Semester akan dilaksanakan pada batas akhir Semester Aktif Terima kasih"
             ]
-        },
-        {
-            "tag": "sapaan",
-            "patterns": [
-                "halo",
-                "selamat siang",
-                "selamat malam",
-                "selamat pagi",
-                "salam"
-            ],
-            "responses": [
-                "Halo, saya disini HaloFILKOM Bot akan membantu anda dalam menjawab pertanyaan anda untuk urusan kemahasiswaan dan akademik."
-            ]
-        },
-        {
-            "tag": "penutup",
-            "patterns": [
-                "terima kasih",
-                "menjawab",
-                "sudah menjawab",
-                "cukup"
-            ],
-            "responses": [
-                "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day."
-            ]
-        },
-        {
-            "tag": "no_response",
-            "patterns": [],
-            "responses": [
-                "Pertanyaan belum saya kenali... silahkan menghubungi unit terkait untuk menjawab pertanyaan tersebut di HaloFILKOM. Anda juga dapat menambahkan pertanyaan anda pada <a href='https://s.ub.ac.id/tanyafilkombot' target='_blank'>laman berikut</a> untuk membantu mengembangkan sistem ini"
-            ]
         }
     ]
 }
