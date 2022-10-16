@@ -1,0 +1,2574 @@
+{
+    "intents": [
+        {
+            "tag": "pengajuan_bantuan",
+            "patterns": [
+                "hasil seleksi mandiri alih seleksi potong biaya didik bantu uang tes seleksi masuk hasil seleksi",
+                "ubah ukt bantu uang siam nominal ubah",
+                "izin alur bantu ukt",
+                "bantu ukt ubah kelompok ukt balas bantu ukt ukt ubah siam turun status ringan ukt ubah kelompok bantu ukt ubah kelompok turun",
+                "izin prosedur urus prestasi coba akses dokumen surat surat terang bantu prestasi",
+                "izin bantu uang langkah laku tunggu verifikasi gambar",
+                "bantu uang ukt ukt siam ubah",
+                "angsur angsur genap bayar arti angsur bantu uang genap proses angsur genap bayar hasil angsur bayar studi angsur genap bayar penuh bijak",
+                "alur bantu",
+                "surat bantu uang bantu",
+                "izin kait data bantu uang data masuk dasar hasil putus siam tera terang data penuh data",
+                "proses bantu uang data kolom tombol bantu akses bantu uang",
+                "tahap bantu uang batas surat pemberitahuan potong ukt potong ukt giat giat isi surat laku bantu uang surat laku bantu uang bantu uang kait",
+                "izin bantu turun ukt harap golong ukt ubah bantu",
+                "didik izin bantu uang biaya ukt isi bantu uang biaya ukt akses",
+                "angsur ukt bantu ukt angsur bayar angsur genap siam harap kabul angsur orang tua bantu",
+                "ukt bantu ukt berat lunas bantu",
+                "izin kali bantu siam cek tulis data temu lengkap data data bantu bantu",
+                "bantu ukt siam akun siam nominal ubah tolak",
+                "bayar ukt bantu turun golong ukt ukt bayar bayar besok akun bayar aktif bayar",
+                "izin bantu uang tolak ubah siam",
+                "izin bantu ukt",
+                "batas bayar ukt bantu bayar ukt bantu uang",
+                "kait surat nyata bantu turun golong ukt wajib bantu",
+                "bantu uang bebas tahap sidang daftar siam tulis ubah kelompok ukt",
+                "bantu ringan ukt buka",
+                "izin kolom status terang cek berkas siam sertifikat cek siam status berkas laku kolom status terang ubah proses bantu",
+                "kait ringan ukt tau tolak bantu ukt",
+                "bayar ukt penuh uang rumah tiket arah web tiket coba urus ringan ukt masuk bantu ukt urus bantu ringan ukt bayar ukt angsur proses",
+                "program studi angkat bantu ukt status bantu tolak data data ulang ukt ayah pensiun kait bantu ukt sehat"
+            ],
+            "responses": [
+                "Pengajuan Bantuan Keuangan dapat mengisi form pada sibaku.ub.ac.id"
+            ]
+        },
+        {
+            "tag": "pencairan_saldo_ukt",
+            "patterns": [
+                "surat cair saldo",
+                "cair saldo makan isi bayar ukt",
+                "kait sisa saldo siram daftar bijak bebas ukt sisa saldo siam siram langsung bayar sisa saldo cair saldo sisa saldo sisa saldo ukt kait",
+                "surat cair saldo format",
+                "genap hubung nomor hubung contoh format surat format surat cair saldo",
+                "tau cair saldo kait daftar milik sisa saldo tahap daftar periode bantu",
+                "siam akses daftar urus uang uang proses cair saldo siam laku",
+                "saran hubung uang terang harap hubung uang uang akses saldo ukt siam milik saldo siam prosedur cair saldo siam isi data cair saldo isi data",
+                "padi daftar periode cair saldo dokumen harap",
+                "cair saldo status siam ubah daftar sisa saldo hilang siam akses siam lengkap data",
+                "kait cair saldo ukt",
+                "sebentar kait cair saldo siam cair halo balas buka siam sisa saldo cair bantu saldo teman milik cair cair saldo bantu",
+                "proses cair saldo cek mutasi masuk bantu",
+                "cair saldo rekening rekening kandung rekening periksa rekening kerja",
+                "duduk asli malang cair saldo",
+                "cair saldo dokumen",
+                "cair saldo ukt siam arah"
+            ],
+            "responses": [
+                "Silahkan mengajukan permohonan pencairan saldo dengan cara membuat surat permohonan (format bebas,rapi dan sopan) dilampiri foto/scan bukti bayar UKT semester bersangkutan serta halaman depan buku rekening. Berkas permohonan dikirim ke email mailto:tupusatub@gmail.comtupusatub@gmail.com"
+            ]
+        },
+        {
+            "tag": "cek_siam_untuk_tagihan",
+            "patterns": [
+                "ilmu komputer bantu bayar uang ukt biaya kembang kondisi uang orang tua sumber hasil bayar surat",
+                "wakil bidang uang tera nama program studi ringan ukt alas anggota keluarga rawat rumah sakit keluarga kena wajib bayar sisa kena deli wali",
+                "jakarta wakil bidang uang kait surat biaya filkom uang id arah filkom tanggal balas berkas tindak tunggu kabar orang tua wali",
+                "uang tunggal bayar laku bayar uang keluarga bayar nominal ukt siam bijak kena bayar ukt lambat bijak nominal bank",
+                "jakarta wakil bidang uang kait surat biaya filkom uang id arah filkom tanggal balas berkas tindak tunggu kabar orang tua wali",
+                "filkom angkat izin laku ukt ulang laku tolak bayar total siam bayar total ayah kerja sakit salah",
+                "laku bayar ukt uang gedung orang tua bayar",
+                "bayar ukt kondisi uang harap",
+                "bayar uang",
+                "konfirmasi kait bantu ukt turun ukt siam",
+                "nama ilmu komputer angkat bayar ukt lambat bayar tanggal bayar ukt tanggal alami bantu",
+                "didik laku ukt tanggal bayar ukt nominal ubah uang pakai orang tua",
+                "banding ukt ukt kondisi uang buruk",
+                "laku bayar ukt uang gedung orang tua bayar",
+                "laku bayar ukt uang gedung orang tua bayar",
+                "sidang daftar ukt status siam aktif bayar ukt bantu kait",
+                "ukt bayar nominal tulis angsur ambil ukt",
+                "putri izin bantu ukt siam tulis ukt bantu cek total ukt bayar nominal bantu",
+                "angkat cuti kali genap bukti surat cuti surat cuti ilmu komputer cek siam ukt cuti genap cek genap bebas bantu ukt",
+                "bayar sisa ukt tera siam alas",
+                "besok langsung bayar ukt tera siam",
+                "izin ukt ukt angka konfirmasi",
+                "bayar ukt ukt ukt masuk bayar ukt total ukt siam ukt ambil bayar ukt",
+                "angkat izin dasar balas tiket nomor bantu bebas ukt genap bayar ukt bayar bebas ukt status bantu",
+                "bayar ukt angsur orang tua saran bayar sisa ukt bayar sisa ukt",
+                "tunda bayar ukt bayar proses ukt siam urus cuti",
+                "kait ukt siam ambil ringan gambar tanda potong tulis angsur total bank bantu status angsur",
+                "ukt ukt gol nominal cek siam bantu bayar",
+                "non lintas isi merdeka ajar hubung bayar ukt bayar ukt ukt saldo",
+                "uang pangkal bayar ukt total bayar bayar bayar"
+            ],
+            "responses": [
+                "Update Tagihan pada SIAM sdra, apabila Besaran Nominal sudah sesuai Pengajuan sdra silahkan segera melakukan Pembayaran"
+            ]
+        },
+        {
+            "tag": "kriteria_50",
+            "patterns": [
+                "ambil mata kait biaya ukt ambil ukt kena potong siam ukt penuh kait potong uang proses kait prosedur potong ukt post post",
+                "siam ganda bantu jalur sap bantu potong ukt",
+                "ringan ukt khusus baca isi",
+                "fatimah ambil mata kait biaya ukt ambil ukt kena potong siam ukt penuh kait potong uang proses kait prosedur potong ukt",
+                "teknik ukt potong",
+                "bayar ukt bank nyata cek siam gambar gambar arti bayar ukt",
+                "mata status daftar bank",
+                "uang ageng sistem izin ukt siam lusa laku bayar laku lihat siam total arah",
+                "uang alim sistem izin ukt siam lusa laku bayar isi siam lihat total arah",
+                "filkom sap program studi teknik status akun ubah daftar halaman registrasi siam dasar bantu ukt program sarjana potong nomor siam bayar tanggap",
+                "fatimah sap bantu ukt bantu laksana potong ukt bayar ukt",
+                "teknik komputer angkat lambat bayar ukt status siam daftar ukt bayar ukt laku ukt ukt",
+                "sap potong ukt potong ambil",
+                "izin kena bayar ukt terang hak ambil mata enam kredit izin kondisi penuh salah kondisi",
+                "angkat potong ukt sisa saldo genap",
+                "ukt proses prosedur bayar anak nama ilmu komputer penuh ambil anak ukt penuh banding teman anak ringan ukt orang tua ringan ukt prosedur ringan bayar ukt laku wajib tunggu kabar salam",
+                "halo ukt genap ukt potong potong",
+                "bayar ukt gagal nomor rekening salah langkah bayar siam kolom bank total beda bayar kolom rekening salah coba",
+                "kait ringan ukt status uji tahap dokumen laku daftar laku ringan hapus turun kelompok ukt berat bantu arah",
+                "izin",
+                "sisa ambil ukt tera penuh bantu potong ambil bantu bayar ukt bantu penuh bayar ukt",
+                "teknik kena bayar bayar teman bayar potong bayar sistem periksa bayar sistem periksa bayar potong bantu bukti bayar",
+                "pati angkat kait ukt bantu ukt tera bayar tera ukt tera bantu",
+                "ukt genap angkat laku potong",
+                "halo filkom ukt bayar laku uji prosedur laku bayar ukt",
+                "halo laksana sidang proses daftar laku bebas ukt status siam aktif tanggal laku bayar ukt potong ukt sidang",
+                "sehat lambat laku proses daftar ulang prosedur urus lambat daftar ulang bayar ukt bantu",
+                "status siam ubah daftar ukt kait siam bantu",
+                "bayar ukt alas tanggal uang buka akses bayar ukt",
+                "tunda ukt urus bayar ukt",
+                "lambat bayar ukt",
+                "si angkat kait ukt ubah ukt ukt kontrak ukt ukt bayar ukt nilai kali lipat ukt kait ukt daftar ukt sidang ambil aktif daftar bukti daftar cek kait ukt daftar",
+                "si urus mundur status siam daftar buka akses laku registrasi",
+                "laku daftar laku mata status siam daftar izin buka akses bayar siam proses daftar",
+                "kena ukt ambil potong bayar ambil laku sidang prosedur ambil dana ukt",
+                "teknik ringan kait bayar ukt",
+                "penuh ukt",
+                "penuh",
+                "ilmu komputer ukt ambil potong",
+                "aktif status saran bayar ukt aktif status ringan ukt sidang tinggal laksana",
+                "laku bayar ukt proses",
+                "izin kait data ukt alur",
+                "filkom registrasi siam siam tera saldo negatif total tera bayar status aktif alas tulis",
+                "lunas siam besok ambil potong",
+                "sidang tanggal salah saran bantu uang ukt filkom abar resmi kait ukt",
+                "tua studi ambil ringan biaya ukt",
+                "kerja tahap sidang bayar ukt langsung potong daftar bantu ukt"
+            ],
+            "responses": [
+                "Kriteria yang mendapat bantuan 50% adalah bagi Mahasiswa S1 dan D4 tingkat akhir yang berada pada Semester 9 (Sembilan) dan Seterusnya yang sudah menempuh sekurang - kurangnya 138 SKS serta mengambil mata kuliah kurang dari atau sama dengan 6 (enam) SKS. Berikut merupakan Ketentuan kriteria yang menjadi kesatuan (dimana Semester 9, minimal 138 sks, dan program Skripsi), bukan hanya salah satu kriteria yang dapat dipenuhi untuk mendapat Bantuan tsb."
+            ]
+        },
+        {
+            "tag": "registrasi_mahasiswa_lama",
+            "patterns": [
+                "ukt siam status buka status tolak",
+                "registrasi"
+            ],
+            "responses": [
+                "Berikut kami informasikan Registrasi Mahasiswa Lama dapat dilihat https://ub.ac.id/id/pengumuman-registrasi-mahasiswa-lama-universitas-awijaya-semester-ganjil-2021-2022-program-diploma-sarjana-dan-pascasarjana/disini "
+            ]
+        },
+        {
+            "tag": "jadwal_bantuan",
+            "patterns": [
+                "pilih tahap data daftar daftar bantu",
+                "insan pilih desain analisis profesi tahap data daftar daftar bantu",
+                "pilih metode desain analisis tahap data daftar daftar bantu",
+                "putri pilih metode desain analisis tahap data daftar daftar bantu"
+            ],
+            "responses": [
+                "Jadwal Bantuan Keuangan Mahasiswa Lama dapat diakses https://bantuankeuangan.ub.ac.id/disini"
+            ]
+        },
+        {
+            "tag": "tata_cara_pembayaran",
+            "patterns": [
+                "bayar ukt gagal",
+                "laku bayar proses gagal nomor bayar laku",
+                "bantu ringan ukt bayar",
+                "nama ilmu komputer program studi angsur laku tata angsur",
+                "bayar ukt lihat tata bayar bank nomor nomor nomor",
+                "alami laku bayar ukt laku alur bayar tera id id masuk terang gambar gambar coba mesin beda lokasi laku",
+                "bayar ukt bantu turun golong ukt ukt bayar bayar besok akun bayar aktif bayar",
+                "lihat nomor bayar ukt",
+                "halo laku konfirmasi bayar uang tanggal bayar uang bayar tanggal",
+                "sistem filkom data nama daftar jalur masuk sap seleksi alih program filkom bidang minat sistem izin surat angsur ukt surat",
+                "halo teknik komputer bayar angsur buka akses bayar bayar",
+                "bayar mandiri pilih",
+                "sistem angkat izin angsur kali bayar ukt cek siam angsur kali bayar ukt nyata bayar bantu",
+                "bayar ukt angsur bayar",
+                "izin ukt angsur bayar konfirmasi bayar",
+                "buka rekening lunas ukt nama sistem",
+                "izin bayar angsur ukt jalur mandiri nominal bayar coba",
+                "prosedur bayar ukt bank",
+                "bayar ukt coba bayar bank buka",
+                "kena sisa angsur ukt nama putri",
+                "sekar ria angkat program studi sistem bayar angsur ukt konfirmasi bayar sistem bayar konfirmasi bantu",
+                "sistem bayar tau lihat coba bayar bantu",
+                "teknik izin bayar sisa ukt temu nomor nomor lihat",
+                "lunas angsur tata",
+                "bayar sisa angsur salam",
+                "ilmu komputer sistem angsur jalur mandiri bantu uang angsur bayar angsur bayar angsur rekening bayar beda",
+                "teknik izin bayar sisa ukt temu nomor nomor lihat",
+                "bayar angsur ukt",
+                "halo buka akses kait bayar angsur",
+                "laku bayar sisa angsur ukt",
+                "buka bayar ukt",
+                "bayar angsur ukt batas rumah bayar rabu tanggal lunas ukt bayar proses",
+                "hubung ukt filkom sila bantu harap isi data nama didik bayar sisa ukt milik bayar bank mandiri tera tulis gagal",
+                "bantu buka sisa ukt proses hasil sidang",
+                "proses bayar ukt buka akses filkom",
+                "bayar angsur langsung rekening",
+                "angsur ukt bayar tunggu bayar coba bayar mandiri",
+                "ukt potong dasar surat ringan ukt bayar cek ukt",
+                "daftar bayar siam milik ukt bayar ukt",
+                "sistem filkom data nama daftar jalur masuk sap seleksi alih program filkom bidang minat sistem izin surat angsur ukt surat",
+                "bantu laku lunas biaya ilmu komputer ilmu komputer teknik program studi ilmu komputer seleksi reguler malang",
+                "lunas",
+                "bayar ukt tulis gagal lunas cek siam registrasi bank",
+                "tata bayar angsur kembang",
+                "gagal bayar ukt bank buku pandu konfirmasi proses gagal coba ulang kali",
+                "bayar ukt gagal nomor rekening salah langkah bayar siam kolom bank total beda bayar kolom rekening salah coba",
+                "kode bayar bayar ukt pakai coba bayar kode",
+                "",
+                "nama bayar ukt tata bayar khusus",
+                "kena bayar ukt bank tulis",
+                "sistem angkat bantu uang bebas ukt platform bebas ukt tolak bukti angsur bayar ukt bayar penuh surat bayar angsur ukt wakil salah",
+                "izin bayar ukt bank laku bayar bank batas bayar ukt tanggal",
+                "kode bayar laku bayar ukt",
+                "ukt ukt tanggal",
+                "nama ayah bayar ukt laku bayar kontrol berat nominal",
+                "bantu uang status daftar bayar bayar rekening buka",
+                "alaikum urus wakil bidang uang orang tua nama ilmu komputer bantu bayar ukt angsur kondisi uang surat terang ukt biaya didik usaha harap",
+                "halo tunda ukt surat foto",
+                "tunda bayar ukt",
+                "alaikum bayar registrasi tutup bayar laku registrasi orang tua pensiun bantu",
+                "kena sap tinggal daftar kait hasil orang tua kondisi uang filkom surat ringan kait ringan kait uang daftar",
+                "izin kait bayar ukt alami keluarga bayar ukt tunda bayar ukt tanggal lambat bayar ukt laksana",
+                "total nominal laku bayar angsur status ubah daftar daftar bayar habis",
+                "izin kena bayar ukt laku sidang urus bayar ukt bayar salah",
+                "milik biaya lunas bayar angsur",
+                "ukt tanggal bayar ukt bayar ukt langsung",
+                "bayar anak buka",
+                "alami laku bayar ukt tulis proses tanggal tera bayar tanggal",
+                "nama teknik komputer bayar ukt keluarga bayar ukt kondisi bayar ukt buka bayar langsung ukt tanggal nyata bayar ukt tau nama daftar siam bayar ukt kontak bantu halo filkom daring uang biaya hidup malang bantu",
+                "alaikum izin laku daftar tanggal filkom sidang penuh daftar siam status ubah daftar laku laku bayar sistem bayar salah",
+                "lambat cek nyata bayar bantu tugas bantu",
+                "angkat teknis bayar angsur ukt",
+                "izin buka rekening bayar angsur ukt",
+                "izin undur batas bayar ukt bayar tutup bank bayar ukt bayar bayar tanggal bantu bijak",
+                "izin laku akses bayar angsur ukt tanggal",
+                "bayar lunas anak buka",
+                "ringan turun golong kali ringan potong biaya",
+                "bantu angsur ukt angsur rekening beda angsur bayar angsur rekening bayar ukt buka",
+                "laku bayar angsur ukt puluh buka bayar ukt",
+                "bayar angsur ukt rencana bank rekening",
+                "ukt anak siam bayar anak sidang tanggal anak bebas ukt uang siam daftar tanggal nyata data siam ukt bayar saran uang halo filkom uang bebas turun biaya ukt berat bayar ukt bayar ukt biaya adik harap kabul",
+                "izin bayar ukt",
+                "program studi teknik komputer buka akses laku bayar ukt angsur",
+                "program studi teknik komputer buka akses laku bayar ukt angsur",
+                "alaikum izin konsultasi kena ukt milik ayah kerja ad perwira status ayah potong bank ternak ikan keluarga alami usaha surut usaha turun golong ukt nyata rezeki terang tolak siam orang tua status ayah ukt golong orang tua milik salah masuk turun ukt angsur ukt genap keluarga alami harap bantu milik rezeki",
+                "bayar angsur ukt",
+                "bayar ukt",
+                "bantu uang angsur ukt kali angsur tanggal bayar tanggal laku bayar bank buka",
+                "bayar ukt genap angkat niat laku angsur isi data lengkap berkas putus angsur data lengkap bantu uang tera siam bantu uang bayar ukt angsur langsung lunas",
+                "halo filkom sistem ilmu komputer buka akses bayar ukt",
+                "nada izin kait lunas biaya didik tanggal orang tua laku bayar lunas bayar",
+                "bayar ukt buka bayar ukt",
+                "dasar surat bayar ukt uang pangkal lambat tanggal bayar tanggal bantu",
+                "teknik komputer lunas bayar ukt",
+                "lunas angsur ukt bank bayar bantu angsur ukt",
+                "nama sistem kena bayar angsur ukt jatuh tempo tanggal bayar kode bayar buka",
+                "halo bayar",
+                "buka rekening lunas ukt nama sistem",
+                "bayar angsur ukt",
+                "angsur ukt nama putri prosedur",
+                "teknik angkat kait bayar angsur coba laku bayar buka akun bayar laku bayar cepat",
+                "laku bayar angsur ukt pesan sistem",
+                "sekar ria program studi sistem bayar angsur ukt bantu set sistem",
+                "alaikum bantu akses bayar daftar sidang kait bayar teknis",
+                "uang filkom bahas kena bayar ukt angsur dasar halo filkom hubung uang filkom bayar angsur ukt buka sistem bayar ukt angsur jatuh tempo tanggal besok bayar angsur ukt uang filkom",
+                "beta program studi teknik komputer angkat izin buka tiket alami tulis angsur ukt genap ekonomi keluarga bantu uang angsur batas genap",
+                "laku bayar angsur ukt nama bantu",
+                "teknik komputer alami laku bayar ukt tutup sistem laku bayar ukt",
+                "bayar ukt angsur uang buka rekening",
+                "buka akses bayar ukt hasil buka siam periode genap"
+            ],
+            "responses": [
+                "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman https://selma.ub.ac.id/tata-cara-pembayaran/https://selma.ub.ac.id/tata-cara-pembayaran/"
+            ]
+        },
+        {
+            "tag": "banding_ukt_mahasiswa",
+            "patterns": [
+                "banding ukt tanggal hasil akses",
+                "izin buka turun ukt proses",
+                "banding bantu tunda ukt turun ukt tolak",
+                "berkas banding ukt hubung jam",
+                "ukt gol bantu ukt tolak banding ukt banding bayar dana sisa",
+                "siam potong turun golong ukt turun gol nyata ambil batal banding ukt pindah golong turun golong tua",
+                "siam ukt potong turun golong ukt siam turun gol ukt ambil batal bayar banding ukt pindah golong turun golong tua pensiun ubah golong siam",
+                "banding ukt hasil akses",
+                "banding ukt ukt angsur kondisi uang buruk",
+                "banding ukt angsur ukt angsur angsur angsur",
+                "banding ukt kali angsur bayar angsur pikir banding ukt bayar angsur gagal adu bayar sistem bayar buka bayar pemberitahuan bayar ubah angsur",
+                "banding ukt proses",
+                "banding ukt tolak ringan ukt ubah kelompok ukt"
+            ],
+            "responses": [
+                "Banding tersebut merupakan program dari KBMSI, hingga saat ini belum ada arahan dari Universitas dan Fakultas terkait banding UKT, silahkan menghubungi BEM Fakultas."
+            ]
+        },
+        {
+            "tag": "terlambat_pengajuan_bantuan",
+            "patterns": [
+                "pemrosesan ukt besok buka mata",
+                "prosedur studi alhamdulillah status ubah siam total ukt normal surat ukt penuh potong ukt ukt normal",
+                "izin bantu ukt",
+                "angkat lambat bayar ukt status siam daftar ukt bayar ukt laku ukt ukt",
+                "alas ukt orang tua alami surat",
+                "berat tolak ukt seleksi alih program tinggal hasil sidang bukti data",
+                "bantu uang ukt izin lihat siam ukt normal angsur angsur ukt ukt tolak harap konfirmasi",
+                "ukt bantu ukt ambil potong bayar hasil proses angka siam",
+                "data isi judul ubah kelompok ukt ukt bebas ukt isi batas pilih pilih alas alas bantu uang kosong pilih pilih bantu",
+                "bantu ukt ukt angkat isi bantu uang pemberitahuan kait bantu",
+                "daftar ulang urus daftar ulang daftar bayar ukt ukt tinggal daftar",
+                "ukt",
+                "ukt siam bayar sisa bayar langsung",
+                "baca atur ukt penuh berita acara bantu",
+                "dana tahan saldo siam potong dana ukt genap alas tinggal laksana sidang ambil mata",
+                "ukt orang tua rumah berkas berkas",
+                "fajar turun ukt hasil alih program ukt angsur bayar",
+                "total bayar genap ukt cek siam cek registrasi total nominal",
+                "izin ukt tolak arah angsur kali penuh angsur",
+                "bukti dokumen ukt",
+                "verifikasi ukt ubah kelompok ukt tulis siam ukt ukt bayar ringan",
+                "ukt orang tua alami surat",
+                "ukt tolak angsur ukt bayar",
+                "izin kait ukt lihat siam terang angsur bayar status bayar sisa saldo bank foto",
+                "daftar ukt kerja pulang lelah pulang kerja langsung masuk tahap verifikasi daftar langsung cari uang kondisi orang tua alami gaji usaha orang tua rumah usaha ternak kondisi uang hasil kerja bayar salah",
+                "ukt ambil ambil",
+                "atur nomor pasal ukt pasal kondisi uji tugas lambat nyata daftar laku daftar",
+                "angsur ukt angsur bayar angsur siam bantu",
+                "ayah rumah gaji bayar ukt golong ukt turun golong ukt laku bantu",
+                "putri izin bantu ukt siam tulis ukt bantu cek total ukt bayar nominal bantu"
+            ],
+            "responses": [
+                "Untuk permohonan pengurangan UKT dilakukan melalui satu pintu pada sibaku.ub.ac.id dan dikarenakan sibaku telah ditutup Saudara di silahkan mengajukan pengurangan UKT di semester berikutnya. Sedangkan untuk pengajuan angsuran disilahkan mengajukan permohonan tertulis ditujukan kepada Wakil Dekan II FILKOM UB. Untuk surat permohonan berupa surat pribadi dan tidak ada format khusus. Silahkan diajukan dengan format rapi dan sopan dan dikirim via halo filkom dengan nomor tiket yang sama.Terima Kasih."
+            ]
+        },
+        {
+            "tag": "pencairan_beasiswa_kemendikbud",
+            "patterns": [
+                "dasar surat nomor ringan uang tunggal ambil mata hak bayar ukt ambil daftar bayar ukt bayar",
+                "cair media sosial",
+                "cair surat terang jalur masuk surat terang nominal ukt format khusus data terang jalur masuk jalur masuk nominal ukt verifikasi tanda tangan bantu terang cair bantu",
+                "isi surat terang aktif kerja surat terang aktif bantu surat terang aktif cair batas"
+            ],
+            "responses": [
+                "Silahkan membuat surat dilampiri bukti bayar dan buku hal depan rek ybs dikirim ke tupusatub@gmail.com"
+            ]
+        },
+        {
+            "tag": "tidak_dapat_upload_berkas_yudisium",
+            "patterns": [
+                "nama izin siam terang gambar halo filkom tanggal gambar data siam bantu data",
+                "izin laksana sidang daftar periode",
+                "izin status cek lengkap berkas kolom verifikasi terang wajib kolom verifikasi terang status proses wajib hubung tinggal tunggu",
+                "daftar ukt genap status daftar arah bayar ukt bayar ukt status siam daftar bebas bayar ukt lambat bayar proses isi isi mata program batal",
+                "isi lembar lengkap",
+                "daftar terang nilai hasil studi nilai mata",
+                "bayar ukt nominal siam status uji hasil dosen lengkap berkas dokumen",
+                "verifikasi foto foto",
+                "daftar dokumen verifikasi tombol daftar daftar status siam aktif status siam tunggu status siam ubah daftar tombol tunggu ubah status siam proses",
+                "izin status daftar status cek berkas siam sertifikat berkas siam lengkap bukti siam",
+                "izin kait nilai tanda tangan isi siam akses akses siam",
+                "foto",
+                "bayu aji salah izin hubung urus isi data siam coba isi data siam isi data kering ukt coba isi data siam bayar kalimat",
+                "angkat status daftar studi",
+                "terang siam daftar terang siam buka status siam aktif laku bayar ukt",
+                "status siam proses siam status siam kait proses daftar",
+                "angkat status siam sidang proses verifikasi filkom tinggal verifikasi",
+                "tunggu kait lengkap berkas",
+                "indra daftar notifikasi gambar cek status siam aktif",
+                "izin kait ukt daftar tahap tulis nyata data siam siam laku",
+                "bayar bank akun siam status siam daftar daftar data siam akun",
+                "status filkom proses cetak lengkap berkas siam laksana besok besok",
+                "dosen uji tunggu kait kerja bantu kait komunikasi arah gede",
+                "lengkap berkas siam status siam daftar periode alami lengkap berkas temu salah",
+                "dosen sidang balas daftar bantu konsultasi dosen balas bantu tunggu angkat bantu alami tekan keluarga bantu",
+                "mata isi mata bom kabar nilai",
+                "kait daftar tahap sidang surat sidang daftar",
+                "daftar ukt normal bebas ukt kondisi",
+                "teknik izin daftar periode dasar staf daftar periode",
+                "kritis kritis cek temu"
+            ],
+            "responses": [
+                "Proses upload menunggu penerbitan SK Yudisium dengan perkiraan tanggal 16 Agustus 2021 atau lebih, mohon update dalam SIAM"
+            ]
+        },
+        {
+            "tag": "bantuan_ukt_dan_ukt_kemendikbud_ristek",
+            "patterns": [
+                "izin alur bantu ukt",
+                "ambil mata kait biaya ukt ambil ukt kena potong siam ukt penuh kait potong uang proses kait prosedur potong ukt",
+                "bantu ukt harap bantu ukt penuh uang keluarga turun",
+                "bantu ukt siam saldo bayar ukt golong langsung bayar",
+                "isi data pilih alas pilih bantu isi bantu ukt",
+                "program studi angkat bantu ukt status bantu tolak data data ulang ukt ayah pensiun kait bantu ukt sehat",
+                "izin bantu ukt potong ukt ubah angsur ukt kali",
+                "bantu giat tukar janji giat biaya giat bantu ukt",
+                "kait bantu ukt ukt bayar berat uang keluarga ayah tulang punggung keluarga sakit turun ukt prosedur berkas",
+                "bantu bantu ukt",
+                "bayar ukt penuh uang rumah tiket arah web tiket coba urus ringan ukt masuk bantu ukt urus bantu ringan ukt bayar ukt angsur proses",
+                "izin bebas bantu ukt",
+                "biaya ukt bantu ukt ambil ambil milik surat genap genap bukti registrasi ulang uang bantu ukt bantu usaha kali",
+                "status siam tulis registrasi bantu ukt status angsur coba bayar tulis lunas coba bayar bank bayar daftar sidang",
+                "kait bantu ukt bayar ukt sidang tinggal urus total bank siam salah bantu bebas ukt kait siam",
+                "tinggal sidang ulang surat turun bantu ukt nominal siam nominal kait ukt turun surat turun ukt lihat prosedur turun ukt",
+                "bayar tera siam anak harap bantu ukt proses ukt anak kelas mata bantu anak kelas mata bantu",
+                "izin bantu ukt aktif baca berita bantu aktif bantu prosedur bantu sumber berita bantu ukt klik",
+                "izin uji ukt fase tunda ukt tunggu bantu ukt ajar angkat turun bantu ukt cair arah tunda bayar ukt wakil bidang nota dinas tunda bayar sidang cair dana bayar sisa uji arah",
+                "kait bantu ukt bayar ukt sidang tinggal urus nilai total bank siam salah bantu bebas ukt kait teman kondisi total bank ubah tiket siam",
+                "izin siam bantu ukt nominal ukt teman nominal bantu ukt bantu ukt",
+                "bantu ukt ubah kelompok ukt balas bantu ukt ukt ubah siam turun status ringan ukt ubah kelompok bantu ukt ubah kelompok turun",
+                "angsur ukt pikir wali bayar bantu bantu bantu ukt angsur ukt usaha bayar angsur",
+                "bantu ukt angkat alur siam potong urus potong ukt tinggal tekan tombol mata allah mudah urus",
+                "izin bantu ukt tau hasil",
+                "izin bantu ukt",
+                "bantu ukt studi biaya lambat bayar ukt",
+                "potong biaya ukt surat teman kait program biaya ukt tulis surat sayang web harap bantu ukt ringan orang tua",
+                "bantu ukt bayar ukt bantu habis",
+                "bantu ukt siam akun siam nominal ubah tolak"
+            ],
+            "responses": [
+                "Terkait detail prosedur masih menunggu informasi lebih lanjut dari kemendikbudristek. Sampai saat ini dari Kemendikbudristek masih ada informasi berikut saja https://www.kemdikbud.go.id/main/blog/2021/08/kemendikbudristek-lanjutkan-pemberian-bantuan-kuota-data-internet-dan-uang-kuliah-tunggal-tahun-2021\" target=\"_blankhttps://www.kemdikbud.go.id/main/blog/2021/08/kemendikbudristek-lanjutkan-pemberian-bantuan-kuota-data-internet-dan-uang-kuliah-tunggal-tahun-2021 Harap follow media sosial filkom di IG (filkomub) dan twitter (filkomUB) untuk bisa mendapat update terbaru jika ada informasi terkait pengajuan bantuan tersebut. Terima kasih"
+            ]
+        },
+        {
+            "tag": "tahapan_pendaftaran_wisuda",
+            "patterns": [
+                "konfirmasi data siam laku bayar daftar tahap urus tinggal tunggu data hubung hubung kait ambil",
+                "status daftar ubah periode",
+                "kena prosedur daftar berkas",
+                "prosedur batas daftar periode",
+                "daftar siam hubung balas",
+                "rupa wajib",
+                "tunggu verifikasi tunggu masuk periode",
+                "ijazah siam proses periode bukti tanda tinggal bantu laku data ijazah hubung coba hubung tanggap hubung hubung hubung filkom",
+                "daftar akses daftar",
+                "alaikum izin kait daftar siam lihat daftar bukti daftar tinggal tunggu periode filkom id",
+                "isi laku langkah notifikasi periode",
+                "tata daftar isi status ubah daftar langkah laku daftar",
+                "sekar konfirmasi dokumen lengkap data siam isi ukt siam sertifikat tunggu cek lengkap salah",
+                "angkat daftar",
+                "daftar periode temu nama lengkap daftar huruf kapital hubung halo filkom bantu",
+                "izin isi point daftar",
+                "kena daftar isi daftar siam",
+                "izin status tunggu konfirmasi status proses langkah salam",
+                "siam langsung kerja status",
+                "hubung kait tes bahasa inggris arah hubung tes siam data skor tanggal sertifikat terang tes jalan laku tes ulang siam",
+                "laku laku berkas siam status berkas laku daftar tunggu",
+                "alaikum kena data lengkap siam berkas sertifikat kompetensi",
+                "nama izin proses berkas siam berkas sertifikat kompetensi status tunggu salah berkas",
+                "alaikum budi filkom teknik kait web filkom status cek berkas siam berkas siam laku berkas siam status berkas",
+                "daftar tanggal",
+                "nilai data bahasa inggris siam pilih laku dokumen dokumen siam salah laku daftar",
+                "sistem izin lengkap berkas siam tinggal tunggu verifikasi sertifikat daftar",
+                "kena akses halaman siam calon verifikasi harap verifikasi",
+                "izin isi sertifikat kompetensi siam data lengkap verifikasi salah data",
+                "alaikum abdi kait data daftar izin lengkap sertifikat surat terang",
+                "kait laksana status siam tunggu verifikasi laksana kait laksana",
+                "kait laksana status siam tunggu verifikasi laksana kait laksana",
+                "isi hubung bantu",
+                "daftar siam data verifikasi verifikasi",
+                "daftar hubung"
+            ],
+            "responses": [
+                "Berikut adalah tahapan pendaftaran wisuda FILKOM UB: 1. unggah dokumen di SIAM2. mengisi gform di tautan berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/\" target=\"blankhttps://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/3. verifikasi data ijazah dan transkrip ke Bpk. Joko melalui Yudisium WA Center di nomor 081132007577 (wa message only)4. mengisi data tracer study melalui *bit.ly/TracerFilkom*5. setelah menyelesaikan 4 poin di atas tinggal menunggu antrian wisudainformasi antrian wisuda dapat diakses di https://filkom.ub.ac.id/kemahasiswaan/informasi-wisuda/\" target=\"_blankhttps://filkom.ub.ac.id/kemahasiswaan/informasi-wisuda/"
+            ]
+        },
+        {
+            "tag": "cara_daftar_bantuan_kemendikbud_ristek",
+            "patterns": [
+                "izin kena surat lihat",
+                "izin kena surat lihat"
+            ],
+            "responses": [
+                "Berikut link pengisian Permohonan Bantuan UKT KEMDIKBUDRISTEK Semester Ganjil 2021/2022 https://bit.ly/BantUKTKemdikbudUBGanjil2021https://bit.ly/BantUKTKemdikbudUBGanjil2021 Adapun batas waktu pengisian link tersebut sampai 15 Agustus 2021, pukul 23.59 WIB."
+            ]
+        },
+        {
+            "tag": "bantuan_kemendikbud_tidak_terverifikasi",
+            "patterns": [],
+            "responses": [
+                "Sebagai informasi dari Kemahasiswaan Universitas, Bagi mahasiswa yang mendapat Bantuan Kemendikbud pada semester Ganjil 2020/2021 namun Melakukan Cuti Akademik Pada Semester Genap 2020/2021, maka Bantuan Kemendikbud tsb tidak diberikan pada yang bersangkutan. Apabila kurang jelas dapat menghubungi Kemahasiswaan Universitas."
+            ]
+        },
+        {
+            "tag": "tagihan_ukt_potongan_50_muncul_kembali",
+            "patterns": [],
+            "responses": [
+                "Tagihan Potongan 50% Mahasiswa Tingkat akhir yang muncul kembali merupakan tagihan yang akan dihapuskan setelah proses verifikasi dari Universitas jika anda memenuhi semua kriteria yang diberikan. Silahkan cek SIAM anda secara berkala. "
+            ]
+        },
+        {
+            "tag": "sisa_tagihan_50",
+            "patterns": [
+                "bayar sisa ukt sistem bayar",
+                "dasar surat kait ukt penuh bijak bayar ukt siam sisa bayar",
+                "hubung jam kerja teman teman lunas sisa status aktif siam ambil mata bantu",
+                "bayar sisa angsur ukt bank bayar data data",
+                "siam sisa potong total ukt",
+                "izin surat uang saldo sisa bayar sisa siam tulis sisa saldo proses isi siam tunggu",
+                "sisa",
+                "izin akses laksana kontak registrasi bebas sisa gedung saran tunggu hilang siam akses tunggu hilang bayar halaman salah",
+                "bayar sisa ukt buka akses",
+                "bayar sisa ukt bantu buka",
+                "akbar sisa siam bantu potong ukt penuh ambil mata sisa",
+                "proses bayar sisa coba bayar mandiri angka arah",
+                "nominal sisa ukt lunas sisa daftar sidang bukti lunas lunas ukt ubah status",
+                "sisa ukt ukt lunas ukt",
+                "bijak ukt ambil mata laku siam sisa ukt bayar ukt bantu konfirmasi proses",
+                "ubah ubah sisa",
+                "izin daftar ulang angsur milik sisa siam angsur daftar ulang",
+                "bayar jujur ekonomi keluarga nominal uang milik set nominal uang sedia bayar uang milik paruh janji set nominal langsung bayar sisa bayar cepat keluarga mudah",
+                "batu buka akses bayar lunas sisa ukt siam bantu",
+                "staff lihat siam turun golong ukt tolak bayar angsur ukt angsur biaya ukt bayar bayar sisa bayar",
+                "bebas sisa laksana",
+                "gema isya status ukt halaman siam registrasi ulang bantu potong ukt penuh bayar bayar ukt status bantu bayar status siam ukt bantu ukt batal bayar sisa cuti bayar biaya ukt siam cuti bantu arah siam bukti bayar ukt",
+                "bayar tau coba bayar bayar sisa bantu",
+                "bayar sisa ukt cek siam isi data tulis harap hubung uang saldo ukt lunas isi data",
+                "bebas ukt sisa bayar",
+                "nomor batas genap angsur sisa siam angsur nominal angsur nominal",
+                "sisa siam angsur nominal angsur nominal",
+                "buka bayar angsur ukt sisa angsur langsung buka nominal",
+                "izin tata bayar sisa ukt beda rekening bayar ukt",
+                "kait bayar sisa registrasi angsur kait bayar buka akses bayar"
+            ],
+            "responses": [
+                "Tagihan yang tertera pada SIAM saat ini merupakan sisa tagihan Bantuan Potongan 50%, Proses Verifikasi oleh Universitas terkait Bantuan Potongan 50% masih berjalan sampai saat ini, apabila hasil Verifikasi sdra memenuhi Persyaratan Bantuan Potongan 50% maka tagihan tsb akan dihapuskan oleh Universitas. mohon update SIAM secara berkala dan akses informasi penting terkait Bantuan Potongan 50% yang telah tersebar luas."
+            ]
+        },
+        {
+            "tag": "angsur_sap",
+            "patterns": [
+                "angsur biaya didik sap alur urus daftar ulang",
+                "halo program sap angsur uang gedung ukt urus",
+                "sap nomor daftar putar bayar sap biaya total laku angsur uang filkom salam",
+                "nama nada nomor daftar daftar seleksi alih program sap filkom bayar daftar ulang lihat angsur bayar keluarga proses bantu",
+                "alaikum izin ringan bayar batas bayar tanggal uang alaikum",
+                "kena bayar seleksi alih program bayar angsur proses",
+                "kena bayar seleksi alih program bayar angsur proses"
+            ],
+            "responses": [
+                "1. Untuk Angsuran SPP/UKT dapat diangsur sebanyak 2x dalam jangka waktu 1 Semester (Ganjil 2021/2020) 2. Untuk Angsuran SPFP dapat diangsur sebanyak 3x dalam jangka waktu 1 Semester (Ganjil 2021/2020)"
+            ]
+        },
+        {
+            "tag": "ktm_tersedia",
+            "patterns": [
+                "izin wajib bawa ambil malang uji",
+                "hubung balas hubung verifikasi data foto ijazah bebas tangkap layar bantu",
+                "tiket ambil titip konfirmasi ambil ambil saudara hubung hubung jam kerja balas ambil urus berkas",
+                "angkat izin kait rusak saldo belanja urus saldo prosedur",
+                "bantu kait ambil",
+                "izin prosedur ambil wakil",
+                "tunggu proses cetak",
+                "ambil",
+                "ambil malang",
+                "ambil ambil",
+                "izin angkat ambil ambil",
+                "hilang bawa urus hilang",
+                "hilang akses surat terang hilang urus bidang",
+                "kait angkat",
+                "hubung kait prestasi raih pesan staf hubung prestasi harap data prestasi harap isi data sertifikat menang minimal karya ketua anggota foto dosen dosen orang tim wakil ketua tim",
+                "terang nomor surat terang urus nomor surat aktif gagal tahap berkas nomor surat aktif ganti surat terang urus surat terang terang surat aktif ganti surat terang ganti surat aktif",
+                "nabi angkat hilang urus",
+                "ambil",
+                "izin daftar dokumen surat terang bebas surat terang bebas",
+                "fajar angkat ambil ambil",
+                "wakil uang surat angsur ukt alas anggota keluarga hasil turun angsur ukt angsur angsur angsur angsur bahan timbang orang tua kartu bank",
+                "ambil titip saudara malang",
+                "ambil prosedur",
+                "data ambil angkat",
+                "ambil ambil",
+                "surat orang tua hasil orang tua",
+                "ambil ijazah surat surat terang bebas bayar bayar daring surat terang bebas",
+                "tahap verifikasi tolak alas data lengkap bukti lembar surat gaji orang tua kartu keluarga alas bantu bantu cair layak ukt potong dana siam harap",
+                "daftar sidang",
+                "kait bantu uang jalur mandiri temu opsi angsur cerita keluarga ayah cabang gaji bersih ayah tumpang rumah milik nenek ekonomi harap angsur dokumen desa gaji foto rumah"
+            ],
+            "responses": [
+                "KTM Anda sudah tersedia, silahkan diambil pada hari dan jam kerja di bagian informasi gedung F lantai 1 FILKOM UB. Terima kasih "
+            ]
+        },
+        {
+            "tag": "pengajuan_st_dospem_dan_reward_prestasi",
+            "patterns": [
+                "izin niat prestasi menang plan sayang dosen milik dosen coba inti konsultasi laku",
+                "konfirmasi kait acara dokumen sertifikat surat terang sertifikat prestasi sertifikat bantu",
+                "data negara surat prestasi",
+                "prestasi isi bidang wajib surat tugas dosen bentuk internasional surat tugas dosen hubung contoh surat tugas dosen dosen surat tugas dosen",
+                "urut isi format surat dosen isi data prestasi dosen isi surat terang sertifikat prestasi urut isi",
+                "izin prosedur urus prestasi coba akses dokumen surat surat terang bantu prestasi"
+            ],
+            "responses": [
+                "Bisa diajukan melalui tautan berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ poin 3 layanan pengajuan reward prestasi.  Harap menyertakan dokumen pendukung sebagai berikut:- form pengajuan reward dari universitas yang sudah diisi (termasuk cantumkan nama dosen pembimbingnya)- sertifikat- ktm- proposal karya (jika ada)- screenshot/ foto saat acara lomba atau pengumuman pemenang Terima kasih"
+            ]
+        },
+        {
+            "tag": "kip_kuliah",
+            "patterns": [
+                "kena bayar ukt teman",
+                "buka",
+                "izin paham siam tera",
+                "bahagia kait",
+                "lancang daftar daftar ukt baca artikel tulis daftar kosong angkat salah",
+                "daftar daftar",
+                "bantu biaya didik anak"
+            ],
+            "responses": [
+                "Sampai saat ini belum ada informasi terkait hal tersebut. Merujuk dari website resmi KIP-K diinformasikan bahwa Saat ini KIP-Kuliah dikhususkan untuk calon mahasiswa/lulusan SMA sederajat tahun berjalan atau lulus dua tahun sebelunya. Untuk informasi lebih lanjut tentang KIP-K dapat diakses di tautan berikut https://kip-kuliah.kemdikbud.go.id/panduanhttps://kip-kuliah.kemdikbud.go.id/panduan. Harap follow media sosial FILKOM (IG:filkom ub), (Twitter:filkomUB) untuk mendapat update informasi terbaru tentang FILKOM UB. Terima kasih."
+            ]
+        },
+        {
+            "tag": "verifikasi_skm",
+            "patterns": [
+                "akun verifikasi",
+                "status tunggu verifikasi izin proses verifikasi",
+                "verifikasi tolak filkom tekan tombol verifikasi",
+                "verifikasi verifikasi",
+                "verifikasi",
+                "verifikasi",
+                "daftar verifikasi verifikasi",
+                "verifikasi daftar",
+                "kait verifikasi",
+                "verifikasi",
+                "verifikasi laku verifikasi bantu",
+                "surat tim cepat verifikasi daftar aji salah",
+                "kait verifikasi isi filkom verifikasi buka konsultasi nilai",
+                "angkat verifikasi status tunggu verifikasi surat teknis verifikasi tangkap layar kolom verifikasi bantu",
+                "verifikasi daftar hasil batas daftar bantu verifikasi",
+                "cepat proses verifikasi",
+                "kait verifikasi pesan verifikasi bantu",
+                "fatimah status tunggu verifikasi daftar kondisi",
+                "izin kait tahap proses verifikasi daftar verifikasi",
+                "bantu verifikasi sertifikat",
+                "izin kait dokumen siam sertifikat prestasi dokumen teman isi langsung verifikasi panitia lengkap cepat izin verifikasi",
+                "izin verifikasi",
+                "verifikasi verifikasi cetak hasil cetak daftar hasil",
+                "konfirmasi verifikasi verifikasi",
+                "hubung daftar isi verifikasi daftar verifikasi daftar",
+                "hubung daftar verifikasi bantu verifikasi daftar",
+                "konfirmasi status verifikasi tinjau verifikasi daftar",
+                "daring verifikasi akses web"
+            ],
+            "responses": [
+                "Untuk dapat diverifikasi silahkan melakukan pengajuan melalui tautan berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ Terima kasih"
+            ]
+        },
+        {
+            "tag": "nip_khajur_kps_tif",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,NIP KPS TIF 198907202018031002 NIP Khajur TIF 197411182003121002 Terima Kasih"
+            ]
+        },
+        {
+            "tag": "rekomendasi_magang_mandiri_dan_mbkm",
+            "patterns": [
+                "surat surat",
+                "izin surat surat bantu",
+                "surat merdeka program"
+            ],
+            "responses": [
+                "Baik untuk surat rekomendasi magang bisa mengajukan ke bagian MBKM melalui tautan berikut https://s.ub.ac.id/2nhttps://s.ub.ac.id/2n dan menghubungi ibu Nesti staf MBKM di nomor 081132007588.  Terima kasih"
+            ]
+        },
+        {
+            "tag": "pengajuan_st_dosen_pembimbing_lomba",
+            "patterns": [],
+            "responses": [
+                "Jika sudah terlanjur tidak memiliki dosen pembimbing saat lomba, bisa pengajuan ke kemahasiswaan melalui email kemahasiswaan dengan melampirkan dokumen pendukung sbb:1. KTM ketua dan anggota2. sertifikat 3. proposal karya (jika ada)4. dokumentasi saat lomba (foto/screenshot saat lomba/saat serah terima penghargaan) Tapi harap disampaikan untuk selanjutnya saat mengikuti lomba bisa mencari dosen pembimbing terlebih dahulu. Terima kasih "
+            ]
+        },
+        {
+            "tag": "rekomendasi_magang_dan_mbkm",
+            "patterns": [
+                "program dosen program selenggara program jenis",
+                "izin program ambil mata aman isi data mata isi hubung",
+                "rencana ambil mata aljabar linear matematika ambil mata surat dosen surat mata tata",
+                "besok sertifikat sehat",
+                "surat lambat tinggal bantu",
+                "salah industri mitra kompas mata komunikasi publik berita panitia mata komunikasi publik pindah pendek ambil puluh mata komunikasi publik pendek",
+                "surat malang urus surat",
+                "daftar program data nilai data beda nilai nilai kait pusat saran hubung hubung",
+                "salah daftar merdeka surat surat daftar daftar ketua program studi prosedur surat salah foto surat daftar ketua program studi",
+                "selenggara biaya cuti",
+                "ilmu komputer angkat izin tunggu isi bantu data siam",
+                "angkat izin minat daftar program surat program tutup surat surat",
+                "urus daftar program tanda tangan program tanda tangan",
+                "bantu wajib isi tunda isi urus giat aktif akun mata bantu",
+                "panitia izin ilmu komputer izin logika ajar dosen mata materi uji langsung acara uji ilmu komputer evaluasi dosen timbang nilai wajar ambil ilmu dosen dadak uji ajar pintar logika program laksana tugas timbang evaluasi nilai ubah bukti ubah nilai",
+                "baca pandu ambil ambil merdeka",
+                "buka tiket panitia kaget izin nilai",
+                "komunikasi publik salah mata mata ambil mata ulang nilai mata data analisis data data ganti komunikasi publik",
+                "alami data data program fokus mata niat ambil data mata data",
+                "studi independen ubah data ubah data bantu ubah surat status",
+                "izin program studi independen isi data temu tatap muka",
+                "izin kait isi balas daftar merdeka bantu",
+                "bantu normal malang salah",
+                "set cari",
+                "kait surat terang mitra",
+                "iman angkat halaman mata risiko kontrol tulis tulis siam harap sebentar periode isi ambil mata",
+                "abdi salah angkat izin kait nilai salah merdeka nilai nilai turun salah izin surat terang kait nilai salah surat program merdeka salah dokumen kait nilai masuk surat kait salah abdi",
+                "ambil program merdeka kait nilai hasil studi laksana program merdeka program mata mata ambil jalan program laksana laksana siam mata tugas nilai mata tugas nilai isi laksana rencana daftar genap mata tugas nilai genap program mata tugas daftar",
+                "kait nilai kait coba teman nilai masuk siam sisa masuk mata masuk nilai",
+                "giat"
+            ],
+            "responses": [
+                "Sehubungan dengan pengajuan surat rekomendasi/pengantar magang saat ini sudah ditandatangani oleh bagian Merdeka Belajar - Kampus Merdeka (MBKM).  Cara pengajuan nya dengan mengisi permohonan surat rekomendasi di https://s.ub.ac.id/2nhttps://s.ub.ac.id/2n dan menghubungi ibu Nesti staf MBKM di nomor 081132007588. Saat ini bagian kemahasiswaan hanya menangani surat pengantar/rekomendasi beasiswa dan lomba.  Terima kasih "
+            ]
+        },
+        {
+            "tag": "presensi_perkuliahan",
+            "patterns": [
+                "kait salah mata mata tata konfirmasi kali persentase penuh uji daring buka siam buka kelas surat terang",
+                "angkat pindah kelas kelas beda kelas",
+                "kelas cek kelas dadak pindah kelas",
+                "mata pilih siam data mata pilih mata metodologi kelas pindah kelas data metodologi prosentase batas minimal uji",
+                "lambat bantu",
+                "dispensasi gambar",
+                "notifikasi tugas ajar agama",
+                "kabar surat daring daring daring kelas pindah kelas dosen dosen ajar kelas tugas tugas dosen",
+                "agama hindu ulang",
+                "kait",
+                "mata industri kali temu batal mata",
+                "asli",
+                "mata data buka isi isi izin",
+                "program studi izin konfirmasi mata ambil agama kelas temu mata dispensasi siam mata agama tatap muka sedia dispensasi temu arah mata agama siam laku aktivitas",
+                "nomor induk kelas ubah pemberitahuan hilang terang ajar kelas kelas alas ubah kelas hasil",
+                "angkat salah web kelas daring daring",
+                "kelas aman kelas kelas siam cek kosong kelas",
+                "izin temu siam mata data mata data siam izin mata data mata kelas rabu dosen",
+                "tanda tangan lembar mata aljabar linear kelas dosen atur isi lengkap isi tanda tangan lembar",
+                "temu bantu temu mata",
+                "izin proses kertas acara selenggara bentuk asli kertas",
+                "kelas urus keluarga akses ajar",
+                "kait",
+                "",
+                "kait nota bukti",
+                "isi isi batal ambil mata mata ambil cek siam mata hubung tugas bantu",
+                "terang laku",
+                "ajar kelas siam laku bantu",
+                "uji mata langsung",
+                "prosedur urus daring kena pindah kelas"
+            ],
+            "responses": [
+                "Terima kasih telah menghubungi Halo Filkom,Terkait presensi perkuliahan tidak hadir (sakit,ijin,kep lain ) bisa menghubungi bagian pengajaran Filkom : Bapak Redi (085646667788)/ Bapak David ( 082143159727) dengan melampirkan :- Surat izin tidak masuk dari mahasiswa- Surat keterangan tambahan misal : surat dokter, surat kegiatan resmi kemahasiswaan, dll Hari kerja aktif (Senin sd Jumat) Pukul 08:00 s/d 15:00"
+            ]
+        },
+        {
+            "tag": "pengambilan_sertifikat_toefl",
+            "patterns": [
+                "sertifikat ambil ambil laku prosedur ambil",
+                "kait ambil sertifikat tiket buka",
+                "prosedur ambil sertifikat",
+                "kait sertifikat tes sedia konfirmasi selenggara proses sertifikat selenggara",
+                "hubung kait tes bahasa inggris arah hubung tes siam data skor sertifikat terang tes jalan tes ulang siam",
+                "kait ambil ijazah rumah ambil ambil ambil ijazah sertifikat ambil batas ambil ijazah",
+                "laksana laksana tes nilai siam",
+                "isi ambil sertifikat besok langsung ambil konfirmasi",
+                "ambil sertifikat bom ambil",
+                "izin sertifikat siam status",
+                "hasil selenggara daftar hasil uji selenggara",
+                "tes dokumen sertifikat sertifikat cek sedia dokumen",
+                "alamat surat surat alamat alamat alamat tinggal keluarga sertifikat sedia isi ganti sertifikat",
+                "ambil sertifikat",
+                "status siam status",
+                "daftar daftar",
+                "test siam kosong daftar lengkap",
+                "ambil sertifikat isi tes tes",
+                "ambil hasil tes proses ambil hasil tes ambil",
+                "kait hasil status",
+                "cuti tes siam",
+                "nilai uji daftar nilai minimal nilai minimal",
+                "nilai sedia makan",
+                "laksana tes hubung arah ambil sertifikat ambil",
+                "akbar bantu prosedur ambil sertifikat",
+                "ambil sertifikat sertifikat ambil sertifikat pos malang",
+                "proses ambil sertifikat",
+                "izin hasil tes ambil sertifikat hasil skor",
+                "sertifikat ambil isi balas",
+                "daftar sertifikat ambil siam wakil teman ambil"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom, untuk informasi pengambilan sertifikat toefl bisa akses link berikut : https://filkom.ub.ac.id/2020/07/22/informasi-pengambilan-sertifikat-toefl/\" target=\"_blankhttps://filkom.ub.ac.id/2020/07/22/informasi-pengambilan-sertifikat-toefl/ Terima Kasih"
+            ]
+        },
+        {
+            "tag": "surat_pengantar_penelitian_skripsi",
+            "patterns": [
+                "kait judul judul hasil cari bentuk diagram lingkar bas metode data judul ilmu komputer program studi ilmu komputer prosedur data",
+                "halo laksana izin surat laksana museum purwa malang surat tugas mata sedia filkom tera terang",
+                "izin kait surat usaha proses",
+                "surat kota malang kontak hubung kait"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Pembuatan Surat Pengantar Penelitian Skripsi bisa akses link berikut : https://bit.ly/SuratPengantarPengambilanDataSkripsiTesisFilkom\" target=\"_blankhttps://bit.ly/SuratPengantarPengambilanDataSkripsiTesisFilkomTerima Kasih"
+            ]
+        },
+        {
+            "tag": "surat_aktif_kuliah",
+            "patterns": [
+                "surat terang",
+                "izin surat nyata aktif kontak hubung",
+                "izin surat nyata aktif kontak hubung",
+                "alaikum izin urus surat terang aktif proses filkom",
+                "alaikum izin urus surat terang aktif proses filkom",
+                "ayah bukti aktif lengkap data daftar gaji",
+                "surat terang aktif ayah",
+                "izin surat aktif hakim surat aktif",
+                "surat aktif orang tua surat aktif",
+                "angkat surat aktif surat aktif",
+                "isi surat terang aktif kerja surat terang aktif bantu surat terang aktif cair batas",
+                "surat terang aktif ayah",
+                "tiket ukt siam cuti genap ukt siam surat izin bebas biaya rencana aktif bayar ukt kondisi",
+                "urus surat aktif urus isi rabu bom minimal kerja",
+                "cuti surat aktif surat terang",
+                "surat aktif",
+                "kait surat aktif",
+                "surat terang aktif bayar gaji orang tua",
+                "isi kali surat terang aktif jam kerja bantu",
+                "urus surat terang aktif proses",
+                "agung izin nyata daftar salah surat tanda aktif urus daftar",
+                "bantu surat aktif",
+                "ambil status aktif",
+                "izin surat nyata aktif kontak hubung",
+                "surat aktif",
+                "alam angkat aktif status siam arah",
+                "cuti niat aktif siam kondisi cuti aktif bayar ukt cuti ukt bayar dana bayar ukt siam",
+                "prosedur cetak surat aktif",
+                "surat cuti genap putus aktif tunggu ukt bayar",
+                "prosedur surat terang aktif usaha"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Untuk pengajuan Surat Aktif Kuliah bisa mengakses link berikut : https://bit.ly/SuratAktifKuliahFilkom\" target=\"_blank https://bit.ly/Surat Aktif Kuliah Filkom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "perihal_kehilangan_transkrip_nilai_kuliah",
+            "patterns": [
+                "digital",
+                "pemberitahuan proses cetak proses cetak prosedur ambil ijazah ijazah",
+                "hapus langkah laku proses hapus",
+                "alur urus",
+                "kait konsultasi sumbang dana masuk uang gedung lunas salah daftar hasil langsung uang",
+                "izin nilai nilai cocok lahir ijazah nilai cocok ijazah ijazah lahir lahir tinggal",
+                "program studi angkat izin rabu dokumen nilai izin",
+                "kerja milik isi",
+                "isi kait ijazah proses daftar surat besok ijazah",
+                "nilai filkom harap nilai siam salah",
+                "ijazah ijazah tunggu distribusi ijazah kerja",
+                "nilai",
+                "izin kait ukt daftar tahap tulis nyata data siam siam laku",
+                "kritis studi nilai mata riset hasil mata daftar uji mata bantu coba cetak nilai mata riset status filkom proses tinggal daftar mata nilai bantu",
+                "berkas dokumen malang rumah jawa barat milik dokumen",
+                "izin ijazah daring daftar periode ijazah kerja salah usaha ijazah asli",
+                "izin kait nilai tanda tangan isi siam akses akses siam",
+                "verifikasi tahap hapus nilai komputer komputer langsung urus hapus nilai tunggu batas nilai",
+                "hapus mata nilai daftar",
+                "angkat niat daftar pilih prestasi nilai salah bantu tanda tangan ketua program studi nilai nilai",
+                "kait nilai putri harap proses dokumen sifat daftar",
+                "",
+                "urus nilai",
+                "bantu ijazah format malang ijazah kerja bantu salah hayat",
+                "nilai uji isi proses proses salah tanda tangan",
+                "penuh rencana nilai bantu",
+                "staf aji angkat kait uji hasil sidang isi filkom cetak ambil hasil cetak",
+                "surat status filkom cetak bantu",
+                "nilai alur",
+                "ambil"
+            ],
+            "responses": [
+                "Berikut proses yang diperlukan mahasiswa jika kehilangan transkrip nilai kuliah : 1. Membuat surat permohonan kepada wakil dekan bidang akademik filkom perihal Surat Keterangan Pengganti Transkrip Nilai. Surat kehilangan dari pihak kepolisian 3. Scan transkrip nilai 4. Softfile foto 3x4 dengan resolusi tinggi (harus sama seperti yang tertempel di ijazah/transkrip)5. Point 1 sampai 4 dikirim dalam format pdf ke email : mailto:akademik filkom@ub.ac.id\" target=\"_blank akademik filkom@ub.ac.id Terima Kasih"
+            ]
+        },
+        {
+            "tag": "layanan",
+            "patterns": [
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link layanan akademik FILKOM UB https://filkom.ub.ac.id/pendidikan/layanan-akademik-filkom-ub/\" target=\"_blank https://filkom.ub.ac.id/pendidikan/layanan-akademik-filkom-ub/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "proposal_skripsi_di_luar_jadwal_jtif",
+            "patterns": [
+                "rabu dispensasi ulang dispensasi saran hubung saran lihat",
+                "ageng akses alur tulis bantu",
+                "fajar izin kait judul kembang sehat bas web studi dokter dokumen prosedur laku ubah",
+                "proses buka",
+                "putri wakil izin salah bantu",
+                "bantu dosen lalai tekan tombol bantu",
+                "izin isi data kolom total mata verifikasi dosen ubah total pilih ambil masuk data total",
+                "tombol hubung dosen",
+                "alur daftar dosen kondisi hubung isi data giat",
+                "bantu",
+                "fungsi",
+                "filkom dosen dosen bantu",
+                "siam proses tolak rencana ambil siam ambil siam beban",
+                "angkat tiket lambat verifikasi dosen harap ringan salah",
+                "izin tekan proses tunggu konfirmasi fajar dosen",
+                "temu siam milik ambil tujuh ambil ambil nilai cek gambar cek langsung bantu",
+                "isi cek notifikasi judul tulis judul cek ulang pilih temu kode",
+                "",
+                "alami profil profil salah",
+                "lambat konsultasi dosen hubung laku buka akses",
+                "filkom verifikasi dosen dosen ubah judul laku ubah judul filkom bantu",
+                "filkom verifikasi dosen dosen ubah judul laku judul filkom bantu",
+                "izin tera filkom sifat",
+                "angkat salah dosen verifikasi dosen konfirmasi dosen arah hubung dosen",
+                "kait bayar ukt putra masuk sisa bayar ukt sistem bank bayar",
+                "program studi angkat kait dokumen baca dokumen dokumen berkas dokumen bantu batal dokumen bukti kait dokumen",
+                "buka rusak",
+                "opsi",
+                "batas dosen",
+                "dosen hubung anak"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Pengajuan proposal skripsi di luar jadwal yang ada pada filkom apps pada lingkungan JTIF (TIF dan Telkom), mahasiswa bisa mengajukan pembukaan akses terbatas kepada dosen pembimbing dengan baik dan sopan agar bisa diteruskan oleh dosen pembimbing kepada Ketua Jurusan TIF Terimakasih"
+            ]
+        },
+        {
+            "tag": "peminjaman_fasilitas_lab",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Bagi mahasiswa yang mengajukan peminjaman fasilitas Lab bisa mengajukan kepada KaLab dengan persetujuan dosen pembimbing. Terimakasih"
+            ]
+        },
+        {
+            "tag": "konversi_mk_perpindahan_prodi",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan dari pimpinan JTIF, MK wajib dengan kode yang berbeda maka secara otomatis konten nya berbeda, maka mahasiswa tetap menempuh MK wajib tersebut sebagai konsekuensi perpindahan prodi Terimakasih"
+            ]
+        },
+        {
+            "tag": "foto_yudisium_sc218",
+            "patterns": [
+                "kait daftar kapital hubung daftar periode cetak kapital",
+                "izin bayar angsur ukt cepat bantu bayar angsur ukt nominal bayar",
+                "angkat kait ukt turun ukt ubah rendah ukt turun ubah ukt status",
+                "hubung besok batas batal milik tanda tangan dosen usaha hubung dosen tanda tangan batal balas upaya coba hubung upaya hubung balas bantu",
+                "turun ukt kondisi uang keluarga ambil bantu surat bukti lengkap cepat",
+                "bayar ukt angsur buka bayar bank bayar ukt",
+                "langsung berkas dokumen ketua lembar",
+                "coba masuk kode lembaga bukti bantu",
+                "data siam proses tombol hilang",
+                "angsur ukt",
+                "angkat izin konfirmasi bayar ukt angsur bayar uang ukt angsur bantu",
+                "ukt turun gol gol ayah tinggal ukt bayar",
+                "laksana daring hubung pulau jawa proses bantu",
+                "bayar langsung hubung buka akses bayar bayar uang buka akses bayar laksana bantu",
+                "kelas hilang",
+                "coba hubung",
+                "uang konfirmasi kait bayar ukt potong ukt saran bayar konfirmasi insyaallah bayar konfirmasi",
+                "izin kait data pilih daring malang pulang tau penuh pilih daring",
+                "bantu dosen",
+                "konfirmasi ukt siam penuh urus angsur teknis konfirmasi bantu",
+                "bantu kait cuti",
+                "teknik kait letak hasil daftar",
+                "daftar alur laksana",
+                "angkat izin konfirmasi bayar angsur bantu buka bayar angsur bayar uang angsur ukt bantu",
+                "bantu",
+                "bantu",
+                "dosen",
+                "tiket tiket urai biaya ukt biaya bayar ukt bayar bayar total ukt bantu bijak",
+                "hubung buka rencana konsultasi kena temu",
+                "izin bayar angsur ukt cepat bantu bayar ukt nominal bayar"
+            ],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom, - setelah upload foto &amp; KTM pada folder drive, mahasiswa diharapkan tetap mengumpulkan pada filkom lt 1 dg memberikan konfirmasi kepada WA center Yudisium- progres yudisium view_mhs FILKOM bisa dilihat pada :https://docs.google.com/spreadsheets/d/1nWPCbAI-rnqGNcyLXf8BDk2p5wFHZicmNyjc4ELNCWM/edit?resourcekey&amp;pli=1#gid=1724341464\" target=\"_blankhttps://docs.google.com/spreadsheets/d/1nWPCbAI-rnqGNcyLXf8BDk2p5wFHZicmNyjc4ELNCWM/edit?resourcekey&amp;pli=1#gid=1724341464 Pengajuan yudisium FILKOM : https://docs.google.com/forms/d/18TAxwwMnGuyOrPkDFUz_aopslsVIfKw7vaoCmiMtdQs/viewform?edit_requested=true\" target=\"_blankhttps://docs.google.com/forms/d/18TAxwwMnGuyOrPkDFUz_aopslsVIfKw7vaoCmiMtdQs/viewform?edit_requested=true Terimakasih"
+            ]
+        },
+        {
+            "tag": "kontak_hp_daring_kps_tif__tekom",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami sampaikan no HP Daring KPS pada lingkungan JTIF ;KPS TIF ; 082232641423 (Aditya Bhawiyuga)KPS Telkom ;  085608568510 (Eko Setiawan) Terimakasih"
+            ]
+        },
+        {
+            "tag": "pembatalan_mk_pkl_skripsi",
+            "patterns": [
+                "angkat izin uang batal mata komputer penuh batal tanda tangan ketua laksana denda buku ruang baca isi uang uang uang uang",
+                "batal hubung batal mata matematika",
+                "bantu status batal isi",
+                "isi batal pilih langkah",
+                "verifikasi batal verifikasi",
+                "kait batal ulang batal penuh",
+                "izin batal status cuti siam cuti batal bayar ukt",
+                "batal mata hapus siam",
+                "deteksi filkom saran batal dosen batal saran dosen hubung",
+                "dokumen prosedur batal kosong bantu",
+                "izin kelompok surat daftar usaha batal pekan surat pesan batal batal",
+                "bantu batal",
+                "proses batal mata proses batal batal kondisi",
+                "alami filkom batal dosen batal bantu bantu",
+                "kelas batal dana",
+                "batal isi batal lengkap",
+                "batal cuti proses status ubah daftar siam bayar ukt cepat kelas besok",
+                "batal mata komputer tata batal laku",
+                "batal data masuk",
+                "ganti judul filkom kolom batal alas ganti judul batal opsi kolom alas isi ganti judul",
+                "isi balas usaha usaha isi orang ganti isi batal bukti surat balas dosen saran",
+                "angkat surat usaha batas balas teman isi surat tulis isi batal batal surat balas usaha usaha balas surat usaha",
+                "batal sistem batal verifikasi bantu",
+                "batal batal proses berkas bantu",
+                "kelompok surat daftar usaha surat batal surat konfirmasi",
+                "batal data mata data pilih ganti mata dosen ambil mata hubung",
+                "izin daftar filkom halaman nyata nilai hasil studi nilai batal nilai daftar daftar sidang nilai sidang mata mata ulang siam nilai siam konfirmasi nilai mata siam daftar salah",
+                "batal penuh prosedur",
+                "batal mata profesi proses mata profesi hilang cek siam mata profesi batal hilang mata profesi hilang",
+                "izin batal mata salah mata siam program mata aman dadak ubah mata aman mata mata tunggu batal mata langsung batal mata aman"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Mahasiswa yang tidak jadi menempuh MK PKL ataupun Skripsi pada SIAM, mahasiswa tetap diperkenankan dengan syarat tidak ada aktivitas PKL/ Skripsi pada semester berjalan (Filkom apps/ skripsi dan PKL) Terimakasih"
+            ]
+        },
+        {
+            "tag": "syarat_menempuh_mk_lintas_prodi",
+            "patterns": [
+                "ambil mata mata lihat mata teknik teknik komputer ambil mata prosedur"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom, Mahasiswa diijinkan mengambil MK lintas prodi selama dibuka oleh prodi lain (terutama MKU), kebetulan MK kewarganegaraan dibuka maka mhs dipersilahkan mengambil KRS MK tsb pada saat KRS-an ataupun batal tambah (jika terlambat KRS-an)Terimakasih"
+            ]
+        },
+        {
+            "tag": "perpindahan_prodi_akreditasi_b_ke_a",
+            "patterns": [
+                "sistem bantu isi pandu pilih mata mata ambil angkat kelas pilih mata evaluasi alam produk rantai platform digital digital platform kelas kelas teman kelas kelas kelas ambil riset kelas isi siam daftar langsung siam khusus daftar",
+                "sistem daring data pilih daring alas orang tua izin tatap muka kelas kelas daring teman pilih opsi daring kelas daring kelas bantu kait daring",
+                "sistem surat terang surat urus pensiun guru negeri surat surat",
+                "berita mata dasar kembang sistem total",
+                "sistem malang hubung anak ambil genap laksana ajar tatap muka orang tua sistem sistem anak ajar daring anak ajar daring faktor ekonomi hasil usaha virus orang tua",
+                "sistem malang hubung anak ambil genap laksana ajar tatap muka orang tua sistem sistem anak ajar daring anak ajar daring faktor ekonomi hasil usaha virus orang tua"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Menyampaikan jawaban dari KPS prodi Sistem Informasi Filkom UB, bahwa mhs ybs tidak diperkenankan melakukan perpindahan prodi ke Sistem Informasi. Perihal yang menyebabkan tidak disetujuinya mhs dalam perpindahan prodi sesuai keterangan pada poin 4 hal 29 Buku Pedoman Akademik FILKOM UB.Berikut kami lampirkan link Buku Pedoman Akademik FILKOM UB terkait Perpindahan Prodi (hal 29) : https://filkom.ub.ac.id/profil/dokumen-resmi/\" target=\"_blank Dokumen Resmi \u00bb Fakultas Ilmu Komputer | Universitas Brawijaya (ub.ac.id) Terimakasih"
+            ]
+        },
+        {
+            "tag": "perubahan_judul_skripsi_filkom_apps",
+            "patterns": [
+                "laku ganti judul",
+                "ganti judul daftar hasil uji ganti judul daftar hasil uji isi ganti judul filkom bantu",
+                "izin kait ubah judul",
+                "izin kait status proses ubah judul konfirmasi bukti",
+                "ulang dokumen ubah judul tugas",
+                "ubah judul daftar salah",
+                "judul bahasa inggris dosen ubah judul dokumen ubah judul judul bahasa sistem duduk sistem arsip data duduk judul bahasa inggris and data and ubah judul makan dokumen dokumen konfirmasi",
+                "ubah judul",
+                "ubah judul kait judul bantu ukm pasar produk analisis bantu pasar produk",
+                "alami problematika salah judul uji tau status salah judul masuk judul ubah judul uji bantu buka akses ubah judul judul bantu",
+                "urus ubah judul prosedur urus ubah judul urus daftar",
+                "judul kerja ubah judul prosedur ubah bantu",
+                "angkat laksana alami ubah judul terang ubah judul",
+                "koordinasi kait ubah judul",
+                "uji tinggal urus dokumen judul ubah izin proses ubah judul uji ubah judul pandu"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Perubahan judul skripsi pada filkom apps bisa diubah selama belum P2 oleh dosen pembimbing, setelah proses P2 mahasiswa tetap bisa merubah judul pada filkom apps pada saat mendaftar semhas skripsi dan upload dokumen akhir pasca Ujian Skripsi Terimakasih"
+            ]
+        },
+        {
+            "tag": "alur_get_nim_mahasiswa_filkom_ub",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Masuk ke info pin (https://siam.ub.ac.id/getpin.php\" target=\"_blankhttps://siam.ub.ac.id/getpin.php) Masukkan nomor kode pendaftaran pada kolom Nomor Peserta Ujian Masuk dan masukkan tanggal pembayaran, kemudian selesaikan pertanyaan penjumlahan matematis di bawahnya, kemudian klik cari Akan muncul data peserta dan PIN untuk login ke siam Kembali ke https://siam.ub.ac.id/\" target=\"_blankhttps://siam.ub.ac.id/ Gunakan nomor kode pendaftaran di kolom NIM dan PIN di kolom kata sandi, dan klik Masuk Setelah login, Anda akan mendapatkan nomor NIM dan password, namun password ini harus diaktifkan dulu sebelum digunakan Masuk ke https://bais.ub.ac.id/\" target=\"_blankhttps://bais.ub.ac.id, gunakan nomor NIM dan password yang baru Anda dapatkan Akan muncul kolom-kolom isian untuk aktivasi, isikan email Anda yang biasa digunakan, dan isikan password baru yang bisa Anda ingat, kemudian klik simpan Setelah selesai, logout dari https://bais.ub.ac.id/\" target=\"_blankhttps://bais.ub.ac.id Kembali ke https://siam.ub.ac.id/\" target=\"_blankhttps://siam.ub.ac.id Gunakan nomor NIM dan password yang baru Anda isikan di BAIS untuk masuk ke SIAM Harap simpan baik-baik NIM dan password tersebut karena Anda akan terus menggunakannya. Terimakasih"
+            ]
+        },
+        {
+            "tag": "prosedur_buka_blokir_telat_pembayaran__pengajuan_validasi_di_luar_jadwal",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,1. berikut kami kirimkan link prosedur buka blokir terlambat pembayaran poin Bhttps://filkom.ub.ac.id/2020/08/18/prosedur-daftar-ulang-mahasiswa-dengan-evaluasi-studi-dan-terlambat-melaksanakan-pembayaran-filkom-ub/\" target=\"_blankProsedur Daftar Ulang Mahasiswa dengan Evaluasi Studi dan Terlambat Melaksanakan Pembayaran FILKOM UB \u00bb Fakultas Ilmu Komputer | Universitas Brawijaya 2. Berikut kami lampirkan link pengumuman pengajuan validasi dikarenakan terlambat (per 20 Agustus 2021) :https://filkom.ub.ac.id/2021/08/21/pengajuan-validasi-untuk-krs-dengan-status-belum-disetujui/\" target=\"_blankhttps://filkom.ub.ac.id/2021/08/21/pengajuan-validasi-untuk-krs-dengan-status-belum-disetujui/ Mhs tetap mengisi form yg mana ada ttd dosen PA sesuai Form Terimakasih"
+            ]
+        },
+        {
+            "tag": "penambahan_sks_melebihi_batas_maksimum_mk_dari_ip_beban_jtif",
+            "patterns": [
+                "bantu kait prosedur bebas ukt berkas dosen",
+                "urus pindah arah temu pindah pindah sastra inggris beda urus pindah hubung",
+                "balas saran studi kena evaluasi studi kali saran isi staff lambat tangan studi arah",
+                "bayar ukt bayar kait alur",
+                "izin proses proses kerja nilai siam laksana hasil ajar salah program merdeka arah merdeka ajar komunikasi publik ajar merdeka ajar masuk kerja proses hilang konfirmasi cek nilai nilai ketidakcocokan beban beban beban merdeka ajar nilai nilai hilang data arah",
+                "urus bukti balas langkah laku",
+                "angkat studi isi surat studi orang tua dokumen studi alamat bantu",
+                "nilai masuk siam abar data fajar"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berdasar arahan Kaprodi TIF, untuk pengajuan penambahan SKS di luar batas IP Beban adalah Dosen PA menyampaikan kepada KPS.Tugas mahasiswa menginfokan kepada Dosen PA dengan baik dan sopan. Terimakasih"
+            ]
+        },
+        {
+            "tag": "validasi_dosen_pa_pada_krs_siam_mahasiswa_masih_dalam_jadwal",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,MK .... sudah kami masukkan ke SIAM mhs, untuk validasi dosen PA wajib mengajukan sesuai pengumuman pada web filkom https://filkom.ub.ac.id/2021/08/21/pengajuan-validasi-untuk-krs-dengan-status-belum-disetujui/\" target=\"_blank Pengajuan validasi untuk KRS dengan status belum disetujui \u00bb Fakultas Ilmu Komputer | Universitas Brawijaya (ub.ac.id) Terimakasih"
+            ]
+        },
+        {
+            "tag": "proses_sertifikasi_it_belum_ada_jawaban",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Untuk isu seperti di atas bisa mengisi pada Halo SELMA UB jika pada link sertifikasi IT (https://sertifikasi.ub.ac.id/\" target=\"_blankhttps://sertifikasi.ub.ac.id/) belum menemukan jawaban. Terimakasih"
+            ]
+        },
+        {
+            "tag": "prasyarat_perpindahan_stream_keminatan",
+            "patterns": [
+                "prosedur pindah minat"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan KPS TIF, \"Tidak ada prosedur untuk berpindah stream/keminatan asalkan mampu mengerjakan skripsi sesuai dengan kelayakan dan kecukupan. Silakan bisa kontak ke calon dosen pembimbing di keminatan baru. Terimakasih"
+            ]
+        },
+        {
+            "tag": "pengajuan_proposal_skripsi_di_luar_jadwal_jtif",
+            "patterns": [
+                "tombol hijau coba kait",
+                "izin prosedur verifikasi dosen arah",
+                "nama teknik izin buka tanggal salah lihat tanggal",
+                "batas dosen",
+                "sedia proses terang dosen hubung langsung hubung"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan Kajur TIF, Mahasiswa bisa melakukan pengajuan mandiri melalui dosen pembimbing agar bisa tersampaikan kepada Kajur Terimakasih"
+            ]
+        },
+        {
+            "tag": "dosen_pembimbing_ujian_skripsi_tidak_hadir_salah_satu",
+            "patterns": [
+                "uji berkas berkas",
+                "daftar hasil uji daftar hasil uji hasil uji kampung halaman utara bantu kering",
+                "daftar uji bayar ukt penuh tinggal",
+                "bayar ukt uji daftar daftar kena biaya ukt",
+                "izin kait status bebas registrasi siam bayar ukt siam bayar bank nominal siam status bank daftar hasil sidang uji",
+                "uji dosen konsultasi dokumen",
+                "bantu surat terang uji",
+                "kait surat angkat laku uji nyata surat batas sidang proses tunggu balas dosen daftar masuk saran bebas ukt bebas status kritis",
+                "uji proses dokumen dokumen berita acara uji berita acara",
+                "buka isi cetak asli asli uji isi penuh",
+                "salah salah isi kolom dokumen uji judul ganti isi isi gambar filkom fajar kait fajar saran coba hubung",
+                "ambil mata uji ambil mata",
+                "staff aji angkat proses laksana uji nyata uji tahap laksana tahap laksana uji masuk periode surat bebas ukt daftar data uang niat data bebas ukt saldo ukt siam daftar batas studi bebas ukt",
+                "lembar nyata pakai uji",
+                "laksana uji dokumen dokumen",
+                "orang tua gaji surat nyata orang tua urus bebas ukt uji tunggu daftar",
+                "izin uji uji",
+                "bantu ukt bayar uji urus bantu laku bebas ukt",
+                "tunggu tanda tangan dosen lembar tunggu balas dosen dokumen uji ulang salah",
+                "angkat uji masuk harap bayar ukt",
+                "kait laksana uji temu laksana hasil rabu jam",
+                "kait status siam ubah aktif daftar saldo ukt bayar ukt saldo siam status aktif nyata uji pikir bayar ukt",
+                "izin undang uji uji undang pakai",
+                "uji bantu uji daring utara tinggal bantu kerja ayah tinggal pergi malang biaya tiket bantu",
+                "bebas ukt uji arah tiket bebas ukt bantu",
+                "isi konsultasi uji",
+                "surat uang daftar hasil uji",
+                "uji foto tunggu",
+                "prima uji daring uji ubah sumatra utara malang jawa timur laksana uji bantu",
+                "surat wakil berkas uji laksana timbang kait ukt"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Untuk pelaksanaan Ujian Skripsi tetap bisa dilaksanakan hanya dengan salah satu dosen pembimbing, tetapi kedua dosen penguji wajib hadir. Bagi dosen pembimbing yg tidak hadir masih tetap bisa mengisi penilaian pada filkom apps. Terimakasih"
+            ]
+        },
+        {
+            "tag": "pengajuan_praproposal_terkendala",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan pimpinan JTIF, mahasiswa tetap bisa mengajukan pra proposal skripsi (melalui akun yg gagal sebelumnya) dan proposal (mhs mengajukan ke pembimbing agar pembimbing bisa mengajukan kepada ketua jurusan) Terimakasih"
+            ]
+        },
+        {
+            "tag": "tombol_revisi_proposal_skripsi_pada_filkom_apps",
+            "patterns": [
+                "sedia judul",
+                "klik verifikasi kerja isi isi ulang data tahap status verifikasi",
+                "gagal langsung",
+                "ulang",
+                "isi cek notifikasi judul tulis judul cek ulang pilih temu kode",
+                "kait tenggang tenggang berita acara terbit"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Silahkan tekan tombol \"lakukan revisi\" warna merah dan ikuti petunjuk berikutnya untuk upload revisi Terimakasih"
+            ]
+        },
+        {
+            "tag": "kuota_paket_data",
+            "patterns": [],
+            "responses": [
+                "Proses pendaftaran mahasiswa baru/ lama  ke PD DIKTI masih berjalan dan tidak otomatis semua terinput di Sistem sehingga nomor Saudara masih belum mendapat paket Data pada bulan September dan Oktober ini, Kami akan pastikan data saudara terupdate di PD DIKTI sebagai dasar mendapatkan Paket Data pada bulan berikutnya. Terimakasih"
+            ]
+        },
+        {
+            "tag": "skl__transkrip",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Untuk SKL bisa menghubungi WA center Yudisium (081132007577), untuk transkrip bisa input di link berikut : https://bit.ly/TranskripNilaiFilkom\" target=\"_blankhttps://bit.ly/Transkrip Nilai Filkom (untuk transkrip sementara selama pandemi covid kami kirim melalui email) Terima Kasih"
+            ]
+        },
+        {
+            "tag": "transkrip_final_validasi_rektor_dan_dekan",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Transkrip Final yang sudah divalidasi rektor dan dekan bisa didapatkan setelah wisuda Terimakasih"
+            ]
+        },
+        {
+            "tag": "sertifikasi_it",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Informasi sertifikasi IT bisa cek pada laman yang disediakan https://sertifikasi.ub.ac.id/https://sertifikasi.ub.ac.id/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "pengambilan_ijazah_non_prosesi",
+            "patterns": [
+                "teknik komputer ambil ijazah ambil ijazah",
+                "kait ijazah proses",
+                "periode kait status proses teman status ijazah kerja berkas bantu proses berkas",
+                "izin data data data ijazah siam lengkap data ijazah nomor telepon alamat blok alamat orang tua blok bantu",
+                "angkat ijazah asli daftar malang kondisi arah bantu ijazah asli ambil langsung berkas cari salah",
+                "kabar sehat status periode daftar periode lihat daftar konfirmasi halaman konfirmasi konfirmasi daftar periode lihat daftar daftar ijazah daftar ulang pemberitahuan konfirmasi cek kait media sosial bantu",
+                "ambil ijazah ambil ijazah",
+                "ijazah temu laku ijazah",
+                "hakim status daftar filkom daftar filkom ijazah surat alhamdulillah hubung siam ubah ijazah siam ijazah konfirmasi ubah bantu surat pemberitahuan konfirmasi ijazah filkom status ubah verifikasi daftar kait pemberitahuan filkom proses tombol isi filkom",
+                "kait siam ubah kait status proses verifikasi data ijazah laku",
+                "akbar bantu kait ijazah",
+                "ijazah proses",
+                "prosedur berkas ijazah seleksi ahli program ijazah",
+                "ambil ijazah fisik ambil ambil ambil langsung filkom",
+                "uang malang nomor virtual bayar ijazah sedia nomor rekening",
+                "kait ambil ijazah rumah ambil ambil ambil ijazah sertifikat ambil batas ambil ijazah",
+                "ijazah langsung ambil ijazah",
+                "bantu ambil ijazah",
+                "izin verifikasi daftar tolak beda ijazah siam arah urus ijazah siam siam laku",
+                "surat verifikasi ijazah surat terang tulis langsung kait nyata lengkap data kerja surat",
+                "akun siam bahasa inggris ijazah bukti",
+                "angkat ulang lengkap ijazah",
+                "bantu ijazah format malang ijazah kerja bantu salah hayat",
+                "izin kait nilai nilai ijazah lihat hasil nilai siam nilai ubah nilai ubah nilai",
+                "periode ijazah ijazah ambil prosedur ambil",
+                "ijazah proses cepat proses ijazah urus daftar kerja",
+                "ijazah ambil bantu",
+                "ambil ijazah laksana raya ambil ijazah wakil wakil bawa surat kuasa",
+                "periode tata ambil ijazah nilai dokumen ambil langsung",
+                "tinggal tunggu pemberitahuan kembang ijazah"
+            ],
+            "responses": [
+                "Selamat Pagi, untuk pengambilan hari Senin - Jumat pukul 14.00-15.00 Bisa input d'link berikut : https://bit.ly/Pengambilan_Ijazah_Filkom\" target=\"_blank http://bit.ly/Pengambilan Ijazah Filkom Terima kasih"
+            ]
+        },
+        {
+            "tag": "pengajuan_transkrip_keperluan_beasiswa_mhs_do_semhas_validasi_kps_dll",
+            "patterns": [
+                "nilai daftar program merdeka merdeka",
+                "nyata tanggal program salah ijazah nilai surat terang sidang tunggu terbit",
+                "ijazah beda ambil nilai asli ijazah beda cetak ulang ijazah usaha nilai asli bantu",
+                "izin tata lihat ijazah",
+                "urus nilai",
+                "periode ajar ijazah nilai ambil",
+                "nilai giat nilai kerja buka wajib nilai giat",
+                "iman angkat nilai dokumen nilai kali",
+                "proses nilai",
+                "tahap status filkom proses hubung konfirmasi isi data isi data siam tulis",
+                "ijazah akreditasi ijazah tanda tangan akreditasi tanda tangan",
+                "ambil ijazah nilai ambil jam kota rencana langsung pulang ambil ijazah nilai",
+                "kerja bank program tahap tes sehat tahap lengkap dokumen ijazah asli nilai asli tunggu milik ijazah asli nilai asli daftar masuk periode laksana ambil ijazah asli batas lengkap dokumen bank ambil ijazah asli nilai asli langkah ambil urus",
+                "kait konsultasi sumbang dana masuk uang gedung lunas salah daftar hasil langsung uang",
+                "alhamdulillah mata proses jam panitia izin nilai aman jaring lengkap sidang sidang tunda jam kerja",
+                "surat isi foto ijazah",
+                "ijazah nilai cepat",
+                "izin nilai merdeka nilai",
+                "proses",
+                "nilai mata riset status mata",
+                "izin tanda tangan proses balas",
+                "liat status undur surat nilai biaya biaya bantu sidang bayar",
+                "konsultasi hubung isi",
+                "kritis status siam daftar daftar tunggu status siam ubah daftar akses terang hubung bidang registrasi ukt bayar habis studi",
+                "ralat nilai sidang status siam sidang daftar",
+                "ambil ijazah nilai",
+                "laksana nilai",
+                "ijazah ijazah tunggu distribusi ijazah kerja",
+                "kait uji uji khusus nilai terbit verifikasi uji",
+                "izin kait salah salah data data"
+            ],
+            "responses": [
+                "Selamat Pagi, bisa akses link berikut : https://bit.ly/TranskripNilaiFilkom\" target=\"_blank http://bit.ly/Transkrip Nilai Fikom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "pengajuan_transkrip_validasi_kps__jtif",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link layanan akademik FILKOM UB (JTIF ada pada kolom poin no 13 sebelah kanan)https://filkom.ub.ac.id/pendidikan/layanan-akademik/https://filkom.ub.ac.id/pendidikan/layanan-akademik/ <span style=\"color:rgb(0, 0, 0)1 permintaan Link transkrip awal (no 13)2 transkrip no 1 dikirimkan ke link berikutnya pada poin yg sama (no 13)</span> <span style=\"color:rgb(0, 0, 0)Terima Kasih</span>"
+            ]
+        },
+        {
+            "tag": "layanan_ruang_baca_filkom_ub",
+            "patterns": [
+                "teknik ruang baca",
+                "izin kait akses dokumen akses dokumen rumah baca ruang baca kait referensi kerja",
+                "angkat kait daftar foto ijazah bentuk bentuk ruang baca lambat penuh lengkap tera",
+                "wakil izin ruang baca kait ruang baca susun urut dasar ruang baca akses ruang baca kait ruang baca ruang baca",
+                "cari karya khusus tampung dokumen hubung ajar rumah malang akses ruang baca akses",
+                "akses ruang baca",
+                "ruang baca buka",
+                "kelompok isi proses terbit nilai siam nilai siam terbit nilai proses nilai isi berkas lengkap nilai dosen uji usaha ketua dosen lembar tanda ruang baca proses nilai nilai siam giat gugur proses nilai",
+                "ruang baca",
+                "akses ruang baca",
+                "ruang baca jam",
+                "program studi genap akses ruang baca ajar daring teknis akses program studi langsung ruang jam kerja akses khusus daring",
+                "ruang baca buka letak ruang baca",
+                "ruang baca",
+                "ruang baca buku pakai ganti",
+                "ruang baca",
+                "dokumen ruang baca",
+                "izin ruang baca kait tanda ruang baca tanda nilai terbit nilai nilai lengkap berkas bantu proses",
+                "urus dosen uji hasil batas nilai tinggal tanda tangan nilai siam tanda tangan ruang baca",
+                "angkat izin uang batal mata komputer penuh batal tanda tangan ketua laksana denda buku ruang baca isi uang uang uang uang",
+                "ruang baca nilai daftar hasil uji nilai"
+            ],
+            "responses": [
+                "Mohon maaf, ruang baca filkom belum bisa melayani secara online. Untuk sementara waktu hanya bisa memberikan opacnya saja melalui : http://10.34.15.14/slims7_cendana/http://10.34.15.14/slims7_cendana/ Catatan :- wajib menggunakan VPN jika diakses di luar UB- kalau Mahasiswa berada di malang, jam operasional layanan Ruang Baca pkl 8.30 sd 15.00- akan tetapi jika tidak di malang dan memerlukan sumber data bisa melakukan pesanan ke petugas, bisa melalui kontak WA di bawah ini :bp Syaifudin : 081555850538bp Pranoe T : 082232834561 terimakasih."
+            ]
+        },
+        {
+            "tag": "turnitin_prasyarat_sd_melihat_hasil_turnitin",
+            "patterns": [
+                "hasil dosen",
+                "data daftar data pakai hasil bantu",
+                "alami naskah kali kali naskah tolak alas asli sistem asli hasil dosen bantu",
+                "akun akun arah",
+                "izin bayar akun bayar panitia",
+                "kait prosedur buka akses dokumen daftar lantai proses dosen dosen respons kait hubung",
+                "fajar contoh surat nyata dosen dosen hasil dosen kait",
+                "hasil",
+                "hasil bantu",
+                "",
+                "hasil langsung pisah",
+                "daftar pustaka masuk dokumen cek daftar pustaka masuk dokumen deteksi",
+                "izin ulang bukti giat",
+                "dokumen dosen balas",
+                "izin daftar isi",
+                "ulang kait daftar pustaka ulang ulang periksa",
+                "kait proses daftar ulang daftar sidang daftar ulang bukti halo filkom",
+                "izin daftar tes",
+                "berkas lengkap daftar hasil berkas biaya daftar berkas berkas daftar persentase berkas buka akses daftar dosen dosen saran judul judul buka akses dosen akses buka akses buka alami tipe data sistem buka akses khusus tutup hasil verifikasi bukti usaha harap buka jalan uji daftar bebas biaya biaya",
+                "saran dosen artikel platform cek artikel cek cek mandiri cek",
+                "cek cek hasil cek ulang hasil laku",
+                "milik putar artikel ilmiah artikel ilmiah tanda tangan elektronik dosen uji dosen artikel ilmiah cek artikel ilmiah cek artikel ilmiah dokumen artikel ilmiah",
+                "bantu",
+                "izin bukti bayar bukti nota bayar foto bukti bayar akun",
+                "cek dosen salah bantu",
+                "sidang tahap daftar kabar salah teman angkat daftar daftar periode proses dokumen bukti bebas pustaka proses urus besok angkat kritis",
+                "tolak salah hasil hasil dokumen lalai naskah cek dosen kode kelas bantu laku",
+                "prosedur hubung dosen",
+                "kait cek masuk daftar pustaka cek hasil hasil simpul hasil banding izin",
+                "angkat hasil sidang hasil hasil sidang ukur hasil milik ukur zip"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link terkait prasyarat pengecekan plagiasi turnitin Filkom UB :https://filkom.ub.ac.id/2019/02/01/panduan-pemeriksaan-plagiasi-file-skripsi/https://filkom.ub.ac.id/2019/02/01/panduan-pemeriksaan-plagiasi-file-skripsi/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "transkrip_legalisir",
+            "patterns": [
+                "kait ijazah kena biaya tera biaya opsi ambil berkas tulis gratis bukti bayar biaya gratis foto bukti bayar tulis"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Jika sudah wisuda : https://bit.ly/LegalisirFilkom\" target=\"_blank https://bit.ly/Legalisir Filkom jika belum wisuda maka silahkan akses link berkut : https://bit.ly/TranskripNilaiFilkom\" target=\"_blank http://bit.ly/Transkrip Nilai Fikom Terima kasih"
+            ]
+        },
+        {
+            "tag": "persyaratan_semhas__ujian_skripsi_filkom",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Persyaratan Semhas dan Ujian Skripsi :1 Mendaftar pada filkom apps 2 Mengisi Form kelengkapan pengajuan semhas (no 15 : https://filkom.ub.ac.id/pendidikan/layanan-akademik/https://filkom.ub.ac.id/pendidikan/layanan-akademik/) Terimakasih"
+            ]
+        },
+        {
+            "tag": "ujian_khusus_filkom_ub",
+            "patterns": [
+                "nilai siam nilai"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link pengajuan Ujian Khusus Filkom UB, jika ditolak oleh KPS akan kami infokan melalui email mahasiswa https://s.ub.ac.id/ujiankhususfilkomubhttps://s.ub.ac.id/ujiankhususfilkomub Terimakasih "
+            ]
+        },
+        {
+            "tag": "tidak_bisa_masuk_link_uas",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai arahan dari PSIK ;- kapan pun sebenarnya masih bisa- akun google dan email pastikan menggunakan UB (student)- tidak dianjurkan utk ketik manual, diutamakan copas dari data studio- pastikan tidak ada spasi yg masuk- untuk efisiensi dan efektivitas kegiatan UAS, jika ada kendala lagi terkait join UAS bisa disampaikan ke zoom Posko sesuai pengumuman pada web melalui pengawas UAS Untuk memastikan bisa diberi contoh dari username dan contoh kelas serta enrol yg mau dimasukkan Terimakasih"
+            ]
+        },
+        {
+            "tag": "foto_yudisium",
+            "patterns": [
+                "daftar berkas ijazah foto format foto",
+                "foto daftar format warna merah biru",
+                "foto hasil warna latar",
+                "bantu kait foto",
+                "foto foto",
+                "foto",
+                "foto",
+                "verifikasi foto tinggal foto verifikasi",
+                "foto verifikasi verifikasi foto konfirmasi"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Pendaftaran yudisium per 29 10 2021 sudah melalui filkom apps, untuk detail foto bisa melihat deskripsi pada pengajuan/ daftar yudisium pada akun filkom apps masing2 :1. Background foto wajib biru terang2. Format Foto wajib DOF 3. Tidak memakai kacamata 4. Tidak memakai jas almamater 5. Wajib menggunakan busana nasional/ kebaya (bagi calon wisudawati) Terimakasih"
+            ]
+        },
+        {
+            "tag": "turnitin",
+            "patterns": [
+                "dokumen dosen balas",
+                "milik putar artikel ilmiah artikel ilmiah tanda tangan elektronik dosen uji dosen artikel ilmiah cek artikel ilmiah cek artikel ilmiah dokumen artikel ilmiah",
+                "cek dosen salah bantu",
+                "data daftar data pakai hasil bantu",
+                "akun akun arah",
+                "saran dosen artikel platform cek artikel cek cek mandiri cek",
+                "fajar contoh surat nyata dosen dosen hasil dosen kait",
+                "angkat hasil sidang hasil hasil sidang ukur hasil milik ukur zip",
+                "izin daftar tes",
+                "hasil bantu",
+                "kait cek masuk daftar pustaka cek hasil hasil simpul hasil banding izin",
+                "hasil langsung pisah",
+                "hasil dosen",
+                "daftar hasil hasil uji dokumen ukur tulis hasil uji format",
+                "izin bayar akun bayar panitia",
+                "angkat program studi berkas daftar hasil uji daftar hasil uji nilai nilai daftar hasil cakap bantu",
+                "berkas lengkap daftar hasil berkas biaya daftar berkas berkas daftar persentase berkas buka akses daftar dosen dosen saran judul judul buka akses dosen akses buka akses buka alami tipe data sistem buka akses khusus tutup hasil verifikasi bukti usaha harap buka jalan uji daftar bebas biaya biaya",
+                "buka akses coba hubung dosen bantu",
+                "izin bukti bayar bukti nota bayar foto bukti bayar akun",
+                "izin daftar isi",
+                "dokumen dosen balas",
+                "kait proses daftar ulang daftar sidang daftar ulang bukti halo filkom",
+                "tolak salah hasil hasil dokumen lalai naskah cek dosen kode kelas bantu laku",
+                "hasil",
+                "kait cek bantu dosen bantu",
+                "ulang kait daftar pustaka ulang ulang periksa",
+                "prosedur hubung dosen",
+                "izin pemberitahuan ganti judul studi daftar pustaka izin buka akun buka contoh simpul simpul merah simpul kerja proses rutin deteksi",
+                "daftar pustaka masuk dokumen cek daftar pustaka masuk dokumen deteksi",
+                "sidang tahap daftar kabar salah teman angkat daftar daftar periode proses dokumen bukti bebas pustaka proses urus besok angkat kritis"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link Layanan Plagiasi Turnitin :https://filkom.ub.ac.id/layanan-fasilitas/layanan-deteksi-plagiasi/https://filkom.ub.ac.id/layanan-fasilitas/layanan-deteksi-plagiasi/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "pengambilan_ktm",
+            "patterns": [
+                "ambil",
+                "ambil",
+                "ambil prosedur",
+                "data ambil angkat",
+                "ambil titip saudara malang",
+                "tiket ambil titip konfirmasi ambil ambil saudara hubung hubung jam kerja balas ambil urus berkas",
+                "ambil",
+                "ambil ambil",
+                "ambil ambil",
+                "teknis ambil penuh ambil",
+                "angkat ambil janji ambil",
+                "izin angkat ambil prosedur ambil",
+                "ambil ambil",
+                "bantu kait ambil",
+                "ambil",
+                "ambil",
+                "ambil prosedur",
+                "data ambil angkat",
+                "ambil titip saudara malang",
+                "tiket ambil titip konfirmasi ambil ambil saudara hubung hubung jam kerja balas ambil urus berkas",
+                "ambil",
+                "ambil ambil",
+                "ambil ambil",
+                "teknis ambil penuh ambil",
+                "angkat ambil janji ambil",
+                "izin angkat ambil prosedur ambil",
+                "ambil ambil",
+                "bantu kait ambil"
+            ],
+            "responses": [
+                "Bisa langsung datang ke ruang kemahasiswaan FILKOM UB di gedung A, ruang A1.5 pada hari dan jam kerja. Harap sebelumnya sudah mengisi form minat bakat melalui tautan berikut https://s.id/Bakat_Minat_FILKOMs.id/Bakat_Minat_FILKOM. Terima kasih"
+            ]
+        },
+        {
+            "tag": "pengambilan_ktm",
+            "patterns": [
+                "ambil",
+                "ambil",
+                "ambil prosedur",
+                "data ambil angkat",
+                "ambil titip saudara malang",
+                "tiket ambil titip konfirmasi ambil ambil saudara hubung hubung jam kerja balas ambil urus berkas",
+                "ambil",
+                "ambil ambil",
+                "ambil ambil",
+                "teknis ambil penuh ambil",
+                "angkat ambil janji ambil",
+                "izin angkat ambil prosedur ambil",
+                "ambil ambil",
+                "bantu kait ambil",
+                "ambil",
+                "ambil",
+                "ambil prosedur",
+                "data ambil angkat",
+                "ambil titip saudara malang",
+                "tiket ambil titip konfirmasi ambil ambil saudara hubung hubung jam kerja balas ambil urus berkas",
+                "ambil",
+                "ambil ambil",
+                "ambil ambil",
+                "teknis ambil penuh ambil",
+                "angkat ambil janji ambil",
+                "izin angkat ambil prosedur ambil",
+                "ambil ambil",
+                "bantu kait ambil"
+            ],
+            "responses": [
+                "KTM mahasiswa angkatan 2019 dan 2020 sudah bisa diambil di hari dan jam kerja di bagian kemahasiswaan FILKOM UB, gedung A ruang A1.5. Syarat pengambilan: harus sudah mengisi form Minat Bakat melalui tautan berikut https://s.ub.ac.id/1cxhttps://s.ub.ac.id/1cx. Terima kasih"
+            ]
+        },
+        {
+            "tag": "crisis_centre_uas_filkom_20211",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom, Untuk mempercepat progres UAS (sesuai arahan ketua panitia UAS), jika ada kendala mahasiswa terkait UAS ; zoom, PIN, jaringan, dll bisa menginfokan kepada bag crisis centre pada hari ini :https://univ-awijaya.zoom.us/j/93004097036?pwd=OVlIM1R5ZmprY0hnTXVUQmppWklaUT09https://univ-awijaya.zoom.us/j/93004097036?pwd=OVlIM1R5ZmprY0hnTXVUQmppWklaUT09 Terimakasih "
+            ]
+        },
+        {
+            "tag": "perubahan_jurnal_jtiik_ke_luar_jtiik",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Mahasiswa bisa mengisi pada bagian sc2-17 (setelah mahasiswa upload dokumen akhir pada filkom apps) sesuai pengumuman berikut (poin no 4)https://filkom.ub.ac.id/2021/04/22/surat-edaran-dekan-tentang-publikasi-jurnal-hasil-skripsi-mahasiswa/\" target=\"_blankhttps://filkom.ub.ac.id/2021/04/22/surat-edaran-dekan-tentang-publikasi-jurnal-hasil-skripsi-mahasiswa/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "pembayaran_diluar_jadwal_registrasi",
+            "patterns": [
+                "ilmu komputer angkat surat ringan biaya ukt wakil bidang uang turun ukt konfirmasi saran surat ringan wakil bidang uang",
+                "bayar ukt salah orang tua dada bayar bayar",
+                "angkat izin bayar ukt alas bayar ukt batas ekonomi bayar batal rendah hati izin bayar ukt urus batal nominal ukt ambil mata",
+                "bayar ukt lambat jam bayar buka tiket siam status daftar",
+                "izin prosedur verifikasi dosen arah",
+                "sedia proses terang dosen hubung langsung hubung",
+                "kait bayar sisa registrasi angsur kait bayar buka akses bayar",
+                "proses uang bank nomor bayar tutup buka tiket kait balas kait bayar sisa registrasi angsur kait bayar buka akses bayar buka bayar bayar bank",
+                "kota izin ambil dadak pergi malang bantu ambil",
+                "aktivitas daftar hasil alami tahap kerja laksana daftar hasil",
+                "bayar ukt",
+                "izin kait entri akses bayar uang uji penuh isi siam salah",
+                "izin dosen hubung langsung kepala departemen dosen dosen dosen",
+                "bantu akses bayar daftar sidang kait bayar teknis"
+            ],
+            "responses": [
+                "Pembayaran diluar jadwal registrasi memerlukan konfirmasi ke Bagian Keuangan terlebih dahulu melalui halofilkom.ub.ac.id untuk kami proses pembukaan Sistem Pembayaran, Silahkan mencantumkan Rencana tanggal dan nominal pembayaran disini saat akan membayar angsuran ke 2 dan 3. Terima Kasih"
+            ]
+        },
+        {
+            "tag": "surat_rekomendasi_beasiswa",
+            "patterns": [
+                "surat terang cuti",
+                "dosen surat terang sakit dosen",
+                "konfirmasi kait acara dokumen sertifikat surat terang sertifikat prestasi sertifikat bantu",
+                "surat terang bukti bayar ukt",
+                "isi kali surat terang aktif jam kerja bantu",
+                "surat terang status siam aktif ubah registrasi siam total bank bukti surat terang",
+                "akbar ubah status siam status prosedur status urus surat terang bukti",
+                "putra orang tua surat terang aktif kantor orang tua",
+                "izin dokumen surat terang pribadi dokumen alur dokumen arah",
+                "berkas urus surat terang ganti ijazah kabar surat terang surat terang ganti",
+                "angkat kait izin surat terang laku wajib ambil mata",
+                "surat terang",
+                "program studi bantu uang sedia bantu ringan biaya ukt ubah kelompok ukt surat terang hasil orang tua alami turun laku darurat kerja ayah dagang alami turun jual bantu uang tolak izin ringan biaya ukt bantu uang bayar ukt kerja ayah dagang alami darurat",
+                "surat terang aktif kerja orang tua anak negeri",
+                "prosedur surat terang aktif",
+                "surat terang aktif bayar gaji orang tua",
+                "surat terang",
+                "daftar surat terang",
+                "surat terang aktif kerja orang tua negeri sipil",
+                "urus ambil sertifikat surat terang",
+                "hubung kait surat terang urus penuh daftar salah program saran hubung nomor bantu kait",
+                "surat terang bayar sisa angsur ukt",
+                "izin surat terang daftar siam surat pilih daftar beban ukt surat contoh surat salah",
+                "surat buka tiket dokumen surat ringan ukt wakil wali gaji orang kartu surat terang dokter sakit hubung berkas",
+                "surat terang aktif teknik terang lengkap orang tua",
+                "urus surat terang urus surat terang",
+                "isi surat terang jam tanda tangan ketua panitia",
+                "izin periode ijazah surat terang",
+                "alami daftar status siam daftar ukt siam hubung uang kait bukti kait alami status siam surat terang",
+                "elang izin berkas surat terang aktif surat terang kena"
+            ],
+            "responses": [
+                "Template surat keterangan dapat diunduh di https://filkom.ub.ac.id/profil/dokumen-resmi/https://filkom.ub.ac.id/profil/dokumen-resmi/ Untuk Surat Keterangan dan Rekomendasi beasiswa wajib unggah dan mengisi informasi: Surat Keterangan/Rekomendasi yang sudah diisi dan ditandatangani (dapat unduh di https://filkom.ub.ac.id/profil/dokumen-resmi/https://filkom.ub.ac.id/profil/dokumen-resmi/)Nama beasiswa yang akan diajukan Sumber informasi beasiswa (cantumkan link informasi)"
+            ]
+        },
+        {
+            "tag": "bebas_pustaka_ub",
+            "patterns": [
+                "bebas pustaka urus",
+                "teknik komputer kait surat bebas pusat jaring hubung lancar lihat izin format kait bantu arah",
+                "sidang tahap daftar kabar salah teman angkat daftar daftar periode proses dokumen bukti bebas pustaka proses urus besok angkat kritis"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Surat bebas pustaka UB :https://lib.ub.ac.id/berita/panduan-pengurusan-bebas-pustaka-online/https://lib.ub.ac.id/berita/panduan-pengurusan-bebas-pustaka-online/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "batas_akhir_pendaftaran_semhas_ujian_skripsi",
+            "patterns": [],
+            "responses": [
+                "23 12 2021, pkl 23.59Mahasiswa memastikan bahwa sudah mendaftar pada form (https://filkom.ub.ac.id/pendidikan/layanan-akademik/https://filkom.ub.ac.id/pendidikan/layanan-akademik/ poin no 15) dan filkom apps sesuai pada halaman penjadwalan filkom apps Terimakasih"
+            ]
+        },
+        {
+            "tag": "bebas_tanggungan_laboratorium_filkom_ub",
+            "patterns": [
+                "nama sap izin contoh bebas"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link pengumuman bebas laboratorium filkom UB :https://filkom.ub.ac.id/2021/08/09/pengurusan-bebas-tanggungan-laboratorium-untuk-persyaratan-yudisium-sc2-18/https://filkom.ub.ac.id/2021/08/09/pengurusan-bebas-tanggungan-laboratorium-untuk-persyaratan-yudisium-sc2-18/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "form_pasca_ujian_skripsi",
+            "patterns": [
+                "kait ukt ukt normal ambil mata uji urus proses ringan ukt salah",
+                "izin laksana hasil uji lebaran gantung bijak dosen uji",
+                "nilai uji isi proses proses salah tanda tangan",
+                "tunggu tanda tangan dosen lembar tunggu balas dosen dokumen uji ulang salah",
+                "bantu ukt bayar uji urus bantu laku bebas ukt",
+                "bantu uang sidang milik daftar lambat daftar kena bayar ukt ringan bayar ukt orang tua bayar ukt isi bantu uang tulis bukti uji lembar lengkap minimal daftar bantu lembar lengkap bantu",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "daftar uji bayar ukt penuh tinggal",
+                "izin surat terang uji prosedur",
+                "uji bantu uji daring utara tinggal bantu kerja ayah tinggal pergi malang biaya tiket bantu",
+                "staff aji angkat proses laksana uji nyata uji tahap laksana tahap laksana uji masuk periode surat bebas ukt daftar data uang niat data bebas ukt saldo ukt siam daftar batas studi bebas ukt",
+                "kait surat angkat laku uji nyata surat batas sidang proses tunggu balas dosen daftar masuk saran bebas ukt bebas status kritis",
+                "izin uji uji",
+                "niat ubah daftar uji saran dosen kembang ilmu komputer hasil dokumen dosen hubung dosen lembar izin ubah",
+                "pandu prosedur laksana uji",
+                "izin uji daring kampung halaman utara bantu bantu ringan uji daring",
+                "open akses bayar bayar uji",
+                "putri angkat status siam uji berkas urus buka siam potong",
+                "daftar uji salah bukti bayar ukt bayar ukt bayar ukt bukti bayar cek bukti bayar buram baca utara buku tabung tinggal malang bukti bayar ukt buku tabung bukti bayar ukt mutasi gambar",
+                "izin uji ukt fase tunda ukt tunggu bantu ukt ajar angkat turun bantu ukt cair arah tunda bayar ukt wakil bidang nota dinas tunda bayar sidang cair dana bayar sisa uji arah",
+                "uji bayar ukt",
+                "uji nyata dosen uji dosen uji saran dosen uji coba hubung coba temu saran nilai uji kena nilai batas alas saran",
+                "ukt isi laksana uji bantu",
+                "ruang baca nilai daftar hasil uji nilai",
+                "bantu surat terang uji",
+                "tanda tangan ketua departemen lembar libur tanda tangan dosen langsung isi lembar dokumen berita acara uji",
+                "izin pandu daftar daring izin surat laksana uji izin pandu alur bantu arah",
+                "uji dokumen uji studi kritis kena bayar ukt penuh",
+                "data siam akses siam notifikasi hubung uang uang registrasi ukt bebas ukt bantu uang laksana uji",
+                "hasil uji dosen uji bayar ukt registrasi isi siam bayar ukt uji"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Ujian skripsi yg Anda laksanakan hari ini (28 12 2021) sudah diproses oleh majlis penguji :- form sc2-12 dan sc2-13 sudah bisa di download di akun masing2 mhs-sc2-16 &amp; sc2-17 (ttd scr daring) bisa diakses/ download setelah mhs unggah dokumen akhir dan disetujui oleh dosen  Terimakasih"
+            ]
+        },
+        {
+            "tag": "pkl__mbkm",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Info magang bisa cek web merdeka-filkom.ub.ac.id atau web mbkm kemendikbud.Prosedur PKL silahkan mencari tempat PKL terlebih dahulu kemudian mendaftar untuk diterbitkan surat pengantar melalui web filkom tab layanan akademik.Secara prinsip mahasiswa semester 6 ke atas punya hak untuk ikut mbkm, mhs diharap memastikan terlebih dahulu MK wajib sudah selesai ditempuh Terimakasih"
+            ]
+        },
+        {
+            "tag": "yudisium",
+            "patterns": [
+                "uang filkom daftar tanggal batas evaluasi daftar batas tanggal evaluasi dosen proses koreksi dokumen laku tanggal bayar biaya dokumen lengkap tinggal tunggu tanda tangan dosen proses tanda tangan",
+                "bayar ukt uji daftar daftar kena biaya ukt",
+                "izin kait ukt tahap proses verifikasi berkas laku bayar ukt",
+                "giat ambil tanda tangan fisik ambil tunggu ijazah bantu kandung tanda tangan",
+                "arah kait surat balas wajib bayar ukt genap bayar ukt genap program genap lengkap daftar program genap uang bantu angsur ukt genap izin periode bebas",
+                "daftar verifikasi tunggu baca daftar bebas siam siam akses bantu siam",
+                "bayar bayar siam",
+                "status siam bayar uji daftar lengkap daftar daftar bayar komunikasi fajar saran tunggu",
+                "izin konsultasi kait daftar cek nilai gambar siam data ijazah kait izin prosedur kerja status proses sedia",
+                "angkat masuk berkas sisa ukt total status siam aktif status daftar status daftar bantu daftar lunas sisa uang buka bayar ukt status daftar bayar sisa ukt aktif filkom",
+                "izin bebas terang proses tunggu bebas bayar",
+                "bukti konferensi internasional indeks and bukti",
+                "daftar daftar status film tunggu verifikasi daftar berkas verifikasi daftar teman teman",
+                "periode malang",
+                "bukti siam siam",
+                "kait daftar kolom terang tera proses tunggu bebas terang",
+                "uang bantu bebas ukt bebas ukt cek ukt registrasi siam status siam daftar daftar status filkom isi data siam bantu",
+                "sidang tunggu bayar ukt sisa saldo cair",
+                "nilai genap status filkom daftar nilai proses daftar",
+                "agung tinggal urus bayar ukt",
+                "urus arah dosen pilih pilih",
+                "izin status filkom gambar daftar periode isi siam salah",
+                "putri uji terang surat uji potong ukt bayar ukt ukt siam kena potong orang tua bayar ukt ringan bebas ukt",
+                "tunggu tahap daftar dokumen isi verifikasi data ijazah nomor isi data tinggal tunggu akses",
+                "kait siam akses data siam isi proses bantu",
+                "laksana nilai",
+                "staff genap program tugas sidang nilai genap program genap mata tugas data siam uang staff salah tangkap kena",
+                "angkat bebas ukt uji penuh",
+                "nilai",
+                "buka akses siam bayar salah salah"
+            ],
+            "responses": [
+                "Saat ini sedang proses sinkronisasi untuk memproyeksikan mahasiswa yang dapat mendaftar Yudisium maksimal tanggal 11 Januari 2022 untuk penentuan ditagihkan atau tidaknya UKT di Semester Genap 2021/2022"
+            ]
+        },
+        {
+            "tag": "pendaftaran_yudisium_filkom_ub",
+            "patterns": [
+                "bebas ukt sidang daftar",
+                "bidang kembang data uji daftar isi",
+                "daftar status registrasi siam bank",
+                "daftar",
+                "kait proses daftar nilai hasil studi siam nilai mata siam proses daftar status siam aktif nilai hasil studi mata daftar daftar",
+                "angkat proses verifikasi verifikasi proses daftar kritis",
+                "kait sisa saldo siram daftar bijak bebas ukt sisa saldo siam siram langsung bayar sisa saldo cair saldo sisa saldo sisa saldo ukt kait",
+                "angkat kait ukt ubah ukt ukt kontrak ukt ukt bayar ukt nilai kali lipat ukt kait ukt daftar ukt sidang ambil aktif daftar bukti daftar filkom cek kait ukt bayar daftar",
+                "bebas ukt daftar daftar bayar",
+                "sidang besok daftar daftar",
+                "daftar daftar status film tunggu verifikasi daftar berkas verifikasi daftar teman teman",
+                "sidang tahap daftar kabar salah teman angkat daftar daftar periode proses dokumen bukti bebas pustaka proses urus besok angkat kritis",
+                "kait siam laksana sidang status siam ubah urus status siam daftar jam status siam ubah daftar cek siam bayar uji proses daftar surat ukt alas berat bayar nominal orang tua pensiun bayar bayar tunda alas penuh biaya gaji bayar harap bantu surat pemberitahuan potong ukt korelasi nomor",
+                "proses verifikasi verifikasi proses daftar kritis filkom",
+                "izin isi daftar data kait tinggal tunggu laku status hasil status ubah foto status",
+                "izin ukt daftar filkom tulis nyata tunggu akses daftar siam kait",
+                "izin daftar lancar proses daftar daftar periode saldo sisa dana ukt siam isi data lambat kait uang cair isi siam dana bukti",
+                "daftar cek lengkap proses siam status daftar siam bebas tolak terang data penuh isi daftar proses bebas daftar salah lengkap siam siam bayar bank bayar tunggu bebas batas bayar ukt tinggal status siam daftar tunggu bebas bayar ukt batas bayar proses bayar ukt proses status daftar siam siam bantu",
+                "daftar status siam ukt cek status ukt siam",
+                "daftar daftar tolak lembar lembar sidang saran hubung",
+                "wakil izin daftar daftar berkas proses tanda tangan dosen sidang daftar berkas",
+                "daftar daftar tolak sekretaris departemen lembar siam ijazah ijazah ijazah ijazah",
+                "daftar terang nilai siam nilai",
+                "tau daftar genap sidang daftar daftar",
+                "izin siam isi data daftar",
+                "bantu buka akses daftar",
+                "izin daftar bijak bebas ukt data siam pemberitahuan uang hubung uang milik ukt",
+                "kait daftar kolom terang tera proses tunggu bebas terang",
+                "agung bebas bayar ukt proses daftar siam daftar bebas biaya ukt status siam daftar",
+                "sidang daftar lembar"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi Halo Filkom, Berikut kami kirimkan link prosedur pendaftaran yudisium Filkom :https://filkom.ub.ac.id/pendidikan/prosedur-pelayanan-akademik/yudisium/https://filkom.ub.ac.id/pendidikan/prosedur-pelayanan-akademik/yudisium/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "toefl",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Silahkan bisa menyesuaikan dengan link berikut https://blc.ub.ac.id/\" target=\"_blankhttps://blc.ub.ac.id/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "permasalahan_sibaku",
+            "patterns": [
+                "sistem ilmu komputer angkat laku ringan ukt tutup tanggal jam bukti bukti kuat berkas pilih berkas tulis tutup lihat tanggal jam",
+                "izin konfirmasi web kosong berkas tangga bukti cek tanggal berkas kosong arah",
+                "aktivitas izin pilih foto orang tua pilih laku ukt",
+                "nama didik angkat turun kelompok ukt sistem surat surat pensiun tinggal dunia surat surat terang surat surat pensiun tinggal dunia bantu harap turun ukt kondisi ekonomi keluarga alaikum",
+                "kait surat angkat laku uji nyata surat batas sidang proses tunggu balas dosen daftar masuk saran bebas ukt bebas status kritis",
+                "banding hasil bantu uang banding tolak dasar atur bebas ukt orang tua wali bencana bencana bencana alam gempa bencana bebas ukt alas ayah bencana alami putus jaring retina mata ayah alami operasi kali biaya kondisi ayah pensiun keluarga milik sumber hasil hasil putus tolak banding banding dokumen orang surat bukti hasil bukti hasil surat terang bukti medis operasi surat putus pensiun",
+                "angkat putar bebas ukt sidang bukti gaji orang tua surat milik gaji orang tua profesi surat pensiun orang tua pensiun surat",
+                "berkas salah berkas bukti hasil orang tua siam",
+                "angsur bayar ukt",
+                "proses data tunggu data halaman kontak siam proses tunggu kontak tunggu cek akses siam gambar bebas verifikasi siam ubah status daftar gambar akses status siam daftar tunggu akses buka kondisi akses gambar bukti siam status daftar",
+                "didik jalur prestasi nomor daftar angsur ubah angsur angsur bayar ukt bayar angsur bayar atur bantu",
+                "orang tua pensiun isi kerja orang tua isi",
+                "ukt bantu angsur isi nominal",
+                "angkat laksana sidang data unit daftar laksana entri genap entri bayar ukt bebas ukt laksana sidang entri bayar ukt ringan",
+                "bantu turun ukt angsur ukt kondisi uang orang tua stabil salah orang tua tinggal dunia",
+                "izin proses angsur ukt hasil verifikasi angsur kolom total bank ubah nominal angsur proses bayar ukt hasil verifikasi bantu ubah nominal angsur",
+                "ringan ukt ringan ukt data orang tua paham pilih tipe ringan pilih ubah kelompok ukt tolak terang kelompok ukt rendah seleksi mandiri kondisi ekonomi orang tua bantu ringan ukt bantu",
+                "bantu uang turun tunda saran laku bayar",
+                "data isi judul ubah kelompok ukt ukt bebas ukt isi batas pilih pilih alas alas bantu uang kosong pilih pilih pilih gambar bantu",
+                "siam bantu tulis bantu bayar sisa bayar bantu",
+                "program studi sistem data klik dasar alas dasar alas pilih",
+                "bantu uang pilih angsur jam siam ubah nominal bayar bantu ubah angsur timbang",
+                "bantu uang akun milik akses sistem tata bantu uang",
+                "",
+                "didik isi data pilih isi pilih dasar alas milik surat bantu",
+                "daftar bantu ukt tulis jam bantu bantu ringan bayar ukt",
+                "bantu uang prosedur",
+                "bentuk surat orang tua berkas contoh bentuk surat referensi",
+                "proses berkas dokumen ringan ukt",
+                "siam ukt potong sidang urus langsung"
+            ],
+            "responses": [
+                "Terkait dengan permasalahan pada sistem Informasi Sibaku silahkan sampaikan pada https://helpdesk-tik.ub.ac.id/https://helpdesk-tik.ub.ac.id/ dikarenakan sistem tersebut sepenuhnya di operasikan oleh Universitas."
+            ]
+        },
+        {
+            "tag": "perkuliahan_hybrid",
+            "patterns": [
+                "angkat genap opsi daring",
+                "tipe laku daring kait sistem",
+                "masuk jenis isi data kait sedia izin alih",
+                "didik angkat daring posisi jakarta",
+                "angkat tulis tiket dasar surat daring pergi malang minimal lebaran isi ganti daring lebaran malang lebaran",
+                "orang tua wajib",
+                "temu genap temu daring malang",
+                "daring pilih daring tunggu putus",
+                "izin laksana isi data masuk",
+                "izin isi daring ubah",
+                "izin kait laksana kampung halaman jakarta keluarga milik ekonomi usaha orang tua malang biaya jalan aktivitas",
+                "program studi izin kelas pindah",
+                "kait prosedur izin daring nomor milik kena demam darah orang tua malang saran bantu kait bantu kait prosedur",
+                "malang jalan test hasil positif kelas",
+                "putus daring",
+                "salah pulang daring surat putus kota tulis kota kait efektif pulang kota departemen selenggara potong libur lebaran lebaran kota pesan kaji putus harap putus surat nyata daring lebaran daring",
+                "izin kampung halaman jakarta keluarga milik ekonomi usaha orang tua malang biaya isi surat nyata jalan aktivitas",
+                "kelas paket bantu kelas dasar data kelas jam kelas jam daring",
+                "ajar kena daring daring",
+                "isi surat marak orang tua izin daring metode laksana laksana daring",
+                "izin kait data tatap muka genap proses data kelas tatap pindah kelas kelas daring kelas",
+                "surat nyata izin orang tua paket daring",
+                "surat laksana sistem laksana daring saran bebas pilih laksana daring pulau jawa biaya",
+                "izin teman data ajar lebaran hubung kait jalan kelas non daring isi",
+                "temu genap temu daring daring malang izin orang tua izin prosedur",
+                "data isi data tera batas isi buka isi pilih posisi daring",
+                "dewa gede angkat program studi hubung kait laksana laksana daring kondisi ekonomi pergi malang pergi malang",
+                "kait ajar motor",
+                "izin mata sedia",
+                "izin surat laksana padu isi data daring pindah kelas genap wajib"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan pengumuman universitas dan fakultas :https://filkom.ub.ac.id/2022/01/19/perkuliahan-semester-genap-tahun-akademik-2021-2022-di-fakultas-ilmu-komputer-universitas-awijaya/https://filkom.ub.ac.id/2022/01/19/perkuliahan-semester-genap-tahun-akademik-2021-2022-di-fakultas-ilmu-komputer-universitas-awijaya/pendataan fakultas : https://filkom.ub.ac.id/2022/01/21/pengumuman-pendataan-mahasiswa-mengikuti-perkuliahan-tatap-muka/https://filkom.ub.ac.id/2022/01/21/pengumuman-pendataan-mahasiswa-mengikuti-perkuliahan-tatap-muka/Mahasiswa jika tidak mengisi maka dianggap menyetujui perkuliahan Daring bukan Luring Terimakasih"
+            ]
+        },
+        {
+            "tag": "mahasiswa_kritis_sudah_ujian__status_do",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Status DO (mahasiswa kritis) saat ini dikarenakan belum mendaftar yudisium dan masa studi telah habis, akan kami bantu untuk pengajuan perubahan ke pusat dengan syarat mahasiswa segera mengajukan yudisium sesuai ketentuan yang ada (filkom apps dan SIAM)SK yudisium akan diajukan kepada keuangan oleh bag akademik untuk pembebasan keuangan pada smt berikutnya (jk telah dianggap mendaftar yudisium pada smt sebelumnya) Terimakasih"
+            ]
+        },
+        {
+            "tag": "ukt_mhs_ujian_skripsi_belum_yudisium_selain_kritis",
+            "patterns": [
+                "izin sidang daftar bayar ukt siam",
+                "bayar ukt sidang daftar lengkap berkas bayar ukt coba bayar sistem"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Status Anda per hari ini adalah selesai ujian, belum mendaftar yudisium apps, segera lakukan pendaftaran pada filkom apps jika telah selesai revisi.Proses tagihan pada SIAM bagi mahasiswa 2015 yg belum mendaftar yudisium pada waktu yg telah ditentukan diberlakukan sesuai edaran Rektor no 7078 atau 5287.1 yaitu 50%Berikut kami kirimkan link https://ub.ac.id/id/edaran-mengenai-kebijakan-uang-kuliah-tunggal/https://ub.ac.id/id/edaran-mengenai-kebijakan-uang-kuliah-tunggal/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "link_data_uji",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Yang dimaksud adalah Link folder drive dari mahasiswa terkait file unggah data pengujian/ perancangan skripsinya, biasanya pada bab 5-6 kondisional tergantung skripsinya juga Terimakasih"
+            ]
+        },
+        {
+            "tag": "batas_sks_beban_mhs",
+            "patterns": [],
+            "responses": [
+                "<figure>cid:x5ntb0nyinevlh1v7auazrqa3zx92oka\" data-image=\"X5nTB0Nyinevlh1v7auAzrqA3zx92OkAimage</figure>"
+            ]
+        },
+        {
+            "tag": "batas_konversi_nilai_ke_huruf",
+            "patterns": [],
+            "responses": [
+                "<figure>cid:rnodgycown0bnec82rianm2_ppcajnim\" data-image=\"RNoDgYcOWN0BnEc82RIANM2_PpcAjNIMimage</figure>"
+            ]
+        },
+        {
+            "tag": "bantuan_ukt",
+            "patterns": [
+                "ringan ukt prosedur",
+                "bantu angsur ukt bank kondisi uang orang tua angsur bantu",
+                "nama sistem angkat filkom kena ringan ukt orang tua alami bayar ukt penuh buka bantu ukt hubung kabar tanggal filkom ringan angsur bayar ukt",
+                "nama sistem angkat filkom kena ringan ukt orang tua alami bayar ukt penuh buka bantu ukt hubung kabar tanggal filkom ringan angsur bayar ukt",
+                "turun biaya ukt",
+                "kait bantu ukt uang",
+                "biaya ukt bantu ukt ambil ambil milik surat genap genap bukti registrasi ulang uang bantu ukt bantu usaha kali",
+                "izin uji ukt fase tunda ukt tunggu bantu ukt ajar angkat turun bantu ukt cair arah tunda bayar ukt wakil bidang nota dinas tunda bayar sidang cair dana bayar sisa uji arah",
+                "ukt bantu ukt berat lunas bantu",
+                "status siam tulis registrasi bantu ukt status angsur coba bayar tulis lunas coba bayar bank bayar daftar sidang",
+                "bantu ukt harap daftar guru bantu bantu ukt langsung guru buka daftar bantu ukt",
+                "izin siam bantu ukt nominal ukt teman nominal bantu ukt bantu ukt",
+                "bayar ukt penuh uang rumah tiket arah web tiket coba urus ringan ukt masuk bantu ukt urus bantu ringan ukt bayar ukt angsur proses",
+                "bantu ukt akun siam tulis bantu",
+                "izin bantu ukt surat putus",
+                "surat patria akbar resmi web lambat bantu ukt orang tua turun stabil patria akbar ringan bayar ukt surat",
+                "putri izin bantu ukt siam tulis ukt bantu cek total ukt bayar nominal bantu",
+                "angkat bantu ukt alur ambil nan dasar surat ringan ukt ringan siam kait bantu urus bantu ukt alur urus ringan",
+                "tahap sidang bayar ukt langsung potong daftar bantu ukt",
+                "angsur siam nominal angsur bantu ukt",
+                "kait bantu ukt bayar ukt sidang tinggal urus total bank siam salah bantu bebas ukt kait siam",
+                "gaji potong ukt bayar gaji tinggal hidup rumah anggota keluarga tolak ubah laku banding tolak cair potong siam bantu ukt biaya mata bayar salah dokumen anggota keluarga orang gaji berkas penuh bantu coba kontak halo",
+                "izin bantu ukt tau hasil",
+                "izin kait bantu ukt isi kait bantu ukt",
+                "teknik bayar ukt laksana uji daftar verifikasi bantu ukt pilih ringan ukt alas uji laksana daftar batas daftar bayar ukt",
+                "potong biaya ukt surat teman kait program biaya ukt tulis surat sayang web harap bantu ukt ringan orang tua",
+                "angelika kait bantu ukt tera gambar bantu aktif ukt bayar sisa ukt bank",
+                "bantu ukt genap urus genap daftar ulang genap daftar ulang hubung bayar ukt genap bantu ukt ambil bantu bantu ukt kondisi uang keluarga kondisi bantu",
+                "bantu ukt studi biaya lambat bayar ukt",
+                "bantu ukt siam akun siam nominal ubah tolak"
+            ],
+            "responses": [
+                "Untuk permohonan pengurangan UKT dilakukan melalui satu pintu pada sibaku.ub.ac.id dan dikarenakan sibaku telah ditutup Saudara disilahkan mengajukan pengurangan UKT di semester berikutnya. Sedangkan untuk pengajuan angsuran disilahkan mengajukan permohonan tertulis ditujukan kepada Wakil Dekan II FILKOM UB. Untuk surat permohonan berupa surat pribadi dan tidak ada format khusus. Silahkan diajukan dengan format rapi dan sopan dan dikirim via halo filkom dengan nomor tiket yang sama."
+            ]
+        },
+        {
+            "tag": "faq_perkuliahan_hybrid_filkom_ub",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan FAQ Perkuliahan Filkom UBhttps://filkom.ub.ac.id/2022/01/24/faq-seputar-penyelenggaraan-perkuliahan-hyid-filkom-di-semester-genap-2021-2022/https://filkom.ub.ac.id/2022/01/24/faq-seputar-penyelenggaraan-perkuliahan-hyid-filkom-di-semester-genap-2021-2022/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "daftar_ulang",
+            "patterns": [
+                "salah calon izin angsur batas daftar ulang alami uang bayar",
+                "arah surat nyata angsur daftar ulang",
+                "guntur angkat cuti registrasi siam registrasi tulis bank bayar ukt tulis daftar ulang ukt normal ambil ringan turun ukt jujur biaya",
+                "genap cuti daftar ulang langsung daftar ulang",
+                "angkat sidang batas urus berkas prosedur urus berkas lengkap hubung wakil kena daftar ulang",
+                "salah calon izin bayar uang nominal bayar daftar ulang bayar ringan batas daftar ulang alami uang bayar",
+                "bantu ukt genap urus genap daftar ulang genap daftar ulang hubung bayar ukt genap bantu ukt ambil bantu bantu ukt kondisi uang keluarga kondisi bantu",
+                "angkat izin bayar ukt laksana cuti bukti daftar ulang bayar ukt tera biaya bayar ukt laku isi",
+                "program studi independen nilai mata ubah urus independen independen proses ubah independen studi independen independen beda ubah urus evaluasi ganti aman jaring milik panitia nilai nilai independen mata ganti aman jaring nilai independen hapus laku lurus nilai mata izin nilai daftar ulang sidang",
+                "lambat bayar daftar ulang program akses bayar program genap saran",
+                "nada nomor daftar daftar seleksi alih program bayar daftar ulang lihat angsur bayar keluarga proses bantu",
+                "daftar ulang buka isi halaman",
+                "pilih pilih daftar daftar daftar ulang prosedur",
+                "bantu daftar ulang",
+                "angkat tulis pandu daftar ulang genap isi entri periksa salah mata mata agama mata agama agama siam tulis agama",
+                "izin ringan biaya daftar ulang seleksi alih program",
+                "bantu alur daftar ulang cuti ringan ukt cuti bayar biaya hidup biaya orang tua bantu",
+                "daftar ulang ukt cuti masuk bantu",
+                "anak tanjung calon program studi nomor daftar ukt total orang tua proses gadai cair rabu bayar daftar ulang rabu bayar bantu",
+                "rencana cuti tunggu cuti bayar ukt daftar ulang bayar ukt cuti uang ukt",
+                "kait bantu ukt daftar ulang bayar ukt daftar bantu ukt biaya ukt potong bayar",
+                "status filkom proses verifikasi dokumen status bayar ukt daftar ulang",
+                "daftar surat balas daftar ulang",
+                "cuti bayar ukt bayar daftar ulang",
+                "nyata lolos seleksi bayar daftar ulang biaya daftar ulang",
+                "izin genap aktif status siam daftar daftar ulang ukt wajib bayar ukt aktif ringan",
+                "besok bayar daftar ulang",
+                "bayar daftar ulang bank buka libur",
+                "surat angsur konfirmasi angsur batas daftar ulang tunggu",
+                "angsur ukt bayar proses daftar ulang surat angsur bayar biaya angsur ubah angsur bayar"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan Prosedur Daftar Ulang Mahasiswa smt Genap 2021/2022https://filkom.ub.ac.id/2022/01/20/prosedur-daftar-ulang-mahasiswa-semester-genap-ta-2021-2022-filkom-ub/https://filkom.ub.ac.id/2022/01/20/prosedur-daftar-ulang-mahasiswa-semester-genap-ta-2021-2022-filkom-ub/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "kuliah_hybrid",
+            "patterns": [],
+            "responses": [
+                "FAQ Seputar Penyelenggaraan Perkuliahan Hyid FILKOM di Semester Genap TA. 2021/2022 dapat diakses di tautan berikut https://filkom.ub.ac.id/2022/01/24/faq-seputar-penyelenggaraan-perkuliahan-hyid-filkom-di-semester-genap-2021-2022/https://filkom.ub.ac.id/2022/01/24/faq-seputar-penyelenggaraan-perkuliahan-hyid-filkom-di-semester-genap-2021-2022/ Informasi Pengumuman Pendataan Mahasiswa Mengikuti Perkuliahan Tatap Muka dapat diakses di tautan berikut https://filkom.ub.ac.id/2022/01/21/pengumuman-pendataan-mahasiswa-mengikuti-perkuliahan-tatap-muka/https://filkom.ub.ac.id/2022/01/21/pengumuman-pendataan-mahasiswa-mengikuti-perkuliahan-tatap-muka/ Terima kasih"
+            ]
+        },
+        {
+            "tag": "permohonan_perpanjangan_mahasiswa_do_diluar_skripsi",
+            "patterns": [
+                "studi lambat laku rusak tau alat sayang gagal usaha harap studi",
+                "konsultasi kait bijak studi wajib bayar ukt aktif kait bantu arah"
+            ],
+            "responses": [
+                "Sesuai arahan dari Wakil Dekan Bidang Akademik, mahasiswa bisa mencoba mengisi form berikut serta meminta persetujuan rekomendasi dari KPS Catatan pada bagian bawah form harap dicermati dengan teliti Surat diisi oleh mahasiswa, dan ditandatangani oleh orang tua, mahasiswa, dan meminta juga tanda tangan ketua program studi lalu mengumpulkan melalui Google Form atau dikirimkan ke email mailto:filkom@ub.ac.id\" target=\"_blank filkom@ub.ac.id File disimpan dengan nama file: perpanjangan-prodi-nim dalam format dokumen atau PDF (Kode Prodi: TIF / TKOM / SI / TI / PTI / ILKOM"
+            ]
+        },
+        {
+            "tag": "perkuliahan_hybrid_wajib_hadir",
+            "patterns": [],
+            "responses": [
+                "Sesuai arahan dari WD1, semua perkuliahan secara dasar ya harus datang dan offline, pandemi yang menjadi dasar untuk tdk luring, akan tetapi jika pandemi mulai bisa dinetralisir maka kewajiban mahasiswa ya harus datang.Kalau masih keberatan maka mahasiswa diminta membuat surat keberatan dan bukti dukung tidak bisa luring Terimakasih"
+            ]
+        },
+        {
+            "tag": "pendataan_kelas_penuh",
+            "patterns": [
+                "buka data kelas penuh coba pakai data",
+                "ambil kelas penuh daftar data kelas penuh dispensasi lunas bayar ukt",
+                "angkat kelas web data ambil kelas mata kelas penuh mata ambil data rencana analisis desain isi data kelas penuh malang urus",
+                "wakil kait data kelas penuh genap data ambil mata kelas penuh data tutup kabar kait kelas kelas kait besok mata kabar kait data",
+                "angkat rencana susun isi mata desain eksperimen bidang didik sekolah ajar produk bisnis data ajar interaktif maya siam kelas penuh isi data kelas penuh isi",
+                "data kelas penuh bayar mata penuh",
+                "bayar ukt kelas mata aman media tera data kelas penuh data mata perangkat gerak"
+            ],
+            "responses": [
+                "Pendataan kelas penuh : https://filkom.ub.ac.id/2022/01/30/pendataan-kelas-penuh-semester-genap-2021-2022/\" target=\"_blankhttps://filkom.ub.ac.id/2022/01/30/pendataan-kelas-penuh-semester-genap-2021-2022/ Terima Kasih"
+            ]
+        },
+        {
+            "tag": "validasi_krs_jtif_terlambat",
+            "patterns": [
+                "izin konsultasi",
+                "siam hubung dosen siam hubung siam",
+                "izin dosen hubung dosen coba hubung dosen buka"
+            ],
+            "responses": [
+                "Sesuai arahan pimpinan JTIF, mahasiswa diharap mengajukan ttd kepada dosen PA serta diajukan pada Form di bawah ini.Berikut kami kirimkan pengajuan validasi KRS mahasiswa AKTIF yang terlambat https://s.ub.ac.id/validasikrsjtifterlambathttps://s.ub.ac.id/validasikrsjtifterlambat Terimakasih"
+            ]
+        },
+        {
+            "tag": "ijazah",
+            "patterns": [
+                "status dokumen tunggu dosen status dosen tunggu dosen dosen konfirmasi dokumen status ubah tunggu status tunggu target minimal daftar bebas ukt",
+                "target nilai turun pikir target ambil nilai ulang",
+                "salah pilih target pilih akreditasi",
+                "ubah data ubah target",
+                "uang angkat program mata mata tutup target kredit kali bayar kondisi ekonomi orang tua turun bayar sisa bayar bayar tutup bayar angsur bayar bayar bayar saran uang angsur ukt khusus dokumen tiket uang bantu"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Progres ijazah bisa diakses di https://bit.ly/3rBYWFn\" target=\"_blank http://bit.ly/3rBY Fn Mekanisme pengambilan bisa mengisi link berikut https://forms.gle/TzvYW6iXW2pRM8Ly7\" target=\"_blankhttps://forms.gle/TzvI W6iXW2pRM8Ly 7 Terimakasih "
+            ]
+        },
+        {
+            "tag": "legalisir_ijazah",
+            "patterns": [
+                "angkat bayar biaya ijazah nomor rekening akses virtual virtual bank",
+                "cek ijazah alamat jawa timur",
+                "ijazah",
+                "kait ijazah isi proses konfirmasi nomor tera konfirmasi aktif",
+                "ijazah nilai langsung",
+                "isi ijazah ijazah konfirmasi daftar",
+                "ijazah daftar cari web",
+                "ijazah masuk kerja pilih kota banda aceh",
+                "ijazah akreditasi ijazah tanda tangan akreditasi tanda tangan",
+                "ijazah akreditasi ambil",
+                "ambil ijazah ijazah ambil ijazah ambil lihat ambil ijazah ijazah ijazah",
+                "angkat ijazah nilai",
+                "bantu angkat pemrosesan ijazah malang alamat rumah jalan kota jawa",
+                "ijazah ambil ijazah",
+                "angkat konfirmasi ambil ijazah jam kerja ijazah paket",
+                "izin ijazah harga alamat jawa jenis ijazah tanda tangan asli",
+                "ijazah ijazah rabu hasil ijazah ambil tunggu",
+                "izin tata lihat ijazah",
+                "angkat ijazah nilai tiket nomor tiket balas proses proses daftar",
+                "bidang kait ijazah daftar rabu jam ambil ijazah ambil isi ambil salah",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "dokumen ijazah akreditasi tanda tangan asli bayar biaya alamat lengkap mufakat lambung selatan kota kalimantan selatan",
+                "ambil ijazah",
+                "ijazah",
+                "ijazah nomor paket ijazah berkas",
+                "tera ijazah surat terang akreditasi program studi",
+                "ijazah ambil ijazah asli daftar masuk angkat urus ijazah nilai ijazah akreditasi langsung urus malang kena biaya",
+                "kait ijazah kena biaya tera biaya opsi ambil berkas tulis gratis bukti bayar biaya gratis foto bukti bayar tulis",
+                "ijazah biaya rekening tera salah",
+                "prosedur ijazah isi nomor hubung urus"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Legalisir ijazah ; https://bit.ly/LegalisirFilkom\" target=\"_blank http://bit.ly/Legalisir Filkom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "list_dosen_minat_skripsi",
+            "patterns": [],
+            "responses": [
+                "Berikut kami sampaikan nama dosen sesuai minat yang ada pada FILKOM UB (wajib menggunakan email UB/ student) :https://docs.google.com/spreadsheets/d/1JxeWGjL-rG_Cz3VwHNOCHUOCrLBmEpIl/edit?usp=sharing&amp;ouid=110337177431172742636&amp;rtpof=true&amp;sd=truehttps://docs.google.com/spreadsheets/d/1JxeWGjL-rG_Cz3VwHNOCHUOCrLBmEpIl/edit?usp=sharing&amp;ouid=110337177431172742636&amp;rtpof=true&amp;sd=true Terimakasih"
+            ]
+        },
+        {
+            "tag": "legalisir_khs_dll_dtif",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom, Berikut kami kirimkan link layanan akademik legalisir TIF FILKOM UBhttps://docs.google.com/forms/d/1xhgJyPQB7OosIU-A2EzqMgfLmu5QJxt6pxj5tBQiBLY/edithttps://docs.google.com/forms/d/1xhgJyPQB7OosIU-A2EzqMgfLmu5QJxt6pxj5tBQiBLY/edit Terimakasih"
+            ]
+        },
+        {
+            "tag": "pin",
+            "patterns": [],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom, Lulusan mulai 28-12-2020 wajib PIN , PIN adalah Penomoran Ijazah Nasional, tahap untuk pengajuan PIN harus dilakukan pelaporan lulus di PDDIKTI, kemudian akan dilakukan pengecekan data antara data di UB dengan di PDDIKTI, sementara belum bisa dilakukan pelaporan data d'karena sedang dilakukan migrasi data PDDIKTI ke server yang baru. Terimakasih"
+            ]
+        },
+        {
+            "tag": "tidak_bisa_mengikuti_perkuliahan_luring_hybrid",
+            "patterns": [
+                "orang tua amar teknik timbang harap amar amar pindah kelas kelas",
+                "isi verifikasi cetak"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Menginfokan terkait perkuliahan yg telah berjalan s.d UTS sekarang, maka jika terdapat mahasiswa dengan kelas non hyid dan berhalangan untuk mengikuti secara luring dimohon mengisi Form berikut ini sbg pendataan akademik fakultas s.d jumat 08 04 2022 :https://docs.google.com/forms/d/e/1FAIpQLSfN_-ptPujRNgvv9Up9ZnjRp64w8RqeS7_BO4XAhzl95u0HyA/viewform\" target=\"_blankhttps://docs.google.com/forms/d/e/1FAIpQLSfN_-ptPujRNgvv9Up9ZnjRp64w8RqeS7_BO4XAhzl95u0HyA/viewform Terimakasih"
+            ]
+        },
+        {
+            "tag": "layanan",
+            "patterns": [
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu"
+            ],
+            "responses": [
+                " Terimakasih telah menghubungi halo filkom,Berikut kami kirimkan link layanan akademik filkom UB : https://filkom.ub.ac.id/pendidikan/layanan-akademik/https://filkom.ub.ac.id/pendidikan/layanan-akademik/ Terimakasih "
+            ]
+        },
+        {
+            "tag": "status_wisuda_belum_valid",
+            "patterns": [
+                "fatimah kena statis calon siam status data verifikasi tunggu verifikasi teman masuk periode"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Sesuai prosedur kemahasiswaan Filkom UB, mahasiswa diminta konfirmasi melalui gform pada link berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/\" target=\"_blank https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ Terima Kasih"
+            ]
+        },
+        {
+            "tag": "peminjaman_ijazah",
+            "patterns": [
+                "ijazah daftar",
+                "akbar ijazah bantu",
+                "kait ambil ijazah rumah ambil ambil ambil ijazah sertifikat ambil batas ambil ijazah",
+                "kait ijazah isi proses konfirmasi nomor tera konfirmasi aktif",
+                "data lahir ijazah data lahir data akta lahir ijazah malang data ijazah malang",
+                "periode surat ijazah ambil ijazah ambil",
+                "angkat ambil ijazah wakil prosedur laku ambil lokasi ambil",
+                "kait ijazah foto cek salah tulis isi cari",
+                "cek data siam data ubah data ijazah tekan tombol data salah laku urus",
+                "hubung periode ajar tunggu distribusi prosedur ambil jam ijazah ambil akses ambil isi",
+                "angkat ambil ijazah daftar",
+                "ambil ijazah",
+                "konfirmasi ijazah",
+                "hubung periode ajar tunggu distribusi prosedur ambil jam ijazah ambil akses ambil isi",
+                "izin ijazah daring daftar periode ijazah kerja salah usaha ijazah asli",
+                "akun siam bahasa inggris ijazah bukti",
+                "ijazah ambil laksana",
+                "hakim angkat ijazah ambil nilai ambil nilai langkah bantu",
+                "ambil ijazah ambil ijazah",
+                "ijazah nilai daftar daftar ijazah isi ambil gedung lantai",
+                "izin kait nilai nilai ijazah lihat hasil nilai siam nilai ubah nilai ubah nilai",
+                "dokumen ijazah kait daftar ijazah",
+                "kait ambil ijazah ambil wakil urus",
+                "pemberitahuan proses cetak proses cetak prosedur ambil ijazah ijazah",
+                "tinggal tunggu pemberitahuan kembang ijazah",
+                "periode ambil ijazah cepat pakai berkas usaha ijazah fisik",
+                "bantu ijazah",
+                "tahap ijazah",
+                "angkat ijazah asli daftar malang kondisi arah bantu ijazah asli ambil langsung berkas cari salah",
+                "ijazah ambil bentuk"
+            ],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom,Berikut kami kirimkan link peminjaman ijazah dari akademik kantor pusat :https://ub.ac.id/id/faq/bagaimana-prosedur-peminjaman-ijazah/\" target=\"_blankhttps://ub.ac.id/id/faq/bagaimana-prosedur-peminjaman-ijazah/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "perubahan_judul_skripsi",
+            "patterns": [
+                "urus ubah judul prosedur urus ubah judul laku uji urus daftar uji",
+                "uji tinggal urus dokumen judul ubah izin proses ubah judul uji ubah judul pandu",
+                "angkat infrastruktur signifikan angkat judul dokumen khusus kembang",
+                "isi cek notifikasi judul tulis judul cek ulang pilih temu kode",
+                "filkom verifikasi dosen dosen ubah judul laku judul filkom bantu",
+                "alami problematika salah judul uji tau status salah judul masuk judul ubah judul uji bantu buka akses ubah judul judul bantu",
+                "filkom judul filkom dokumen tulis media judul dosen",
+                "judul",
+                "judul lembar beda judul",
+                "tahap daftar judul film beda isi daftar judul daftar judul filkom ubah isi judul",
+                "kait judul filkom salah bahasa bahasa inggris judul isi dokumen salah",
+                "tulis judul data hubung ajar ajar hasil ajar siswa mata ajar sistem jaring jaring negeri",
+                "judul bahasa inggris data judul judul salah judul",
+                "judul bahasa inggris data judul judul salah judul",
+                "izin surat timbang judul tiket",
+                "judul salah beda lembar lembar dosen saran judul lembar",
+                "alas tekan tombol dosen judul deteksi citra buka sebentar akses komunikasi",
+                "konfirmasi kait judul dosen ketua",
+                "ulang filkom ulang judul filkom filkom",
+                "izin judul ganti judul tahap",
+                "izin timbang judul tanda tangan",
+                "salah judul dokumen filkom judul tulis tanda judul lembar",
+                "ganti judul proses judul proses diskusi dosen ganti judul",
+                "lembar ketidaksesuaian judul",
+                "filkom verifikasi dosen dosen ubah judul laku ubah judul filkom bantu",
+                "angkat laksana alami ubah judul terang ubah judul",
+                "ganti judul",
+                "pesan jam isi isi lengkap tanda tangan judul arah",
+                "judul",
+                "izin ganti judul salah taruh isi judul"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,Perubahan Judul skripsi bisa dilakukan pada saat :- sebelum P2 bisa melalui masing masing dosen pembimbing- setelah P2 bisa langsung unggah pada kolom Judul saat akan melakukan pendaftaran Semhas- setelah ujian sidang bisa saat upload dokumen akhir Terimakasih"
+            ]
+        },
+        {
+            "tag": "tidak_bisa_mengikuti_uas_luring_dan_terpadu",
+            "patterns": [],
+            "responses": [
+                "Terima Kasih telah menghubungi Halo FIlkom, Berdasar arahan panitia UAS Filkom 2021-2 Prasyarat tidak bisa mengikuti UAS Luring (Informasi ini tidak boleh disebar ke mahasiswa lain) :- Surat Keterangan Sakit dari Rumah Sakit terdekat, atau- Surat Tugas tingkat Fakultas/ Universitas, atau- Surat Keterangan Orang Tua beserta alasan (wajib materai) -&gt; jika memungkinkan akan dilaksanakan UAS Daring sesuai jadwal UAS MK tersebut Surat tersebut di atas bisa disampaikan pada tiket ini Terimakasih"
+            ]
+        },
+        {
+            "tag": "skl_dan_transkrip_sementara",
+            "patterns": [
+                "filkom program studi teknik izin kena nilai dokumen dokumen kerja tunggu"
+            ],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,- Untuk permintaan SKL dimohon menghubungi WA Center Yudisium sembari kami infokan kepada operator juga- Transkrip https://bit.ly/TranskripNilaiFilkom\" target=\"_blank http://bit.ly/Transkrip Nilai Fikom Terima Kasih"
+            ]
+        },
+        {
+            "tag": "revisi_skripsi",
+            "patterns": [
+                "tanda tangan ketua departemen lembar libur tanda tangan dosen langsung isi lembar dokumen berita acara uji",
+                "dispensasi ketua departemen sedia akses",
+                "akses ketua departemen akses alih halaman gambar",
+                "lembar tanda tangan ketua departemen daftar tinggal tunggu tanda tangan",
+                "tanda tangan ketua departemen",
+                "izin status tanda tangan ketua departemen tahap departemen tiket balas berkas tahap departemen",
+                "ketua departemen",
+                "tanda tangan ketua departemen lembar tanda tangan dosen dosen hubung batas dokumen tinggal sebentar",
+                "izin berkas izin laksana tulis berkas izin lembar izin dosen dosen tanda tangan ketua departemen izin sekretaris departemen izin arah imam bantu arah",
+                "konfirmasi lembar ulang ketua departemen",
+                "tanda tangan ketua departemen",
+                "status ketua departemen",
+                "tanda tangan ketua departemen kena dasar atur konfirmasi ulang konfirmasi bantu data putra",
+                "lembar tanda tangan ketua departemen izin umpan",
+                "balas tanda tangan ketua departemen lembar",
+                "izin tanda tangan ketua departemen cepat besok berkas berkas tanda tangan ketua departemen besok bantu",
+                "dokumen tulis tulis berkas tanda tangan ketua departemen lembar tanda tangan tanda tangan lembar ulang uji dokumen rabu besok masuk bantu",
+                "kait proses ketua departemen lembar uji daftar",
+                "izin tanda tangan ketua departemen",
+                "lembar ketua departemen",
+                "izin konfirmasi berkas ketua departemen proses",
+                "ketua departemen penuh",
+                "tanda tangan dosen dosen tanda tangan ketua ketua departemen tanda tangan lembar",
+                "izin isi tanda tangan ketua departemen lembar saran balas dokumen bantu besok genap dokumen bantu",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "proses tanda tangan ketua departemen lembar",
+                "lembar ketua departemen hapus dokumen"
+            ],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom,Mahasiswa pasca Ujian Skripsi bisa memproses :1 Pengajuan ttd dosen pembimbing Pengajuan validasi lembar pengesahan pada ketua Departemen melalui link layanan akademik Mahasiswa unggah dokumen akhir yg telah divalidasi oleh Ketua Departemen melalui filkom apps (tombol upload dokumen akhir) Terimakasih"
+            ]
+        },
+        {
+            "tag": "kip_k",
+            "patterns": [
+                "arah kait",
+                "aktif",
+                "putra niat bantu ukt tera harap bantu ukt penuh uang keluarga turun",
+                "laku",
+                "izin daftar jalur mandiri keluarga milik milik berkas berkas",
+                "daftar daftar",
+                "cari tau status",
+                "bayar ukt calon bayar ukt gratis berkas",
+                "buka jalur mandiri",
+                "buka jalur mandiri",
+                "nilai isi",
+                "lancang daftar daftar ukt baca artikel tulis daftar kosong angkat salah",
+                "menang web menang menang materi dana",
+                "sistem bayar bayar",
+                "nilai",
+                "buka",
+                "izin paham siam tera",
+                "jalur mandiri bayar ukt uang pangkal milik kartu keluarga milik kartu bantu",
+                "kena bayar ukt teman",
+                "nilai",
+                "kait ijazah nilai ijazah nilai prosedur nilai nilai",
+                "bantu biaya didik anak",
+                "izin uang bayar ukt bayar ukt",
+                "masuk jalur putus aktif aktif gedung konsultasi daftar ulang aktif",
+                "nilai nilai",
+                "salah bayar cetak dokumen",
+                "bahagia kait",
+                "ukt",
+                "ganti bayar ganti ganti mata isi mata data",
+                "daftar buka"
+            ],
+            "responses": [
+                "Sampai saat ini kami masih mengikuti Panduan KIP Kuliah dari Kemdikbud yang dapat diakses di tautan berikut https://kip-kuliah.kemdikbud.go.id/panduan\" target=\"blankhttps://kip-kuliah.kemdikbud.go.id/panduan. Bahwa saat ini KIP-Kuliah dikhususkan untuk calon mahasiswa/lulusan SMA sederajat tahun berjalan atau lulus dua tahun sebelumnya. Tapi terkait hal ini juga sudah kami tanyakan ke rektorat. Data anda sudah kami simpan. Akan kami hubungi jika ada perubahan informasi/ketentuan lebih lanjut. Terima kasih  "
+            ]
+        },
+        {
+            "tag": "layanan",
+            "patterns": [
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu",
+                "kait cetak filkom surat filkom liat surat",
+                "izin siam periode langkah laku tunggu",
+                "isi hapus siam",
+                "halaman web akses",
+                "putra salah angkat proses ijazah laku ambil berkas laku biaya taman pondok jati taman coba hubung biaya rekening rekening beda non reguler isi bank mandiri",
+                "isi ulang",
+                "akses buka proses",
+                "daftar sidang sedia surat surat alamat isi",
+                "uji dokumen kait daftar laksana batas daftar teknis daftar daftar siam siam buka akses kait kait artikel teknis laku kait",
+                "prosedur undur halaman kosong prosedur undur sedia",
+                "bebas ukt uji isi lembar tunggu tanda ketua departemen arah tiket bebas ukt bantu"
+            ],
+            "responses": [
+                "Berikut kami sampaikan link layanan kemahasiswaan untuk keperluan tiap poin :https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "edaran_skripsi",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi halo filkom,SIlahkan menyesuaikan dengan edaran fakultas berikut :https://drive.google.com/file/d/1qpn3JLt2YWPVdZXcFa3dip792iPFXPxT/viewhttps://drive.google.com/file/d/1qpn3JLt2YWPVdZXcFa3dip792iPFXPxT/view (poin D2) danhttps://filkom.ub.ac.id/2022/06/16/informasi-update-sistem-skripsi-dan-yudisium-fakultas-ilmu-komputer-universitas-awijaya/https://filkom.ub.ac.id/2022/06/16/informasi-update-sistem-skripsi-dan-yudisium-fakultas-ilmu-komputer-universitas-awijaya/ (poin no 3) Terimakasih"
+            ]
+        },
+        {
+            "tag": "pengajuan_nilai_praktikum",
+            "patterns": [
+                "nilai struktur data nama"
+            ],
+            "responses": [
+                "Berikut kami kirimkan link layanan pengajuan nilai praktikum Filkom UB :https://docs.google.com/forms/u/3/d/1xQjJhWAdUx0SrE0pvTVKyxifwK4nVx5pUNdewjZHgWk/edit?usp=drive_webhttps://docs.google.com/forms/u/3/d/1xQjJhWAdUx0SrE0pvTVKyxifwK4nVx5pUNdewjZHgWk/edit?usp=drive_web Terimakasih"
+            ]
+        },
+        {
+            "tag": "kkn_2020",
+            "patterns": [
+                "laksana tanggal baca giat tulis acara jam jam laku izin dosen filkom mundur",
+                "alaikum dasar resmi web filkom laksana tanggal tanggal milik izin khusus penuh alaikum",
+                "angkat izin kena malang daring bijak",
+                "laku daftar tanggal tera laku giat tunggu",
+                "surat ambil artikel id id tata salah nilai tanggal rupa acara jalan malang tanggal",
+                "gratia teknik cuti izin daftar",
+                "angkat giat filkom malang alas visa ajar urus isi surat terang dispensasi",
+                "kena tanggal putus pulang rumah jakarta dadak kena tanggal kondisi alami uang malang giat tanggal",
+                "izin kelompok"
+            ],
+            "responses": [
+                "Sosialisasi : https://filkom.ub.ac.id/2022/06/23/pengumuman-jadwal-sosialisasi-danpembekalan-kkn-secara-luring-tahun-2022/\" target=\"blankhttps://filkom.ub.ac.id/2022/06/23/pengumuman-jadwal-sosialisasi-dan pembekalan-kkn-secara-luring-tahun-2022/ Tata tertib : https://kkn-filkom.ub.ac.id/article/tata-tertib-pembekalan-kkn-filkom-2022\" target=\"_blankhttps://kkn-filkom.ub.ac.id/article/tata-tertib-pembekalan-kkn-filkom-2022 Terimakasih"
+            ]
+        },
+        {
+            "tag": "pendaftaran_seminar_hasil_ujian_skripsi_filkom_ub",
+            "patterns": [
+                "dosen daftar hasil alternatif bantu",
+                "ringan ukt hasil",
+                "rabu laksana hasil dosen uji dokumen dosen uji hasil dokumen dokumen dosen dokumen",
+                "salah daftar hasil bebas sumbang dana masuk uang gedung uang ukt batas daftar tinggal sebentar lunas uang gedung dana hasil bantu",
+                "izin daftar hasil daftar daftar ulang",
+                "konfirmasi hasil dosen dosen",
+                "isi nilai hasil masuk",
+                "daftar hasil kritis daftar akses batas filkom batas",
+                "bantu buka sisa ukt proses hasil sidang",
+                "kait status verifikasi hasil",
+                "kait prosedur daftar hasil nilai mata nilai prosedur",
+                "salah independen laksana uji hasil nilai daftar proses nilai bantu nilai daftar",
+                "balas bantu hasil tunda hasil habis",
+                "status berkas tunggu uji status verifikasi hasil uji proses status",
+                "kait laksana hasil tugas selenggara hubung giat tinggal konfirmasi laksana konfirmasi",
+                "izin kait dokumen hasil verifikasi",
+                "kait sisa total bank siam bebas bebas ukt daftar hasil",
+                "konsultasi daftar hasil kontak hubung konsultasi",
+                "izin konfirmasi kait lembar nilai kelompok anggota iman lembar nilai hasil proses hasil dosen uji konfirmasi lembar nilai lembar kait salah",
+                "angkat daftar status daftar verifikasi status filkom verifikasi hasil uji proses verifikasi",
+                "angkat kait hasil daftar hasil daftar angkat tiket filkom daftar",
+                "daftar hasil angkat proses arah",
+                "hubung dosen saran hubung ulang hasil dosen kait bawa berkas kait presentasi",
+                "verifikasi daftar hasil batas daftar bantu verifikasi",
+                "ganti dokumen salah dokumen status hasil",
+                "isi daftar hasil kerja balas",
+                "prosedur ringan ukt laksana hasil tinggal tunggu hasil tunggu sidang uji ringan studi prosedur",
+                "masuk isi verifikasi data hasil tunda masuk",
+                "laksana hasil berita acara nilai proses",
+                "kait kerja kelompok proses dosen daftar hasil"
+            ],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom, Pendaftaran Semhas/ Ujian skripsi FIlkom UB :1 wajib mendaftar pada akun filkom apps masing masing2 wajib submit Form layanan akademik poin 15 (cek deskripsi Form) perihal semhas https://filkom.ub.ac.id/pendidikan/layanan-akademik/https://filkom.ub.ac.id/pendidikan/layanan-akademik/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "nilai_pkm__kkn",
+            "patterns": [],
+            "responses": [
+                "wa'alaikumussalam Sekedar menginformasikan bahwa nilai Anda adalah B (3.0)Dikarenakan pada semester 2021-2 Anda sudah menempuh 21 sks sedangkan sks MK PKM (KKN) adalah 4 sks, maka Anda bisa entry KRS PKM pada semester berikutnya Terimakasih"
+            ]
+        },
+        {
+            "tag": "psik__permasalahan_telah_diproses_tiket_ditutup",
+            "patterns": [],
+            "responses": [
+                "Tiket kami tutup karena permasalahan telah terselesaikan. Terima kasih telah menghubungi Halo FILKOM"
+            ]
+        },
+        {
+            "tag": "nilai_mbkm_belum_keluar_20212",
+            "patterns": [
+                "alami nilai tulis web merdeka nilai nilai tulis seleksi merdeka data hubung bantu salah data nilai bantu harap alami rupa seleksi"
+            ],
+            "responses": [
+                "Selamat Pagi,Bagi mahasiswa yang pada semester genap 2021/2022 lalu juga mengikuti kegiatan MBKM maka nilai IPK yang tertera pada sistem dikti adalah nol. Hal ini dikarenakan Evaluasi Akhir Semester (EAS) belum dilaksanakan sehingga nilai belum bisa diinputkan."
+            ]
+        },
+        {
+            "tag": "perpanjangan_skripsi",
+            "patterns": [
+                "sap izin kait proses kerja prosedur"
+            ],
+            "responses": [
+                "Selamat siang Evaluasi Akhir Semester bagi mahasiswa yang memprogram skripsi adalah sebagai berikut (mengacu pada edaran Dekan No 5582/UN10.F15/PP/2020) : Mahasiswa yang telah melakukan Pendaftaran Seminar Hasil tetapi belum melakukan Seminar Hasil dan Sidang Skripsi maka dapat diberikan perpanjangan secara otomatis pada Semester berikutnya Mahasiswa yang telah menyelesaikan Progres P2 (dengan nilai &gt;= 75) maka dapat diberikan perpanjangan 1 semester secara otomatis pada Semester berikutnya, jika sebelumnya belum mendapatkan perpanjangan Mahasiswa yang telah menyelesaikan Progres P1 (dengan nilai &gt;= 75) maka dapat diberikan perpanjangan 1 semester pada Semester berikutnya, jika mendapatkan persetujuan dari pembimbing skripsi secara manual (pembimbing memberikan persetujuan melalui FILKOM Apps pada periode Evaluasi Akhir Semester)Mahasiswa yang belum menyelesaikan Progres P1 dan atau tidak memenuhi sesuai ketentuan 1 sampai 3 maka dinyatakan Gagal dan harus mengulang proses pengerjaan skripsi dari awal (pra-proposal). Evaluasi Akhir Semester akan dilaksanakan pada batas akhir Semester Aktif Terima kasih"
+            ]
+        },
+        {
+            "tag": "perpanjangan_masa_studi_filkom_2022_2023_ganjil",
+            "patterns": [],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom, Mahasiswa bisa segera mengisi Form perpanjangan berikut :https://docs.google.com/forms/d/1ESYZRIjLZJAHMxWCZgJQsiiT0uODi8RM_UVvoqdfVSI/edithttps://docs.google.com/forms/d/1ESYZRIjLZJAHMxWCZgJQsiiT0uODi8RM_UVvoqdfVSI/ Terimakasih"
+            ]
+        },
+        {
+            "tag": "alur_pasca_ujian_skripsi",
+            "patterns": [
+                "dokumen uji dokumen dokumen salah lembar tanda tangan dosen ubah periksa bijak"
+            ],
+            "responses": [
+                "Panduan mahasiswa telah lulus Ujian Skripsi ;1 Mahasiswa melakukan revisi sesuai arahan dari dosen majlis Ujian Skripsi serta permintaan ttd Lembar Pengesahan kpd Pembimbing Mahasiswa mengajukan validasi Lembar Pengesahan kpd Departemen melalui link layanan akademik poin no 21(filkom apps gt;pendidikan &gt;layanan akademik)3 Mahasiswa upload dokumen akhir pada tombol yg tertera pada filkom apps masing masing 4 Mahasiswa melakukan pendaftaran yudisium pada filkom apps masing masing 5 Mahasiswa konfirmasi ke WA center yudisium (081132007577) jika status filkom apps sudah penjadwalan yudisium agar dimasukkan ke dalam grup WAG yudisium periode yang ada 6 Operator yudisium akan konfirmasi terkait draft transkrip kpd mahasiswa (pernyataan mahasiswa) 7 Nilai dientri oleh petugas yudisium (mohon konfirmasi ke WA center yudisium secara berkala jika poin no 6 sudah terlaksana)8 Mahasiswa unggah kelengkapan yudisium dan wisuda pada SIAM jika nomor 7 sudah terlaksana Terimakasih"
+            ]
+        },
+        {
+            "tag": "mhs_kritis_ujian_sblm_21072022_yudisium",
+            "patterns": [],
+            "responses": [
+                "Terimakasih telah menghubungi HaloFilkom,-Bagi mahasiswa kritis (2014 &amp; 2015) yang telah habis masa studi dan telah melaksanakan Ujian Skripsi s.d batas yang telah ditentukan oleh Fakultas pada periode 2021-Genap ini, maka secara otomatis diikutkan peserta Yudisium pada periode SK 2021-Genap menyesuaikan dengan edaran dekan https://filkom.ub.ac.id/2022/06/16/informasi-update-sistem-skripsi-dan-yudisium-fakultas-ilmu-komputer-universitas-awijaya/https://filkom.ub.ac.id/2022/06/16/informasi-update-sistem-skripsi-dan-yudisium-fakultas-ilmu-komputer-universitas-awijaya/-Mahasiswa tetap diwajibkan pengajuan pembebasan UKT pada ticket HaloFilkom perihal Keuangan sebagai antisipasi keluarnya tagihan secara mendadak (Jika tagihan by system TIK Pusat (2022-Ganjil) muncul lebih awal saat masa transisi semester, SK Internal Fakultas akan diajukan kepada bagian keuangan untuk pembebasan UKT mhs pada smt berikutnya 2022-Ganjil)-Mahasiswa tetap diwajibkan memproses persyaratan yudisium dan wisuda segera mungkin pada akun filkom apps dan SIAM masing masing untuk membantu proses berikutnya (penerbitan SKL dll)-Mahasiswa yang belum menyelesaikan berkas kelengkapan yudisium (filkom apps &amp; SIAM) tidak bisa menerima berkas SKL maupun Ijazah/ Tranksrip Terimakasih"
+            ]
+        },
+        {
+            "tag": "ujian_skripsi_20212__pendaftaran_yudisium_non_kritis_20212_20221",
+            "patterns": [],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom, Bagi mahasiswa yang telah melaksanakan ujian skripsi melebihi tanggal 21 Juli 2022 tidak diakui sebagai pendaftar yudisium periode 2021-Genap (sesuai edaran dekan), untuk progres berikutnya mahasiswa :- Memastikan perihal UKT di periode berikutnya (2022-Ganjil) dengan cara mengisi tiket baru perihal/ help topic : keuangan(angsuran, penundaan, dll)- Set KRS Skripsi pada smt 2022- Ganjil- Segera melakukan pendaftaran yudisium pada Filkom Apps dan SIAM Terimakasih"
+            ]
+        },
+        {
+            "tag": "templates_dtif",
+            "patterns": [],
+            "responses": [
+                "Terima Kasih telah menghubungi halo filkom,Berikut kami kirimkan link layanan akademik terkait template DRIFT (PKL, Skripsi dll) ; https://s.ub.ac.id/templates-jtifhttps://s.ub.ac.id/templates-jtif Terimakasih"
+            ]
+        },
+        {
+            "tag": "validasi_wisuda__jurnal_toefl_ti",
+            "patterns": [],
+            "responses": [
+                "Mohon mahasiswa bisa mengisi &amp; menyesuaikan dengan Form Layanan Kemahasiswaan ;https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/ (validasi data wisuda) Terimakasih"
+            ]
+        },
+        {
+            "tag": "sapaan",
+            "patterns": [
+                "halo",
+                "selamat siang",
+                "selamat malam",
+                "selamat pagi",
+                "salam"
+            ],
+            "responses": [
+                "Halo, saya disini HaloFILKOM Bot akan membantu anda dalam menjawab pertanyaan anda untuk urusan kemahasiswaan dan akademik."
+            ]
+        },
+        {
+            "tag": "penutup",
+            "patterns": [
+                "terima kasih",
+                "menjawab",
+                "sudah menjawab",
+                "cukup"
+            ],
+            "responses": [
+                "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day."
+            ]
+        },
+        {
+            "tag": "no_response",
+            "patterns": [],
+            "responses": [
+                "Pertanyaan belum saya kenali... silahkan menghubungi unit terkait untuk menjawab pertanyaan tersebut di HaloFILKOM. Anda juga dapat menambahkan pertanyaan anda pada <a href='https://s.ub.ac.id/tanyafilkombot' target='_blank'>laman berikut</a> untuk membantu mengembangkan sistem ini"
+            ]
+        }
+    ]
+}
